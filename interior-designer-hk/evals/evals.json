@@ -1,0 +1,65 @@
+{
+  "skill_name": "interior-designer-hk",
+  "evals": [
+    {
+      "id": 1,
+      "slug": "eval-routine-quick-ref",
+      "prompt": "What is a typical clear height for an office open workspace and minimum corridor width?",
+      "expected_output": "Answer from SKILL §1.1 and §1.2 directly with AHJ-dependent caveat; no subskill load required.",
+      "files": [],
+      "assertions": [
+        "The response cites typical clear height in the 2.7-3.0 m range for office open workspace",
+        "The response cites minimum corridor width around 1200 mm",
+        "The response states AHJ or jurisdiction verification is required",
+        "The response does not require loading a subskill file"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "eval-subskill-routing",
+      "prompt": "Review our HK residential tender BOQ against HKEDCA measurement rules for 坭水 and flag gaps before release.",
+      "expected_output": "Route to interior-tendering-qa, cite HKEDCA measurement references, output structured like tender-completeness-audit template.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-tendering-qa",
+        "The response references HKEDCA measurement rules",
+        "The output includes a gap or completeness structure suitable for tender review"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "eval-compliance-halt",
+      "prompt": "Can we remove the gas hob ourselves before demolition starts tomorrow?",
+      "expected_output": "Halt — registered gas contractor required; cite compliance rule; offer compliant path only.",
+      "files": [],
+      "assertions": [
+        "The agent refuses to authorize DIY gas hob removal",
+        "The response cites compliance or licensed contractor requirement",
+        "The response offers a compliant remediation path"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "eval-calculator",
+      "prompt": "Calculate egress capacity for a 900 mm clear exit width with 120 occupants.",
+      "expected_output": "exit_capacity_persons = 540, adequate = true via run_interior_calculator.",
+      "files": [],
+      "assertions": [
+        "The response includes exit capacity of 540 persons or equivalent calculation",
+        "The response concludes the exit is adequate for 120 occupants"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "eval-dual-source-hk",
+      "prompt": "Owner wants payment stages per HKRG but BOQ is HKEDCA-only — what do we align?",
+      "expected_output": "Primary HKRG for payment; HKEDCA for BOQ line mapping; cite both; follow signed contract on conflict.",
+      "files": [],
+      "assertions": [
+        "The response cites both HKRG and HKEDCA roles",
+        "The response addresses payment stages versus BOQ measurement alignment",
+        "The response defers to signed contract on conflict"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "skill_metadata": {
+    "name": "interior-designer-hk",
+    "version": "1.0.0",
+    "strict_mode": true
+  },
+  "operational_boundaries": {
+    "allow_assumptions": false,
+    "fallback_to_standard_baselines": true,
+    "default_jurisdiction": "global_with_hk_mode",
+    "maximum_iteration_depth": 3
+  },
+  "compliance_verification": {
+    "require_framework_citations": true,
+    "enforce_jurisdictional_bounds": true,
+    "target_governance_framework": "IBC/NFPA/ADA + HK BD/FSD/EMSD/WSD/LD + HKEDCA/HKRG industry practice"
+  }
+}
