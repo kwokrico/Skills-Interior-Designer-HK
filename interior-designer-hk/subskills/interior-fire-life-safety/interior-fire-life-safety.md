@@ -94,6 +94,7 @@ Use for interior fire strategy, egress checks, compartment interface, and sprink
 ## Auto-Chain Directives (Deterministic Schema)
 | Trigger | Chain | Output format |
 |---|---|---|
+| Material schedule DR-FD or certified fire ironmongery line appears | `interior-material-procurement` | `SCHEDULE FD LINE -> CERTIFIED SET REQUIREMENTS -> BLOCK APPEARANCE-ONLY SWAP` |
 | Occupancy load or accessibility requirement appears | `interior-statutory-compliance` | `ASSUMPTIONS -> COMPLIANCE GAP LIST -> REQUIRED CODE CHECKS` |
 | Ceiling, ducts, sprinklers, detector conflict appears | `interior-mep-clash-detection` | `CLASH MATRIX -> PRIORITY ORDER -> RESOLUTION OPTIONS` |
 | As-built deviation impacts egress intent | `interior-site-supervision` | `FIELD CHECKLIST -> SI DRAFT POINTS -> DRAWING UPDATE NOTES` |

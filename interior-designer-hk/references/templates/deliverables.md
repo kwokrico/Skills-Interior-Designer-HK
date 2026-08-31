@@ -32,6 +32,7 @@ Master index for Phase 4 artifact generation. Use the **standalone file** when o
 | Good-Better-Best VE comparison | [`ve-comparison.md`](ve-comparison.md) | `interior-value-engineering` |
 | Compliance gap memo | [`compliance-gap-memo.md`](compliance-gap-memo.md) | `interior-statutory-compliance` |
 | HKRG adoption boilerplate | [`hkrg-adoption-boilerplate.md`](hkrg-adoption-boilerplate.md) | `interior-site-supervision` / `interior-handover-dlp` |
+| Material schedule / 物料規格表 | [`material-schedule.md`](material-schedule.md) | `interior-material-procurement` |
 
 **Artifact IDs:** SI-### · SNAG-### · RFI-### · VO-### · ADD-### (see [`operational.md`](../operational.md)).
 
@@ -138,6 +139,8 @@ Master index for Phase 4 artifact generation. Use the **standalone file** when o
 ---
 
 ### 3.5 FF&E schedule
+
+> **vs material schedule:** Use standalone [`material-schedule.md`](material-schedule.md) for fixed finishes, joinery substrates, sanitaryware, lighting, doors, and wet systems. Use this FF&E table for **loose furniture** and freestanding pieces.
 
 **Project:**  
 **Issue:** Rev ___

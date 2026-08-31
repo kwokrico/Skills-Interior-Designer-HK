@@ -39,6 +39,18 @@ Use for cabinetry/joinery technical resolution including carcass logic, hardware
 1. Do not finalize without dimensional coordination to site conditions.
 2. For bespoke components, require detail at 1:10 or 1:5.
 3. Coordinate visible interfaces with `interior-interface-detailing`.
+4. HK residential elev scheme: continuous elev numbers matching P1 bubbles; tags L/S/K/B; EQ only when intentional — see [`hk-residential-mini-tender-set.md`](../../references/cases/hk-residential-mini-tender-set.md).
+5. If joinery is bid-critical and only 1:50 A4 elevations exist, flag LOD gap and require 1:20/1:5 before release (chain `interior-tendering-qa`).
+6. Call carcass/face (e.g. 耐火板 / 裝飾耐火板) on both plan tag and elevation; floating units need support/load note.
+
+## Reference Table: Tender elevation QA (mini-set)
+| Check | Pass criteria |
+|---|---|
+| Elev numbering | Continuous across rooms; matches P1 bubbles |
+| Tag alignment | L/S/K/B on elev matches P1 |
+| EQ bays | Equal only where design intends |
+| Floating carcass | Support / fixing called |
+| Fire-rated face / FD | Chain `interior-fire-life-safety` when rated |
 
 ## HK Local Practice (HKEDCA)
 
@@ -101,9 +113,11 @@ Use for cabinetry/joinery technical resolution including carcass logic, hardware
 |---|---|---|
 | Joinery termination detail remains unresolved | `interior-interface-detailing` | `EDGE CONDITION -> JOINT DETAIL OPTIONS -> FINISH COORDINATION NOTES` |
 | Veneer/hardware availability or lead-time issue appears | `interior-material-procurement` | `SUPPLY RISK -> SUBSTITUTE OPTIONS -> PROGRAM IMPACT` |
+| Material schedule CB/HW/DR (non-FD) carcass, HPL, or hardware lines need detailing | `interior-material-procurement` | `SCHEDULE LINE -> CARCASS/FACE/HW SPEC -> OR-EQUAL CHECK` |
 | Mockup review or installation QA sequencing is needed | `interior-site-supervision` | `MOCKUP CHECKLIST -> SITE QA STEPS -> DEFECT PREVENTION NOTES` |
 | MEP rough-in incomplete but joinery pressured | `interior-mep-clash-detection` | `HOLD POINT -> REQUIRED MEP SIGNOFF -> REVISED PROGRAMME` |
 | Floor level/stack conflicts at door threshold | `interior-thickness-build-up` | `BUILD-UP ADJUSTMENT -> FRAME SILL DETAIL -> RE-CHECK` |
+| Elev LOD insufficient for tender pricing | `interior-tendering-qa` | `LOD GAP LOG -> 1:20/1:5 REQUIREMENT -> HOLD RELEASE` |
 
 ## Parent references
 
@@ -112,4 +126,5 @@ Load from parent references/ when needed (one hop):
 * [compliance.md](../../references/compliance.md) — non-negotiable rules
 * [domain_terms.json](../../references/domain_terms.json) — vocabulary
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
+* [hk-residential-mini-tender-set.md](../../references/cases/hk-residential-mini-tender-set.md) — elev numbering + joinery tags
 

@@ -36,10 +36,29 @@ Use for pre-tender quality checks to ensure a complete and biddable interior pac
 | Schedules | Door, finishes, fixtures, and hardware complete |
 | Specification | Material/system standards clearly stated |
 
+## HK residential mini drawing set (P0–P7)
+
+Case hub: [`hk-residential-mini-tender-set.md`](../../references/cases/hk-residential-mini-tender-set.md).  
+Audit template: [`tender-completeness-audit.md`](../../references/templates/tender-completeness-audit.md).
+
+### Reference Table: Mini-set sheet completeness
+| Sheet | Required |
+|---|---|
+| P0 現狀平面圖 | Issued; not a substitute for site measure |
+| P1 設計平面圖 | Joinery tags L/S/K/B; elev bubbles; `自購` marked |
+| P2 地板窗台物料標示圖 | Hatch legend ↔ schedule codes |
+| P3 天花/燈具工程標示圖 | Symbol legend; `+H` heights; AC niche notes |
+| P4–P7 room elevations | Continuous elev nos.; materials match P1 tags |
+| Schedules + BOQ/HKRG | Not satisfied by drawings alone |
+
+### Gap QA (flag before release)
+Door/ironmongery schedule · consolidated 物料規格表 · power/ELV layout · 1:20/1:5 for high-risk bespoke joinery · waterproofing build-up sheet · BOQ/HKRG quote attachment · MEP depths beyond RCP notes — full register in the case hub.
+
 ## Decision Rules
 1. Missing critical details must be flagged before release.
 2. Ensure drawing/spec/schedule terminology is aligned.
 3. Route unresolved buildability issues to relevant technical sub-skills.
+4. For HK residential P0–P7 packages, load the mini-set case hub and run gap QA before “release for tender.”
 
 ## HK Local Practice (HKEDCA)
 
@@ -127,6 +146,12 @@ Use for pre-tender quality checks to ensure a complete and biddable interior pac
 ## Auto-Chain Directives (Deterministic Schema)
 | Trigger | Chain | Output format |
 |---|---|---|
+| Owner-supply sheets on material schedule incomplete vs quote | `interior-material-procurement` | `OWNER-SUPPLY GAP LIST -> QUOTE CROSS-CHECK -> DELIVERY HOLD POINTS` |
+| P2 hatch / P1 joinery tags need 物料規格表 | `interior-material-procurement` | `CODE MAP -> SCHEDULE DRAFT -> OWNER-SUPPLY (自購) SPLIT` |
+| P3 lighting legend / lux or IP unclear | `interior-lighting-science` | `LEGEND -> LAYER INTENT -> WET IP / ACCESS NOTES` |
+| Bespoke joinery only at 1:50 or tag/elev mismatch | `interior-millwork-technical` | `LOD GAP -> 1:20/1:5 REQUIREMENT -> TAG ALIGNMENT` |
+| P3 heights / AC niche / wet ceiling clash | `interior-mep-clash-detection` | `HEIGHT/ZONE MAP -> CLASH OPTIONS -> COORDINATION NOTES` |
+| Kitchen FD / fire door callout on plan or elev | `interior-fire-life-safety` | `RATING CHECK -> CERTIFIED SET -> NON-COMPLIANT SWAP BLOCKED` |
 | Bid exceeds target budget | `interior-value-engineering` | `COST GAP SUMMARY -> VE OPTIONS -> RECOMMENDED TRACK` |
 | Code annotation is unresolved in tender set | `interior-statutory-compliance` | `CODE ISSUE LOG -> REQUIRED NOTES -> DOCUMENT CORRECTIONS` |
 | Pre-award SI/RFI response workflow must be defined | `interior-site-supervision` | `SI/RFI PROTOCOL -> RESPONSE SLA -> SITE COMMUNICATION MATRIX` |
@@ -139,4 +164,6 @@ Load from parent references/ when needed (one hop):
 * [compliance.md](../../references/compliance.md) — non-negotiable rules
 * [domain_terms.json](../../references/domain_terms.json) — vocabulary
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
+* [hk-residential-mini-tender-set.md](../../references/cases/hk-residential-mini-tender-set.md) — P0–P7 conventions + gap register
+* [tender-completeness-audit.md](../../references/templates/tender-completeness-audit.md) — audit artifact
 

@@ -61,11 +61,22 @@ Use for detecting and resolving physical/service clashes between ceiling intent 
 | Corridor bulkhead | Drain drop vs ceiling level |
 | AC | Refrigerant vs electrical vs casing |
 
+### Reference Table: Mini-set P3 coordination cues
+| Cue on drawing | Action |
+|---|---|
+| Clear height `+H` by zone | Compare living gypsum vs wet alu-strip soffits |
+| AC niche / bulkhead | Void depth + casing vs lighting/燈槽 |
+| Kitchen/bath alu strip 假天花 | Exhaust + wet downlights + access |
+| Living gypsum + cove | Driver/access vs decorative trough |
+
+Conventions: [`hk-residential-mini-tender-set.md`](../../references/cases/hk-residential-mini-tender-set.md). Flag open MEP depths beyond RCP notes before tender release → `interior-tendering-qa`.
+
 ### HKEDCA decision rules
 1. Concealed works pressure-tested before plaster/tile close.
 2. Do not use door frames as temporary MEP support (`§木工後期`).
 3. Route measurement disputes to `interior-tendering-qa` (`§水電/6`).
 4. Fire alarm isolate (**掛牌**) before works affecting detectors/sprinklers.
+5. Kitchen fire-door callouts on plan/elev → chain `interior-fire-life-safety` (not solved by RCP notes alone).
 
 ## HKEDCA Source Pointers
 | File | Load when |
@@ -99,6 +110,7 @@ Use for detecting and resolving physical/service clashes between ceiling intent 
 | Soffit/joint expression changes after clash resolution | `interior-interface-detailing` | `INTERFACE DETAIL INTENT -> JOINT STRATEGY -> TOLERANCE NOTES` |
 | Ceiling void depth drives false ceiling downgrade | `interior-millwork-technical` | `RCP REVISION -> TROUGH/AC CASING ADJUSTMENT -> COORDINATION NOTES` |
 | BOQ scope for chases/testing unclear | `interior-tendering-qa` | `CLARIFICATION LIST -> RISK ALLOWANCE -> DOCUMENT PATCH` |
+| P3 heights/AC niche unresolved at tender | `interior-tendering-qa` | `MEP DEPTH GAP -> CLARIFICATION OR PROVISIONAL -> HOLD` |
 
 ## Parent references
 
@@ -107,4 +119,5 @@ Load from parent references/ when needed (one hop):
 * [compliance.md](../../references/compliance.md) — non-negotiable rules
 * [domain_terms.json](../../references/domain_terms.json) — vocabulary
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
+* [hk-residential-mini-tender-set.md](../../references/cases/hk-residential-mini-tender-set.md) — P3 heights + wet ceiling zones
 

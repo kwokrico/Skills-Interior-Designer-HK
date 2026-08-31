@@ -4,8 +4,7 @@ description: >
   Activate for ANY professional interior design question across residential, workplace,
   retail, hospitality, and mixed-use fit-outs. Trigger when the query involves:
   planning layouts, anthropometrics, accessibility, occupancy loads, life safety and egress,
-  reflected ceiling plans, MEP coordination, clash detection, materials and finishes,
-  thickness build-up, joinery detailing, millwork, FF&E, lighting metrics (CCT/CRI/UGR/lux),
+  reflected ceiling plans, MEP coordination, clash detection,   materials and finishes, material schedules (物料規格表), thickness build-up, joinery detailing, millwork, FF&E, lighting metrics (CCT/CRI/UGR/lux),
   acoustics (NRC/STC/RT60), tendering QA, value engineering, procurement lead times,
   site supervision, snagging, as-built discrepancies, SI workflows, O&M manuals,
   handover, DLP, and sustainability/wellness (LEED/WELL/BEAM Plus equivalents).
@@ -61,7 +60,7 @@ Phase 1: Ingestion ──► Phase 2: Compliance validate ──► Phase 3: Dom
 
 ### Phase 4: Synthesis and artifact generation
 
-1. Select artifact from [`deliverables.md`](references/templates/deliverables.md) (catalog + inline templates); use standalone files under [`templates/`](references/templates/) when listed (SI, snag, tender audit, VE, compliance gap, HKRG boilerplate).
+1. Select artifact from [`deliverables.md`](references/templates/deliverables.md) (catalog + inline templates); use standalone files under [`templates/`](references/templates/) when listed (SI, snag, tender audit, VE, compliance gap, HKRG boilerplate, material schedule).
 2. Start with the deliverable — no conversational preamble ("Sure, I can help").
 
 ## Sub-skill routing (table)
@@ -72,12 +71,12 @@ Phase 1: Ingestion ──► Phase 2: Compliance validate ──► Phase 3: Dom
 | Statutory, occupancy, accessibility | `interior-statutory-compliance` | Codes, submissions, loads → `subskills/interior-statutory-compliance/interior-statutory-compliance.md` |
 | Ceiling/services clashes | `interior-mep-clash-detection` | RCP, ducts, sprinklers → `subskills/interior-mep-clash-detection/interior-mep-clash-detection.md` |
 | Acoustics | `interior-acoustic-engineering` | NRC, STC/Rw, RT60 → `subskills/interior-acoustic-engineering/interior-acoustic-engineering.md` |
-| Procurement | `interior-material-procurement` | Lead times, dye lots, sourcing → `subskills/interior-material-procurement/interior-material-procurement.md` |
+| Procurement / 物料表 | `interior-material-procurement` | Material schedule, 選料, lead times, dye lots, sourcing → `subskills/interior-material-procurement/interior-material-procurement.md` + [`templates/material-schedule.md`](references/templates/material-schedule.md) |
 | Interfaces / transitions | `interior-interface-detailing` | Joints, thresholds, waterproof → `subskills/interior-interface-detailing/interior-interface-detailing.md` |
 | Build-up / leveling | `interior-thickness-build-up` | Floor/wall stacks, 盪地台 → `subskills/interior-thickness-build-up/interior-thickness-build-up.md` |
 | Joinery / millwork | `interior-millwork-technical` | Cabinets, doors, 假天花 → `subskills/interior-millwork-technical/interior-millwork-technical.md` |
 | Value engineering | `interior-value-engineering` | Cost alternatives, G-B-B → `subskills/interior-value-engineering/interior-value-engineering.md` |
-| Tender QA | `interior-tendering-qa` | BOQ, HKRG quote, completeness → `subskills/interior-tendering-qa/interior-tendering-qa.md` |
+| Tender QA | `interior-tendering-qa` | BOQ, HKRG quote, completeness, HK residential P0–P7 mini-set → `subskills/interior-tendering-qa/interior-tendering-qa.md` + [`cases/hk-residential-mini-tender-set.md`](references/cases/hk-residential-mini-tender-set.md) |
 | Site supervision | `interior-site-supervision` | SI, defects, HK sequence → `subskills/interior-site-supervision/interior-site-supervision.md` |
 | Handover / DLP | `interior-handover-dlp` | O&M, snag, 交收, 驗收 → `subskills/interior-handover-dlp/interior-handover-dlp.md` |
 | Anthropometrics | `interior-anthropometrics-ergonomics` | Reach, inclusivity → `subskills/interior-anthropometrics-ergonomics/interior-anthropometrics-ergonomics.md` |

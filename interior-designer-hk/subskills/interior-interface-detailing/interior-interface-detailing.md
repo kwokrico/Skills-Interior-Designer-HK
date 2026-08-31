@@ -92,6 +92,7 @@ Use for transition and interface details where dissimilar materials meet.
 ## Auto-Chain Directives (Deterministic Schema)
 | Trigger | Chain | Output format |
 |---|---|---|
+| Material schedule WP/AD/wet tile or threshold lines need joint/seal detailing | `interior-material-procurement` | `SCHEDULE WET LINES -> TRANSITION DETAIL -> SEALANT/GROUT NOTES` |
 | Finish level delta creates interface risk | `interior-thickness-build-up` | `LAYER STACK COMPARISON -> LEVEL DELTA -> CORRECTION OPTIONS` |
 | Joinery meets architectural finish with unresolved edges | `interior-millwork-technical` | `JOINERY EDGE CONDITION -> HARDWARE/BUILDABILITY CHECK -> DETAIL ACTIONS` |
 | Field tolerance or SI-based adjustment is needed | `interior-site-supervision` | `SITE CHECK STEPS -> SI BULLET POINTS -> AS-BUILT UPDATE NOTES` |

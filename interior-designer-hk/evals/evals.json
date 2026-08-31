@@ -60,6 +60,46 @@
         "The response addresses payment stages versus BOQ measurement alignment",
         "The response defers to signed contract on conflict"
       ]
+    },
+    {
+      "id": 6,
+      "slug": "eval-material-schedule-hk",
+      "prompt": "Draft a Hong Kong residential material schedule (物料規格表) for a ~36 m² flat fit-out, including owner appliances sheet and soft general notes.",
+      "expected_output": "Route to interior-material-procurement; output structured like material-schedule.md with main columns, owner-supply companion sheet, soft 總則 checklist, and or-equal brand language — not a compliance hard-stop halt.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-material-procurement",
+        "The response includes a material schedule structure with item codes or category columns",
+        "The response includes an owner appliance or owner-supply companion section",
+        "The response uses soft general notes or checklist language (not inventing new hard compliance halts)",
+        "The response phrases brands as typical first pick or or-equal (或同等)"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "eval-mini-tender-set-bid-readiness",
+      "prompt": "Audit this Hong Kong residential tender drawing package for bid readiness: sheets P0 existing plan, P1 design plan with joinery tags L/S/K/B, P2 floor/sill material plan, P3 ceiling/lighting plan, and P4–P7 room elevations only (A4 @ 1:50). Flag what is complete vs still missing before release.",
+      "expected_output": "Route to interior-tendering-qa; cite references/cases/hk-residential-mini-tender-set.md; run P0–P7 completeness plus gap register (door schedule, 物料規格表, power/ELV, 1:20/1:5 bespoke, waterproofing sheet, BOQ/HKRG, MEP depths); chain to procurement/lighting/millwork/MEP/fire as needed; structure like tender-completeness-audit.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-tendering-qa",
+        "The response references the HK residential mini tender set case or P0–P7 sheet checklist",
+        "The response lists bid-readiness gaps beyond the drawing mini-set (e.g. schedules, BOQ, detail LOD)",
+        "The response chains or points to at least one technical subskill when relevant (material-procurement, lighting, millwork, mep, or fire)"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "eval-p2-p1-material-schedule-seed",
+      "prompt": "From a P2 floor hatch legend (SPC living, tile D bath, tile E kitchen, marble threshold F, marble sill G) and P1 joinery tags L1/L2, S1, K1, B1 plus 自購 sofa and dining set, start a 物料規格表 for this HK flat.",
+      "expected_output": "Route to interior-material-procurement; map hatch codes and L/S/K/B tags into schedule lines; place 自購 items on owner-supply companion sheet; cite mini-set conventions; or-equal language where brands TBD.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-material-procurement",
+        "The response maps floor/sill hatch codes into schedule or finishes lines",
+        "The response includes joinery lines or tags aligned to L/S/K/B",
+        "The response puts 自購 items on an owner-supply section and does not price them as contractor supply"
+      ]
     }
   ]
 }

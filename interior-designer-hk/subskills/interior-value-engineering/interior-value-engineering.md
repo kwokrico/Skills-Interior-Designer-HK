@@ -62,6 +62,8 @@ Use for budget alignment through technically valid alternatives that preserve co
 | Trigger | Chain | Output format |
 |---|---|---|
 | VE option requires real lead-time and batch validation | `interior-material-procurement` | `SUPPLY CHECK -> LEAD-TIME DELTA -> ACCEPT/REJECT RATIONALE` |
+| Budget cut on a locked material-schedule line | `interior-material-procurement` | `G-B-B ON SCHEDULE LINE -> OR-EQUAL CHECK -> LEAD-TIME IMPACT` |
+| Need indicative HKD unit-price tiers for schedule/brand VE | `interior-material-procurement` | `LOAD hk-brand-unit-prices -> ENTRY/MID/PREMIUM DELTA -> CONFIRM LIVE QUOTE` |
 | VE change requires reissue or clarification | `interior-tendering-qa` | `DOCUMENT IMPACT LIST -> REISSUE SCOPE -> CLARIFICATION TEXT` |
 | VE option touches code-sensitive element | `interior-statutory-compliance` | `COMPLIANCE RISK -> REQUIRED CHECKS -> CONDITIONAL APPROVAL NOTES` |
 
