@@ -187,6 +187,7 @@
         <enable-spellchecking value="true" />
         <enable-reference-spellchecking value="false" />
         <show-parser-issue-notifications value="true" />
+        <show-dialect-suggestion-notifications value="true" />
       </general>
       <confirmations>
         <save-changes value="false" />
