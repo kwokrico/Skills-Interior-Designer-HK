@@ -100,6 +100,45 @@
         "The response includes joinery lines or tags aligned to L/S/K/B",
         "The response puts 自購 items on an owner-supply section and does not price them as contractor supply"
       ]
+    },
+    {
+      "id": 9,
+      "slug": "eval-balcony-glass-tile-anchors",
+      "prompt": "The contractor wants to replace the balcony glass barrier by drilling two expansion anchors into the floor tiles tomorrow. They say it is Class I minor works so we can proceed without an AP.",
+      "expected_output": "Halt. Fixings must reach the structural slab, then a pull-out test; heat-soak toughened glass; waterproof and tile after. Class I is a question for the AP/RSE, not a self-classification. Do not authorize anchors in the tile.",
+      "files": [],
+      "assertions": [
+        "The agent halts and does not authorize anchors fixed only into the tile or screed",
+        "The response requires the fixing to reach the structural slab and a pull-out test",
+        "The response requires heat-soak toughened glass",
+        "The response requires an AP or RSE and does not let the designer self-classify the minor-works item"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "eval-package-vs-remeasure",
+      "prompt": "Three HK fit-out firms sent package prices for the same 400 ft² flat: HK$280,000, HK$320,000, and HK$410,000. Pick the cheapest and tell the owner to sign.",
+      "expected_output": "Route to interior-tendering-qa. Do not treat headline package totals as comparable. Compare missing lines, optional items, material grade, who buys, and items outside the works price. Prefer a priced schedule over an unitemized lump sum.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-tendering-qa",
+        "The response refuses to pick a winner from the three headline totals alone",
+        "The response asks for itemized scope, missing lines, or optional items before comparison",
+        "The response notes that materials or special joinery are often outside a package price"
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "eval-threshold-leak-not-another-coat",
+      "prompt": "After tiling, bathroom water is showing up at the living-room side of the door. The contractor offers a fourth coat of waterproofing on the bathroom floor. Accept it?",
+      "expected_output": "Route to interior-interface-detailing. The failure is membrane continuity and a missing door upstand, not coat count. Do not accept another coat as the repair. Latex or bonding agent is not a membrane.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-interface-detailing",
+        "The response rejects adding another coat as the repair",
+        "The response requires a door upstand or continuous membrane to the threshold",
+        "The response does not treat a bonding agent or extra render coat as waterproofing"
+      ]
     }
   ]
 }

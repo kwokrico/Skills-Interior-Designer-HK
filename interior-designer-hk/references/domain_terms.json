@@ -100,5 +100,12 @@
   "坭水": "Masonry, screed, waterproofing trade",
   "燈槽": "Cove/light trough in false ceiling; early carpentry item coordinated with RCP",
   "額外工程費": "Additional works charge; HKRG lists trade-specific 另收費 items unless included in quote",
-  "屋苑管理處": "Estate management office; renovation permits, scaffold, 掛牌, neighbour complaint interface"
+  "屋苑管理處": "Estate management office; renovation permits, scaffold, 掛牌, neighbour complaint interface",
+  "MIC": "Modular Integrated Construction 組裝合成. Module walls are often structural — do not demolish; HA drawings can require 釘契 or reinstatement. Quoted wall thicknesses are a case, not every block",
+  "ENF": "National board formaldehyde grade (with E0, added 2021). Not proof a cabinet is odourless; glue, veneer lacquer, and spray paint can dominate. Do not equate with European E0",
+  "士波令": "Concrete spalling with rusting reinforcement. Cover loss is not bar section loss. Repair is an AP/RSE submission, not a skim",
+  "套餐價": "Package / lump-sum fit-out price (一口價). An omission can be treated as given up. Compare quotations on content, not the headline total",
+  "釘契": "Title encumbrance or reinstatement risk if HOS or MIC walls are removed against the approved drawings",
+  "聯辦處": "Joint Office (FEHD, BD, WSD) for water-seepage investigation. A 2026 private-building pilot exists; do not quote days, fees, or fines from unverified transcripts. The professional list is not a government endorsement",
+  "老鼠尾": "A run of cut tiles left at the seen edge. Set out so full tiles land on the visible edge"
 }

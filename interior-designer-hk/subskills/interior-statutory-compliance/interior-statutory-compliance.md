@@ -18,6 +18,7 @@ For physical service conflicts, use `interior-mep-clash-detection` instead.
 | Occupancy, accessibility, code gap list | `interior-statutory-compliance` | — |
 | Travel distance / exit capacity detail | — | `interior-fire-life-safety` |
 | HK pre-start insurance/permits (industry) | This skill + HKEDCA ref | `interior-site-supervision` for execution |
+| 士波令 / 露台玻璃 / MIC / 居屋拆牆 / 釘契 | This skill + `references/structural-and-hos-alerts.md` | Halt per `compliance.md` if AP/RSE or HA approval is missing |
 
 ## Purpose
 Use for statutory checks covering occupancy load, accessibility, and general interior code compliance.
@@ -39,6 +40,7 @@ Use for statutory checks covering occupancy load, accessibility, and general int
 1. If conflict exists, apply stricter requirement unless AHJ grants variation.
 2. Separate assumed values from confirmed values.
 3. Route detail-level physical conflicts to `interior-mep-clash-detection`.
+4. Spalling, balcony barriers, and HOS/MIC wall removal: load `references/structural-and-hos-alerts.md`. Do not diagnose reinforcement, self-classify minor works, or authorize the work. Halt per `compliance.md`.
 
 ## HK Local Practice (HKEDCA)
 
@@ -70,6 +72,7 @@ Use for statutory checks covering occupancy load, accessibility, and general int
 | File | Load when |
 |---|---|
 | `references/hkedca-preconstruction-compliance.md` | Pre-start, permits, insurance |
+| `references/structural-and-hos-alerts.md` | Spalling, balcony glass fixings, MIC/HOS walls, Joint Office pilot (no fines) |
 
 ### HKRG cross-reference
 

@@ -43,6 +43,7 @@ Sourcing strategy, schedule generation, lead-time control, dye-lot consistency, 
 | [`hk-residential-defaults.md`](references/hk-residential-defaults.md) | Typical first pick / or equal |
 | [`hk-brand-unit-prices.md`](references/hk-brand-unit-prices.md) | Indicative HKD unit-price ranges by brand/tier (budget only) |
 | [`general-notes-checklist.md`](references/general-notes-checklist.md) | Soft 總則 (checklist only — not new hard stops) |
+| [`finish-selection-field-notes.md`](references/finish-selection-field-notes.md) | C1/C2 vocabulary, self-levelling failures, SPC vs tile by length of stay |
 
 ## Reference Table: Procurement Control Points
 
@@ -68,6 +69,7 @@ Sourcing strategy, schedule generation, lead-time control, dye-lot consistency, 
 9. Never recommend a substitute without a performance equivalency note.
 10. Highlight programme impact from long-lead slippage.
 11. From P2 hatch legend + P1 joinery tags (L/S/K/B): seed schedule codes; map `自購` to owner-supply sheets — conventions in [`hk-residential-mini-tender-set.md`](../../references/cases/hk-residential-mini-tender-set.md).
+12. C1 vs C2, self-levelling, or SPC versus tile: load `finish-selection-field-notes.md`. Datasheet figures win. Do not copy spoken strengths or HK$/ft² from the field notes. Wet areas are not a “leave it untiled behind the cabinet” saving.
 
 ## Drawing-set → schedule map (HK residential mini-set)
 

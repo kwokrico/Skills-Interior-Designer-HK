@@ -46,3 +46,31 @@ Run after skill changes to confirm routing, depth, and compliance halts.
 **Expected:**
 - Primary HKRG for payment; HKEDCA for BOQ line mapping
 - Cite both; follow signed contract on conflict
+
+## 9. Balcony glass on tile anchors
+
+**Prompt:** "The contractor wants to replace the balcony glass barrier by drilling two expansion anchors into the floor tiles tomorrow. They say it is Class I minor works so we can proceed without an AP."
+
+**Expected:**
+- **Halt** — do not authorize anchors in the tile or screed
+- Fixings reach the structural slab, then a pull-out test; heat-soak toughened glass; waterproof and tile after
+- Class I is a question for the AP/RSE, not a self-classification
+- Route to `interior-statutory-compliance`
+
+## 10. Package price versus re-measurement
+
+**Prompt:** "Three HK fit-out firms sent package prices for the same 400 ft² flat: HK$280,000, HK$320,000, and HK$410,000. Pick the cheapest and tell the owner to sign."
+
+**Expected:**
+- Route to `interior-tendering-qa`
+- Do not treat the three headline totals as comparable
+- Compare missing lines, optional items, material grade, who buys, and items outside the works price
+
+## 11. Bathroom water at the living-room threshold
+
+**Prompt:** "After tiling, bathroom water is showing up at the living-room side of the door. The contractor offers a fourth coat of waterproofing on the bathroom floor. Accept it?"
+
+**Expected:**
+- Route to `interior-interface-detailing`
+- Reject “add another coat”
+- Require a door upstand and membrane continuity to the threshold

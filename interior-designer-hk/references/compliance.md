@@ -23,6 +23,7 @@
 | Typhoon/cyclone signal active for scaffold/WAH | Halt exterior height works |
 | Fire/alarm triggering works without management **掛牌** isolate | Halt until alarm isolate confirmed |
 | Unauthorized demolition or breach of estate renovation approval | Halt; reinstatement per contract |
+| Structural concrete repair (士波令), balcony glass-barrier replacement, or removal of HOS/MIC module walls without AP/RSE and estate or Housing Authority approval | Halt; do not specify the repair, the anchor, or the demolition. Offer the AP/RSE and approval path only |
 | User requests licensed professional sign-off or statutory submission as agent | Halt; state advisory-only boundary |
 | Missing critical inputs when `strict_mode` is true (occupancy, jurisdiction, scale) | Halt; list gaps before analysis |
 

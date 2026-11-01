@@ -294,6 +294,21 @@ START
 ├─ Site coordination, defects, SI drafting, discrepancy resolution?
 │   └─► [interior-site-supervision]
 │
+├─ 套餐價 / 一口價 / optional item / VO / rates without quantities?
+│   └─► [interior-tendering-qa]
+│
+├─ 滲水 / 企缸 / 門腳 / 窗邊漏?
+│   └─► [interior-interface-detailing] (+ [interior-thickness-build-up] only if the question is build-up depth)
+│
+├─ 士波令 / 露台玻璃 / MIC / 居屋拆牆 / 釘契?
+│   └─► [interior-statutory-compliance]
+│
+├─ 生態板 / ENF / 三合一 / 訂造做法?
+│   └─► [interior-millwork-technical]
+│
+├─ C1 / C2 / 自流平 / SPC 定瓷磚?
+│   └─► [interior-material-procurement]
+│
 ├─ HK renovation / 裝修 / 清拆 / 判頭 / site protection / 執漏?
 │   └─► [interior-site-supervision] (+ [interior-statutory-compliance] if permits/insurance)
 │

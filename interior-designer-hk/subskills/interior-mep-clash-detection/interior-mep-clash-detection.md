@@ -89,6 +89,8 @@ Conventions: [`hk-residential-mini-tender-set.md`](../../references/cases/hk-res
 - Trade rules: `HKRG §裝修需知/1.4` (layout before rough-in, 谷磅, EMSD wire colours) + `§1.5` gas — `hkrg-renovation-essentials-trades.md`.
 - Acceptance: `HKRG §驗收指引/2.1–2.3` — `hkrg-self-inspection-handover.md`.
 
+Upstream sediment can show up in a new flat: new internal pipes do not clean a dirty trunk main or roof tank, and flushing only to the stopcock does not either. A point-of-use or incoming pre-filter is local protection and needs a stated certification and cartridge life. That is not a pipework specification, and it is not a reason to skip boiling or a WSD question. Concealed-works rules stay the gates above: layout fixed before rough-in, pressure test before close-up.
+
 ## Region-Switch Notes (HK / Mainland China)
 - Hong Kong mode: coordinate per HKEDCA 水電 sequence; verify EMSD CoP for wiring and WSD for plumbing submissions where applicable.
 - Mainland mode: align with PRC code path and local institute submission requirements.

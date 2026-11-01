@@ -16,6 +16,7 @@ For joinery carcass and hardware, use `interior-millwork-technical` instead.
 | Question type | This skill | Use instead |
 |---------------|------------|-------------|
 | Thresholds, joints, waterproof transitions | `interior-interface-detailing` | — |
+| 滲水 / 企缸 / 門腳 / 窗邊漏 | This skill + `references/leak-path-field-notes.md` | `interior-thickness-build-up` only if the question is stack depth |
 | Total build-up depth / screed stacks | — | `interior-thickness-build-up` |
 | Cabinet scribing / hardware | — | `interior-millwork-technical` |
 | HK paint protection during works | This skill + refs | `interior-site-supervision` for sequence |
@@ -40,6 +41,7 @@ Use for transition and interface details where dissimilar materials meet.
 1. If level mismatch exceeds 3 mm, issue explicit transition detail.
 2. Include movement joint strategy for long runs and dissimilar materials.
 3. Route unresolved level mismatches to `interior-thickness-build-up`.
+4. A leak at a threshold, shower, window, or AC joint: load `references/leak-path-field-notes.md`. Do not answer with “add another coat”. Latex and bonding agent are not membranes. Coat count follows the manufacturer’s sheet, not APP-105.
 
 ## HK Local Practice (HKEDCA)
 
@@ -70,6 +72,7 @@ Use for transition and interface details where dissimilar materials meet.
 |---|---|
 | `references/hkedca-waterproof-transitions.md` | Wet rooms, thresholds, bath frame |
 | `references/hkedca-paint-protection.md` | Paint cycles and interfaces |
+| `references/leak-path-field-notes.md` | Leak paths, false waterproofing tells, door upstand. Depths stay in thickness build-up |
 
 ### HKRG cross-reference
 

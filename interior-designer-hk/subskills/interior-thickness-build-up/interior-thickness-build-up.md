@@ -72,6 +72,8 @@ Use for depth calculations and transition equalization across floor/wall/ceiling
 | `references/hkedca-masonry-screed-waterproof.md` | Screed, waterproof, measurement |
 | `references/hkedca-material-annexes.md` | Standard residential materials |
 
+Leak paths, coat-count traps, and the door upstand (not a second depth table): `interior-interface-detailing` / `references/leak-path-field-notes.md`.
+
 ### HKRG cross-reference
 
 - `HKRG §裝修需知/1.7–1.8` (防水高度, 廚廁台高, 磚余量) + `§1.12` screed before floor — `hkrg-renovation-essentials-trades.md`.

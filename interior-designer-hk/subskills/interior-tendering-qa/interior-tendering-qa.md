@@ -16,6 +16,7 @@ For handover acceptance criteria, use `interior-handover-dlp` instead.
 | Question type | This skill | Use instead |
 |---------------|------------|-------------|
 | Tender completeness, BOQ, HKRG quote | `interior-tendering-qa` | — |
+| 套餐價 / 一口價 / optional item / VO comparison | This skill + `references/quotation-field-traps.md` | — |
 | Buildability detail gaps | Route unresolved to | relevant technical sub-skill |
 | Owner snag walk / 驗收指引 | — | `interior-handover-dlp` |
 | Payment dispute on site | Pair with | `interior-site-supervision` |
@@ -59,6 +60,7 @@ Door/ironmongery schedule · consolidated 物料規格表 · power/ELV layout ·
 2. Ensure drawing/spec/schedule terminology is aligned.
 3. Route unresolved buildability issues to relevant technical sub-skills.
 4. For HK residential P0–P7 packages, load the mini-set case hub and run gap QA before “release for tender.”
+5. Package totals, rates without quantities, optional items, and variations: load `references/quotation-field-traps.md`. Do not treat headline prices as the same scope. HKRG payment stages still govern when the contract adopts HKRG.
 
 ## HK Local Practice (HKEDCA)
 
@@ -129,6 +131,12 @@ Door/ironmongery schedule · consolidated 物料規格表 · power/ELV layout ·
 | File | Load when |
 |---|---|
 | `references/hkrg-standard-quotation-contract.md` | Clauses 1–24, BOQ sections, 保留清單 |
+
+## Field notes (工程師裝修學堂)
+
+| File | Load when |
+|---|---|
+| `references/quotation-field-traps.md` | 套餐價 vs 按量計價, optional items, VO split, items outside the works price |
 
 ## Region-Switch Notes (HK / Mainland China)
 - Hong Kong mode: align to HKRG standard quotation (client contracts) and/or HKEDCA contract outline for trade BOQ; map sections per routing table above.

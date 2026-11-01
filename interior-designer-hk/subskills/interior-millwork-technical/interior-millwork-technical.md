@@ -16,6 +16,7 @@ For site inspection and SI workflow, use `interior-site-supervision` instead.
 | Question type | This skill | Use instead |
 |---------------|------------|-------------|
 | Joinery, cabinets, doors, timber floor tech | `interior-millwork-technical` | — |
+| 生態板 / ENF / 三合一 / 訂造做法 | This skill + `references/joinery-method-and-emissions.md` | — |
 | Interface thresholds at millwork | Pair with | `interior-interface-detailing` |
 | Field defect / SI | — | `interior-site-supervision` |
 
@@ -42,6 +43,7 @@ Use for cabinetry/joinery technical resolution including carcass logic, hardware
 4. HK residential elev scheme: continuous elev numbers matching P1 bubbles; tags L/S/K/B; EQ only when intentional — see [`hk-residential-mini-tender-set.md`](../../references/cases/hk-residential-mini-tender-set.md).
 5. If joinery is bid-critical and only 1:50 A4 elevations exist, flag LOD gap and require 1:20/1:5 before release (chain `interior-tendering-qa`).
 6. Call carcass/face (e.g. 耐火板 / 裝飾耐火板) on both plan tag and elevation; floating units need support/load note.
+7. Board grade versus construction method, cam fittings, and site measure: load `references/joinery-method-and-emissions.md`. Do not equate ENF with “no formaldehyde”, and do not treat cam fittings as equal to a nailed carcass on a long span or in a wet room.
 
 ## Reference Table: Tender elevation QA (mini-set)
 | Check | Pass criteria |
@@ -89,6 +91,7 @@ Use for cabinetry/joinery technical resolution including carcass logic, hardware
 |---|---|
 | `references/hkedca-carpentry-early.md` | Ceiling, troughs, AC box |
 | `references/hkedca-carpentry-late-doors-flooring.md` | Doors, floors, glass |
+| `references/joinery-method-and-emissions.md` | Substrate vs finish, cam vs nailed carcass, scribe and site measure |
 
 ### HKRG cross-reference
 

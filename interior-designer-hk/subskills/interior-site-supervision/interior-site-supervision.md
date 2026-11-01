@@ -118,6 +118,15 @@ Use for site walk protocols, defect management, SI drafting, and field discrepan
 | `references/hkrg-renovation-essentials.md` | §1.1 overall, adoption, HKRG vs HKEDCA |
 | `references/hkrg-renovation-essentials-trades.md` | Per-trade 一般需知 / 另收費 |
 
+## Field notes (工程師裝修學堂)
+
+Field timing, not a contract period. Who pays follows the signed contract.
+
+- Lock layout and power points before rough-in. About one month before start; about two months is safer.
+- Keep a programme float. Black rainstorm or T8 is not a reason to force the original move-in date.
+- 「係咁㗎啦」 is not a method statement. False waterproofing tells (牛奶水, a film on a bag) route to `interior-interface-detailing` / `leak-path-field-notes.md`.
+- A contingency line is separate from the contract sum. Opening-up cost is not automatically the owner’s. Quotation comparison and VO splits: `interior-tendering-qa` / `quotation-field-traps.md`.
+
 ## Region-Switch Notes (HK / Mainland China)
 - Hong Kong mode: use SI workflow with consultant/contractor record discipline; apply HKEDCA trade sequence (`§清拆`–`§交收`) and protection matrix (`§清拆/2.1–2.2`).
 - Mainland mode: use equivalent site instruction/technical clarification workflow per local contract administration practice.
