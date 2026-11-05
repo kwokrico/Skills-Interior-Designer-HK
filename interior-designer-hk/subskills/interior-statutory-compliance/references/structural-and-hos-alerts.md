@@ -30,13 +30,13 @@ Use several methods, then compare with the approved drawing. Reported shortfalls
 
 ## Balcony glass barrier
 
-Load path: person → glass → shoe → fixing → **structural slab**. The base is the fulcrum. An anchor in tile or screed is not an anchor in the structural concrete. Reject two expansion anchors set into the floor finish.
+Load-path awareness: person → glazing → support assembly → connection → structural substrate. Tile or screed alone does not establish that connection. Reject a proposal justified only by two anchors into the floor finish.
 
-- Open the finish along the base down to the structural slab. Build the barrier first. Waterproof, make good, and tile afterwards.
-- After the anchor reaches the structural face, do a pull-out test. Weak concrete can burst the hole as the anchor is tightened; that fixing then does little.
-- Glass: heat-soak toughened (熱浸強化玻璃), with the certificate. Standing on the barrier on the day it was fixed is not the test.
-- Protective barriers are often discussed as minor works. Complex, sensitive, life-safety, or cantilever cases may need an A&A submission. “Class I” is a question for the AP, not a self-classification.
-- A stated lever of about 1.1 m is a teaching picture. Barriers are designed to the code line load, not to that sketch.
+Halt unapproved replacement and refer the complete assembly to the AP/RSE. The designer does not specify an anchor, glazing build-up, opening-up or proof-test procedure from this extract. Request the professional's substrate assessment, connection and glazing design, applicable test/certificate requirements, and coordinated waterproofing/reinstatement sequence. Weak substrate, edge conditions and the existing assembly can change the solution.
+
+Standing on a newly fitted barrier is not verification. The video's heat-soak glass discussion and leverage sketch are teaching examples, not a complete barrier specification or a universal glazing selection. The AP/RSE determines applicable design actions and verification.
+
+Protective barriers are discussed in minor-works and A&A contexts; confirm the actual approval route with the AP/RSE. “Class I” is not a designer self-classification or an exemption from required professional involvement.
 
 ## HOS and MIC
 
@@ -46,10 +46,12 @@ Load path: person → glass → shoe → fixing → **structural slab**. The bas
 - Every module joint is a construction joint. Workmanship that reverses a waste fall, silts a pipe, or splits a joint is the fit-out risk, including toilets and kitchens that leaked during later fitting-out on one estate. A spoken tolerance of 10–20 mm is anecdotal. Do not specify it.
 - Factory completion claims (share of work off site, programme, waste) in the source are anecdotal. Do not write them as performance.
 
-## Joint Office seepage pilot
+## Joint Office seepage procedures
 
-A private-building seepage pilot is described as starting 16 July 2026 (the spoken track says 2016 — use the title, then the press release). The Joint Office (聯辦處) draws on FEHD, BD, and WSD. The published list of professionals (AP, registered inspector, HKIS, HKIE) is **not** a government recommendation; the owner chooses.
+The [official Joint Office procedure page](https://www.waterseepage.gov.hk/en/water_seepage/pilot_scheme.html), checked 2026-11-05, states that new private-building investigation procedures were fully implemented from 16 July 2026. The page URL retains “pilot_scheme”; do not describe the current procedure as merely a pilot. The Joint Office is operated by FEHD and BD; WSD is a separate authority for water-supply issues. The transcript's spoken “2016” is not the effective date.
 
-Do not copy investigation days, the HK$17,000 figure, or any fine from the transcript. Whisper corrupted the amounts, and the year in the speech contradicts the title. Read the current Joint Office notice before stating a deadline or a fee.
+Under the checked procedure, Stage I uses infrared thermography with an electronic moisture meter. Where there is reasonable belief of an upper-unit source, a notification requests inspection, testing and repair within 28 calendar days. Persistent seepage leads to concurrent Stage II/III investigations. A confirmed source can lead to a nuisance notice, review testing, evidence-based enforcement and recovery of examination/testing costs.
+
+This is a dated procedural summary, not a finding of liability or a legal notice. For a live case read the current official page and the actual letter: distinguish preliminary suspicion, source confirmation, notification and nuisance notice. Do not copy the transcript's monetary amounts or promise an investigation/completion time. A listed professional is not a government endorsement. Preserve records and route legal remedies to qualified advice.
 
 The 宏福苑 commentary in the same extract is civic comment. It is not a method for assessing a flat, and a “50-year design life” is not a condemnation rule.

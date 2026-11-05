@@ -3,6 +3,7 @@ name: interior-mep-clash-detection
 description: >
   RCP and services coordination — ducts, sprinklers, lighting, diffusers, and ceiling zones.
   Use for ceiling clashes, service routing, and coordination hierarchy resolution.
+  Includes kitchen appliance connections, ventilation, stacking and service access.
 disable-model-invocation: true
 ---
 
@@ -21,6 +22,9 @@ For statutory permit scope, use `interior-statutory-compliance` instead.
 | HK MEP BOQ measurement | This skill + refs | `interior-tendering-qa` for package QA |
 
 ## Purpose
+
+For appliance connection, ventilation, stacking or access questions, load [kitchen-appliance-coordination.md](references/kitchen-appliance-coordination.md) and chain to millwork for cavities/support. For WC/basin/filter selection load [sanitaryware-selection-and-rough-in.md](../interior-material-procurement/references/sanitaryware-selection-and-rough-in.md). A generic ceiling-clash answer does not resolve these interfaces.
+
 Use for detecting and resolving physical/service clashes between ceiling intent and MEP systems.
 
 ## Core Outputs

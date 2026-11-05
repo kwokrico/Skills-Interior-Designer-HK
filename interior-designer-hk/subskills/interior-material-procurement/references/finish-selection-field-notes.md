@@ -42,3 +42,23 @@ Thickness, strength, and maximum pour come from the **current datasheet**. Disca
 - Hob zone: non-combustible stainless sheet. Do not record a fire-board rating the speaker then retracted.
 - Tile set-out: state the bond (亂工、正工、人字鋪), which tile, and where tile one starts. Put **full tiles on the seen edge** so a run of cuts (老鼠尾) is not what you look at. Site can be out by enough to create that run; the quote-stage plan will not show it.
 - HK$/ft² figures in the transcripts (tile, screed, SPC, a call-out for a short wall) are talk, not a rate book. Use `hk-brand-unit-prices.md` or a live quote.
+
+## Tile and grout selection at the showroom
+
+Additional field sources: Rocky extracts xV69yfP77x4 and dc9HrgXiXlE; see the [source register](../../../references/source-register.md). Factory scale, country of origin and firing-temperature labels are not substitutes for product performance data.
+
+| Selection issue | Action before ordering |
+|---|---|
+| Porcelain, ceramic, wood/stone effect, through-body and trade labels | Obtain the actual product classification, intended wall/floor use, water absorption and relevant performance evidence. Pattern is not composition |
+| Colour and texture | View a physical sample in its intended orientation, under daylight and proposed room lighting. Phone photographs and a brightly lit wall display can misrepresent a floor |
+| Pattern variation | View several pieces or a representative layout; confirm face count, knots, veins, contrast and any bookmatching sequence. Do not plan to discard an unspecified share after delivery |
+| Format and set-out | Compare actual dimensions/calibre, rectification, thickness, bow, cut positions, joints and room dimensions. Equal nominal sizes from different ranges need not align |
+| Large slabs | Check handling, lift/door access, substrate flatness, cutting, weight, wastage and installer capability; fewer joints can cost more in offcuts and logistics |
+| Slip and cleaning | Request test method/results appropriate to the intended wet/barefoot or shod use; assess texture and maintenance. Matt appearance or a generic R number alone does not prove shower suitability |
+| Delivered batch | Approve representative delivered pieces and record shade/calibre/batch; an old showroom sample may differ |
+
+Long rectangular tiles can show lippage when a high point meets a low point in an offset bond. Confirm the permitted offset and joint width with the tile/system supplier; use a layout mockup rather than imposing a universal half-bond or offset percentage. Levelling clips cannot correct an unsuitable substrate or eliminate tile warpage.
+
+Showroom near-seamless displays are aesthetic demonstrations, not approval for jointless home installation. Retain product/system joint requirements and movement joints. Grout fills tile joints; it does not replace the waterproofing membrane or movement sealant. Follow the chosen tile/adhesive instructions for preparation, including whether soaking is appropriate; do not soak every tile called 浸水瓦 by default.
+
+Choose grout with the delivered tile under site lighting. Check compatible joint width, wet-use/cleaning requirements and curing. Approve a small cured trial before grouting the whole area; colour can change from wet to dry. A paler grout is a preference, not a rule. Record code, product, colour, batch and mockup approval on the material schedule; chain joint failures to interface detailing and acceptance disputes to handover.

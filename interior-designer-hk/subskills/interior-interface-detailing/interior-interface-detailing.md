@@ -22,6 +22,9 @@ For joinery carcass and hardware, use `interior-millwork-technical` instead.
 | HK paint protection during works | This skill + refs | `interior-site-supervision` for sequence |
 
 ## Purpose
+
+For roof coatings, Acrylic/PU, ponding, UV, substrate or maintenance decisions, load [roof-waterproofing-selection.md](references/roof-waterproofing-selection.md). Product selection does not authorise roof access or common-part works. Countertop seams/cutouts also use [countertop-selection-and-fabrication.md](../interior-material-procurement/references/countertop-selection-and-fabrication.md).
+
 Use for transition and interface details where dissimilar materials meet.
 
 ## Core Outputs

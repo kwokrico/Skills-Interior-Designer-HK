@@ -105,13 +105,13 @@
       "id": 9,
       "slug": "eval-balcony-glass-tile-anchors",
       "prompt": "The contractor wants to replace the balcony glass barrier by drilling two expansion anchors into the floor tiles tomorrow. They say it is Class I minor works so we can proceed without an AP.",
-      "expected_output": "Halt. Fixings must reach the structural slab, then a pull-out test; heat-soak toughened glass; waterproof and tile after. Class I is a question for the AP/RSE, not a self-classification. Do not authorize anchors in the tile.",
+      "expected_output": "Halt and reject anchors fixed only into finish layers. Require AP/RSE review of the complete barrier, structural connection, glazing, testing and approval route; do not prescribe an anchor or self-classify minor works.",
       "files": [],
       "assertions": [
-        "The agent halts and does not authorize anchors fixed only into the tile or screed",
-        "The response requires the fixing to reach the structural slab and a pull-out test",
-        "The response requires heat-soak toughened glass",
-        "The response requires an AP or RSE and does not let the designer self-classify the minor-works item"
+        "The agent halts and rejects anchors fixed only into tile or screed",
+        "The response refers the complete barrier and substrate connection to AP/RSE design and verification",
+        "The response does not prescribe an anchor or glass specification as a substitute for professional design",
+        "The agent routes to interior-statutory-compliance and does not self-classify the minor-works item"
       ]
     },
     {
@@ -131,13 +131,169 @@
       "id": 11,
       "slug": "eval-threshold-leak-not-another-coat",
       "prompt": "After tiling, bathroom water is showing up at the living-room side of the door. The contractor offers a fourth coat of waterproofing on the bathroom floor. Accept it?",
-      "expected_output": "Route to interior-interface-detailing. The failure is membrane continuity and a missing door upstand, not coat count. Do not accept another coat as the repair. Latex or bonding agent is not a membrane.",
+      "expected_output": "Route to interior-interface-detailing. Investigate the source, threshold upstand and membrane continuity before repair. Reject an extra coat as a diagnosis or accepted remedy; do not infer a unique cause from the symptom.",
+      "files": [],
+      "assertions": [
+        "The agent routes to interior-interface-detailing",
+        "The response rejects another coat as a sufficient diagnosis or accepted repair",
+        "The response investigates the upstand and membrane continuity at the threshold alongside other plausible sources",
+        "The response does not treat latex or bonding agent as the waterproof membrane"
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "eval-steam-oven-model-specific",
+      "prompt": "A contractor says every steam oven needs a 20A circuit and two inches behind it. Please approve the cavity for my HK kitchen without choosing the model.",
+      "expected_output": "Route to interior-mep-clash-detection; load the applicable field reference and satisfy the observable assertions.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-mep-clash-detection",
+        "Requests the exact model and installation drawing",
+        "Checks the full inlet/outlet and service path with millwork",
+        "Does not approve universal circuit size or clearance; electrical design goes to the registered trade"
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "eval-laundry-dishwasher-bank",
+      "prompt": "Fit a washer, stacked dryer and dishwasher into one HK cabinet bank. Can the carpenter just put a shelf above the washer and connect all wastes together?",
+      "expected_output": "Route to interior-mep-clash-detection; load the applicable field reference and satisfy the observable assertions.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-mep-clash-detection",
+        "Requires compatible stacking kit or independently designed support, not an unspecified shelf",
+        "Coordinates doors, withdrawal, accessible isolation and ventilation",
+        "Checks drainage arrangement and backflow/capacity against appliance instructions and plumbing design"
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "eval-countertop-final-measure",
+      "prompt": "The cabinets are not installed. Order and cut the quartz countertop from the tender plan today; we can trim it later.",
+      "expected_output": "Route to interior-material-procurement; load the applicable field reference and satisfy the observable assertions.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-material-procurement",
+        "Separates stock reservation from final fabrication release",
+        "Requires final site dimensions or an explicit controlled-dimension method with responsibility",
+        "Coordinates sink/hob templates, support, seams and delivery before cutting"
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "eval-hos-wc-rough-in",
+      "prompt": "My HOS bathroom has exposed pipes behind the WC. Pick a back-to-wall toilet from the video and confirm it will fit.",
+      "expected_output": "Route to interior-material-procurement; load the applicable field reference and satisfy the observable assertions.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-material-procurement",
+        "Requires outlet and pipe survey referenced to finished walls",
+        "Checks supply and connector compatibility plus maintenance access",
+        "Does not guarantee fit from an estate example or authorise cutting pipes/slab"
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "eval-contractor-intermediary-deposit",
+      "prompt": "A renovation platform introduced a firm with a showroom. Its intermediary wants half the joinery cost paid personally and opened a group chat with the factory. Is that enough to pay?",
+      "expected_output": "Route to interior-tendering-qa; load the applicable field reference and satisfy the observable assertions.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-tendering-qa",
+        "Identifies contract entity, payee and factory/order evidence",
+        "Checks scope, responsibility and agreed payment milestones",
+        "Does not treat showroom/platform/group chat as a performance guarantee or invent deposit rules"
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "eval-roof-pu-ponding",
+      "prompt": "Our HK roof ponds after rain. The contractor says any PU is better than acrylic and will last five years. Specify it.",
+      "expected_output": "Route to interior-interface-detailing; load the applicable field reference and satisfy the observable assertions.",
       "files": [],
       "assertions": [
         "The agent routes to or loads interior-interface-detailing",
-        "The response rejects adding another coat as the repair",
-        "The response requires a door upstand or continuous membrane to the threshold",
-        "The response does not treat a bonding agent or extra render coat as waterproofing"
+        "Checks substrate, drainage, moisture, exposure and use",
+        "Requires named-system evidence for ponding, UV, traffic and protection",
+        "Does not prescribe a universal chemistry ranking or recoat interval"
+      ]
+    },
+    {
+      "id": 18,
+      "slug": "eval-tile-grout-mockup",
+      "prompt": "The showroom has jointless large wood-effect tiles. Use the same half-bond without joints and choose the grout from a phone photo.",
+      "expected_output": "Route to interior-material-procurement; load the applicable field reference and satisfy the observable assertions.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-material-procurement",
+        "Rejects jointless display as an installation specification",
+        "Checks actual format/warpage, permitted offset, joints, handling and waste",
+        "Requires delivered-batch sample and cured grout trial under project lighting"
+      ]
+    },
+    {
+      "id": 19,
+      "slug": "eval-board-folding-door",
+      "prompt": "ENF eco-board is zero formaldehyde and fireproof, so use it for a tight curved cabinet and replace the kitchen fire door with a three-seven folding door.",
+      "expected_output": "Route to interior-millwork-technical; load the applicable field reference and satisfy the observable assertions.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-millwork-technical",
+        "Separates substrate, finish, glue and test/certificate scope",
+        "Checks fabricator radius and door operating envelope/hardware",
+        "Does not infer zero emissions or fire rating; routes fire-door substitution to compliance/fire review"
+      ]
+    },
+    {
+      "id": 20,
+      "slug": "eval-mattress-storage-bed",
+      "prompt": "For an older resident, combine a 400 mm storage bed with a 330 mm mattress. Add a step if too high. Please approve.",
+      "expected_output": "Route to interior-anthropometrics-ergonomics; load the applicable field reference and satisfy the observable assertions.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-anthropometrics-ergonomics",
+        "Calculates 730 mm before any additional platform/base layers",
+        "Requires user transfer trial, mechanism/mattress compatibility and delivery checks",
+        "Does not approve an automatic step or universal lower-bed solution"
+      ]
+    },
+    {
+      "id": 21,
+      "slug": "eval-recliner-performance-fabric",
+      "prompt": "The sofa has cat-scratch fabric and zero-wall recline. Can I promise it cannot be scratched and place furniture immediately in front?",
+      "expected_output": "Route to interior-anthropometrics-ergonomics; load the applicable field reference and satisfy the observable assertions.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-anthropometrics-ergonomics",
+        "Checks actual upholstery evidence and care/warranty exclusions",
+        "Requires full opening envelope, service/power access and circulation",
+        "Addresses stability/pinch risks and does not promise immunity to claws"
+      ]
+    },
+    {
+      "id": 22,
+      "slug": "eval-compact-flat-kitchen-door",
+      "prompt": "My HK flat has five doors around the living room. Remove the kitchen door and shift a HOS wall to gain a bigger TV wall.",
+      "expected_output": "Route to interior-anthropometrics-ergonomics; load the applicable field reference and satisfy the observable assertions.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-anthropometrics-ergonomics",
+        "Compares circulation overlap and furniture or door options",
+        "Retains required clearances and operating envelopes",
+        "Routes wall and kitchen/fire changes to statutory/fire review without authorising demolition"
+      ]
+    },
+    {
+      "id": 23,
+      "slug": "eval-seepage-official-procedure",
+      "prompt": "Use the renovation transcript to tell my upstairs neighbour the current seepage investigation deadline, fees and fines.",
+      "expected_output": "Route to interior-statutory-compliance; load the applicable field reference and satisfy the observable assertions.",
+      "files": [],
+      "assertions": [
+        "The agent routes to or loads interior-statutory-compliance",
+        "Reads the current official procedure and actual case notice before project-specific claims",
+        "Distinguishes preliminary notification, confirmed source and nuisance notice",
+        "Does not copy transcript fees/fines or treat the extract date as publication/effective date"
       ]
     }
   ]

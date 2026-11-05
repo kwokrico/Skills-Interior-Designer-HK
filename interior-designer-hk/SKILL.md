@@ -81,6 +81,11 @@ Phase 1: Ingestion ──► Phase 2: Compliance validate ──► Phase 3: Dom
 | Handover / DLP | `interior-handover-dlp` | O&M, snag, 交收, 驗收 → `subskills/interior-handover-dlp/interior-handover-dlp.md` |
 | Anthropometrics | `interior-anthropometrics-ergonomics` | Reach, inclusivity → `subskills/interior-anthropometrics-ergonomics/interior-anthropometrics-ergonomics.md` |
 | Lighting | `interior-lighting-science` | Lux, CCT/CRI/UGR → `subskills/interior-lighting-science/interior-lighting-science.md` |
+| Kitchen appliances | `interior-mep-clash-detection` | Washer/dryer/dishwasher/hood/oven interfaces; chain millwork for cavities and support |
+| Countertops / sanitaryware | `interior-material-procurement` | Material selection, fabrication, WC rough-in, basin/tap fit; chain MEP or interface detailing |
+| Contractor selection | `interior-tendering-qa` | Firm/platform/foreman comparison, evidence, subcontracting and intermediary payment chain |
+| Roof waterproofing | `interior-interface-detailing` | Acrylic/PU system selection, ponding, UV, substrate and maintenance |
+| Residential FF&E / compact flats | `interior-anthropometrics-ergonomics` | Mattress/bed height, sofa/recliner fit, delivery, door clusters and circulation |
 | Brand / graphics | `interior-brand-environmental-graphics` | Wayfinding, identity → `subskills/interior-brand-environmental-graphics/interior-brand-environmental-graphics.md` |
 | Sustainability | `interior-sustainability-wellness` | WELL/LEED/BEAM+, low-VOC → `subskills/interior-sustainability-wellness/interior-sustainability-wellness.md` |
 
@@ -260,6 +265,21 @@ Always issue a transition detail when level delta > 3 mm.
 
 ```text
 START
+│
+├─ Appliance cavity, washer/dryer stack, dishwasher, hood or steam-oven connection/ventilation?
+│   └─► [interior-mep-clash-detection] + [interior-millwork-technical]
+│
+├─ Countertop stone, sink/tap selection, WC outlet/rough-in or sanitaryware compatibility?
+│   └─► [interior-material-procurement] (+ [interior-mep-clash-detection] for connections)
+│
+├─ Contractor/platform selection, company checks, intermediary deposit or factory order?
+│   └─► [interior-tendering-qa]
+│
+├─ Roof waterproofing / 天台 / Acrylic vs PU / ponding / UV exposure?
+│   └─► [interior-interface-detailing] (+ [interior-statutory-compliance] for permissions)
+│
+├─ Mattress/bed height, sofa/recliner, delivery fit, 五門歸心 or 眼鏡房 layout?
+│   └─► [interior-anthropometrics-ergonomics] (+ statutory/fire route before altering walls or kitchen doors)
 │
 ├─ Fire safety, egress, rating, travel distance, sprinkler interface?
 │   └─► [interior-fire-life-safety]
@@ -449,6 +469,8 @@ Each sub-skill must contain at least one standard reference table for auditable,
 ---
 
 ## 4. Operating Rules
+
+- Field-source provenance and claim limits: [source-register.md](references/source-register.md). Load the relevant module reference after dispatch; `references_available` lists files but does not load their contents. Official requirements and the applicable product/system documents govern; video examples are not specifications.
 
 - Prioritize safety/compliance over style: if aesthetics conflict with egress/access/fire logic, flag non-compliance first and apply [`compliance.md`](references/compliance.md) halts.
 - Use concise, professional language; avoid speculative visual claims without technical basis.

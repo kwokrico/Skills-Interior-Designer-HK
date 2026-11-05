@@ -9,14 +9,14 @@ Derived from HK residential material-schedule 總則 practice. Use as a **design
 
 ## Indoor air & boards
 
-- [ ] Timber boards / MDF / particleboard / carcass: low-formaldehyde, minimum E1 or equivalent (EN 13986 E1 / GB 18580 / F☆☆☆☆-class); request test reports
+- [ ] Timber boards / MDF / particleboard / carcass: set a project low-emission requirement; record the standard, edition, method and specimen scope in test reports. E1, national grades and F-star classes are not automatically interchangeable
 - [ ] HK humid climate: wet zones prefer moisture-resistant plywood / HMR; avoid ordinary MDF where moisture risk is high
 - [ ] Paints, adhesives, sealants, grouts: low-VOC preference; request VOC data and SDS where relevant
 
 ## Wet areas & tiling
 
 - [ ] Wet joinery: HMR carcass; sink base waterproof tray; seal cut-outs, edges, screw holes, pipe penetrations
-- [ ] Bath floor tiles: wet slip data (DIN 51130 or equal); typical wet ≥ R10; shower / ponding zones consider R11; falls to drain
+- [ ] Bath floor tiles: slip-test data applicable to the intended wet/barefoot or shod conditions, cleaning and users; an R rating alone is not proof of shower suitability; coordinate falls to drain
 - [ ] Wet wall/floor tiling: wet-rated adhesive + anti-mould grout (Mapei / ARDEX / Bostik-class or equal) matched to substrate and tile absorption
 - [ ] Waterproofing complete and **flood-tested** before tiling where practice requires
 - [ ] Shower walls: waterproof height per design (often full height in shower; upstands elsewhere)

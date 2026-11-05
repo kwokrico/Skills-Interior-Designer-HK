@@ -21,6 +21,9 @@ For tender contract DLP clauses, use `interior-tendering-qa` instead.
 | HKRG payment retention / clause 12 | — | `interior-tendering-qa` |
 
 ## Purpose
+
+For countertop and sanitaryware closeout, pair the acceptance checklist with the approved [countertop fabrication record](../interior-material-procurement/references/countertop-selection-and-fabrication.md) and [sanitaryware rough-in record](../interior-material-procurement/references/sanitaryware-selection-and-rough-in.md). Verify the selected models, operation, leak/access evidence, care instructions and warranty responsibilities; a showroom recommendation is not acceptance evidence.
+
 Use for handover readiness, O&M completeness, as-built verification, and defect liability period tracking.
 
 ## Core Outputs

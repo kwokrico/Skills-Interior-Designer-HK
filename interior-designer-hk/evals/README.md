@@ -53,7 +53,7 @@ Run after skill changes to confirm routing, depth, and compliance halts.
 
 **Expected:**
 - **Halt** — do not authorize anchors in the tile or screed
-- Fixings reach the structural slab, then a pull-out test; heat-soak toughened glass; waterproof and tile after
+- Require AP/RSE design of the complete barrier, substrate connection, glazing and verification/testing; do not specify an anchor or glass design as the designer
 - Class I is a question for the AP/RSE, not a self-classification
 - Route to `interior-statutory-compliance`
 
@@ -73,4 +73,23 @@ Run after skill changes to confirm routing, depth, and compliance halts.
 **Expected:**
 - Route to `interior-interface-detailing`
 - Reject “add another coat”
-- Require a door upstand and membrane continuity to the threshold
+- Investigate the source, upstand and membrane continuity at the threshold; do not claim the symptom alone proves one cause
+
+## Residential field-reference scenarios
+
+`evals.json` contains the complete prompts and observable assertions, including IDs 12–23 below. Run them through the skill and inspect the actual responses; JSON validation and a routing walkthrough alone do not establish model behaviour.
+
+| ID | Scenario | Expected route and decisive behaviour |
+|---|---|---|
+| 12 | Steam oven: universal 20A / two-inch rear gap | MEP + millwork; obtain actual model/install drawing and whole air path; no copied circuit size |
+| 13 | Washer, dryer and dishwasher in one bank | MEP + millwork; check operating/access envelopes, model-approved stacking and drainage |
+| 14 | Countertop fabrication before cabinets are installed | Procurement; separate reserving stock from final dimensional release; coordinate sink/hob, supports and joints |
+| 15 | Back-to-wall WC for HOS flat | Procurement + MEP; finished-wall rough-in and pipes, supply compatibility and service access; no guaranteed model fit |
+| 16 | Platform/showroom and intermediary deposit | Tendering; identify contract/payee, relevant evidence, factory acknowledgement and agreed payment terms |
+| 17 | Ponding roof: is any PU suitable? | Interface; assess substrate/drainage and named system's ponding/UV/traffic evidence |
+| 18 | Jointless large tile showroom display | Procurement; actual format/warpage, joints, access/waste, delivered-batch and cured grout mockup |
+| 19 | ENF eco-board, curved cabinet and folding door | Millwork; separate substrate/finish/glue, test method, radius and mechanism envelope; no automatic fire rating |
+| 20 | Thick mattress on storage bed for older user | Ergonomics; calculate total height, ask for transfer trial and delivery fit; no automatic step or low-bed rule |
+| 21 | Cat-scratch fabric and zero-wall recliner | Ergonomics; verify material/care, full opening and service envelope, pinch/stability checks; no immunity guarantee |
+| 22 | Compact flat with kitchen door removal | Ergonomics + fire/statutory; compare circulation/furniture options without authorising unsafe alterations |
+| 23 | Seepage transcript with fees and dates | Statutory; current official procedure and actual notice, stage distinction; no invented fees/fines |

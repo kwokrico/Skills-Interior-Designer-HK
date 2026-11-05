@@ -154,6 +154,9 @@ Master index for Phase 4 artifact generation. Use the **standalone file** when o
 - [ ] Floor loading checked for heavy items  
 - [ ] Built-in vs loose furniture interface with 訂造傢俬  
 - [ ] Delivery access (lift size, estate rules)
+- [ ] Actual closed/open dimensions and packaged delivery/turning route recorded
+- [ ] Mattress plus frame/platform total height or sofa user trial recorded where applicable
+- [ ] Power, service access, care/warranty and model/drawing confirmation status recorded
 
 ---
 

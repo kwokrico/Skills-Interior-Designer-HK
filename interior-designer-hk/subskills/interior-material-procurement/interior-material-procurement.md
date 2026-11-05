@@ -36,6 +36,11 @@ Sourcing strategy, schedule generation, lead-time control, dye-lot consistency, 
 
 ## Local references
 
+For countertop comparisons, fabrication and final-measure release, load [countertop-selection-and-fabrication.md](references/countertop-selection-and-fabrication.md). For WC outlets, basin/tap fit, sanitary fittings and filter/RO interfaces, load [sanitaryware-selection-and-rough-in.md](references/sanitaryware-selection-and-rough-in.md). These extend the starter defaults with product-specific checks.
+
+For mattress/sofa selection and delivery fit, chain to ergonomics and load [residential-ffe-fit-and-selection.md](../interior-anthropometrics-ergonomics/references/residential-ffe-fit-and-selection.md); keep loose items on the FF&E or owner-supply sheet. For large-format tile, sample/grout approval or pattern variation, load `references/finish-selection-field-notes.md`.
+
+
 | File | Use |
 |------|-----|
 | [`item-code-map.md`](references/item-code-map.md) | Prefix → category coding |

@@ -60,7 +60,17 @@ Case hub: `references/cases/hk-residential-mini-tender-set.md`
 - [ ] Protection matrix referenced
 - [ ] 交收 acceptance methods stated
 
-## Recommendation
+## Contractor and order checks (at appointment / order stage)
+
+Use [contractor-due-diligence.md](../../subskills/interior-tendering-qa/references/contractor-due-diligence.md); incomplete checks are queries, not findings of wrongdoing.
+
+- [ ] Contracting legal entity, signatory and payee identified
+- [ ] Comparable completed-work evidence and responsible team checked
+- [ ] Relevant regulated-work scope and insurance checked with source/date
+- [ ] Design/drawing fees, exclusions, subcontracting and interface responsibilities recorded
+- [ ] Payment milestones, approved drawings and intermediary/factory order evidence aligned
+
+## Recommendation status
 
 - [ ] Release for tender
 - [ ] Hold — reissue required

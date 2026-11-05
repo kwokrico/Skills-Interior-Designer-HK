@@ -3,6 +3,7 @@ name: interior-anthropometrics-ergonomics
 description: >
   Reach ranges, clearances, and inclusivity by user type across interior typologies.
   Use for workstation, sanitary, retail, and residential ergonomic planning.
+  Includes mattress/bed height, sofas/recliners, delivery fit and compact-flat layouts.
 disable-model-invocation: true
 ---
 
@@ -20,6 +21,9 @@ For lighting at task surfaces, use `interior-lighting-science` instead.
 | Task illuminance at desk | Chain to | `interior-lighting-science` |
 
 ## Purpose
+
+For mattresses, storage-bed height, sofas/recliners, delivery fit, or compact-flat door/circulation layouts, load [residential-ffe-fit-and-selection.md](references/residential-ffe-fit-and-selection.md). Use user trials and actual product dimensions; chain to millwork for fixed furniture and statutory/fire modules before altering walls or kitchen doors.
+
 Use for human-dimension fit, inclusive use, and ergonomic planning standards.
 
 ## Core Outputs

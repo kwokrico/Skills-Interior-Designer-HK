@@ -19,7 +19,7 @@ Use as **suggested first picks** on new schedules. Always phrase as 「品牌（
 | Door HW (non-FD) | DH | 304 SS or zinc alloy; brushed/matt | FD doors need certified sets |
 | Sanitaryware | SW | TOTO (or equal: American Standard) | Confirm rough-in on site |
 | Mixers / shower | SW | Hansgrohe (or equal: GROHE) | Prefer authorised dealers for warranty |
-| Wet floor/wall tiles | FL / WT | ASA Tiles / local porcelain (or equal) | Same factory/batch for adjacent wet zones; R10+ wet |
+| Wet floor/wall tiles | FL / WT | ASA Tiles / local porcelain (or equal) | Same factory/batch for adjacent wet zones; obtain slip-test evidence appropriate to actual wet/barefoot or shod use, not an R rating alone |
 | Adhesive / grout | AD | Mapei / ARDEX / Bostik (or equal) | Anti-mould grout in wet; match waterproof brand family if possible |
 | Waterproofing | WP | Sika / Mapei / ARDEX / Bostik wet system (or equal) | Flood test before tiling (checklist) |
 | LED track / modules | LG | Philips / local 48V magnetic (or equal) | Target 3000K, CRI≥90 |

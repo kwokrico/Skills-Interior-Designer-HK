@@ -3,6 +3,7 @@ name: interior-tendering-qa
 description: >
   Pre-tender package completeness, BOQ alignment, and bid-ready QA.
   Use for HKEDCA measurement rules, HKRG 標準報價單, and tender risk flags.
+  Includes contractor due diligence, service scope and intermediary payment-chain checks.
 disable-model-invocation: true
 ---
 
@@ -22,6 +23,9 @@ For handover acceptance criteria, use `interior-handover-dlp` instead.
 | Payment dispute on site | Pair with | `interior-site-supervision` |
 
 ## Purpose
+
+For contractor, foreman, design-and-build or platform selection, and intermediary/factory deposits, load [contractor-due-diligence.md](references/contractor-due-diligence.md). Establish the contractual entity, service scope and evidence of delivery; price comparison alone is insufficient.
+
 Use for pre-tender quality checks to ensure a complete and biddable interior package.
 
 ## Core Outputs

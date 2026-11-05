@@ -90,7 +90,7 @@
   "盪地台": "Floor screed/leveling; no traffic until strength — pad loads on finished plaster",
   "英坭沙": "Cement:sand screed mix; substrate for tiles — typical HK masonry build-up layer",
   "訂造傢俬": "Custom/bespoke joinery/cabinets; layout must be fixed before MEP rough-in",
-  "谷磅": "Electrical conduit chasing in walls; measured per HKEDCA/HKRG BOQ rules",
+  "谷磅": "Pressure testing of installed water pipework before concealment; record test conditions and evidence per approved specification and applicable plumbing requirements",
   "防水": "Waterproofing membrane in wet areas; barrier + signage until finish pave after cure",
   "雜項": "Miscellaneous fixtures trade — sanitaryware, hardware, stone sills, final devices before 交收",
   "驗收": "Inspection and acceptance testing at handover",
@@ -106,6 +106,15 @@
   "士波令": "Concrete spalling with rusting reinforcement. Cover loss is not bar section loss. Repair is an AP/RSE submission, not a skim",
   "套餐價": "Package / lump-sum fit-out price (一口價). An omission can be treated as given up. Compare quotations on content, not the headline total",
   "釘契": "Title encumbrance or reinstatement risk if HOS or MIC walls are removed against the approved drawings",
-  "聯辦處": "Joint Office (FEHD, BD, WSD) for water-seepage investigation. A 2026 private-building pilot exists; do not quote days, fees, or fines from unverified transcripts. The professional list is not a government endorsement",
-  "老鼠尾": "A run of cut tiles left at the seen edge. Set out so full tiles land on the visible edge"
+  "聯辦處": "Joint Office operated by FEHD and BD for water-seepage investigation; WSD is a separate water-supply authority. New private-building procedures were implemented in July 2026; use the dated official summary in structural-and-hos-alerts.md and recheck current notices for a live case",
+  "老鼠尾": "A run of cut tiles left at the seen edge. Set out so full tiles land on the visible edge",
+  "rough-in": "Pre-finish service positions and connection dimensions; sanitary outlet measurements must distinguish structural and finished-wall datums",
+  "solid surface": "A product family of fabricated surfacing materials; Corian is one brand. Composition, forming, joints, support and care depend on the actual product",
+  "岩板": "Trade label commonly used for large sintered/porcelain slabs; confirm the actual product, thickness, backing, intended use and fabrication system",
+  "前裙": "Countertop front apron or built-up edge; define profile, joints, support and finish on the fabrication drawing",
+  "背擋": "Countertop rear upstand/backsplash; coordinate wall interface, joints, cleaning and water control",
+  "三七門": "Unequal split-fold door; check actual clear opening, swept/parked envelopes, hardware, pinch protection and any fire/ventilation requirements",
+  "opening envelope": "Space occupied by a door, drawer, recliner or appliance in operation, including handles and required user/service clearance",
+  "五門歸心": "Compact-flat layout with doors clustered around a central area; compare compatible circulation overlap and usable furniture positions",
+  "眼鏡房": "Colloquial layout with opposing bedroom entries; evaluate entry/recess or furniture options without presuming wall or fire-door alterations are permitted"
 }

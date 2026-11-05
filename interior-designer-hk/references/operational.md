@@ -12,6 +12,8 @@ Before analysis, confirm or declare assumptions for:
 
 Cross-reference [`domain_terms.json`](domain_terms.json) and [`config.json`](config.json) before proceeding.
 
+For general knowledge or procurement-process questions, project occupancy and drawing scale may be inapplicable; do not invent them or block a Foundation answer because they are absent. For project-specific decisions, identify the inputs actually critical to that decision and apply the existing compliance halt when they are missing.
+
 ## Scale defaults
 
 | Request type | Default scale | LOD |
@@ -85,3 +87,11 @@ On conflicting numbers between HKEDCA and HKRG, cite both and follow the signed 
 ## Module reference extracts
 
 HKEDCA and HKRG markdown extracts live under `subskills/<slug>/references/` and load only when that subskill is dispatched (progressive disclosure). Shared vocabulary, compliance, and templates remain in `references/` at skill root — one hop from `SKILL.md`.
+
+The dispatcher returns module instructions and `references_available`; it does not inject reference contents. Read the reference named by the module's applicable trigger before using its detailed guidance.
+
+## Field-source use
+
+Use [source-register.md](source-register.md) to trace video-derived observations. Extracted date is not publication date. For a reusable claim, retain source ID and section/timestamp if available, destination reference, conditions and verification status. Keep commentary distinct from authority, manufacturer evidence and designer synthesis.
+
+For statutory procedures, live prices, registrations, certificates, product ratings or dimensions, obtain the current official or applicable product document before issuing a project-specific conclusion. Record its URL/document revision and checked date. Do not merge conflicting test methods, extrapolate a product to a whole material family, or promote garbled transcripts, advertising and unrelated tail segments into specifications. An unresolved product datum limits the affected decision, not every unrelated design task. Existing compliance hard stops remain unchanged.

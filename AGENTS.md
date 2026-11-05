@@ -10,6 +10,7 @@ When the user's request matches **interior design**, **fit-out**, **joinery**, *
 4. Answer from Foundation Quick Reference (Section 1) when sufficient; otherwise route to subskills via decision tree or `python interior-designer-hk/scripts/dispatcher.py load <slug>`.
 5. Use [`interior-designer-hk/references/templates/deliverables.md`](interior-designer-hk/references/templates/deliverables.md) to pick artifacts; standalone files in [`interior-designer-hk/references/templates/`](interior-designer-hk/references/templates/) for SI, snag, tender audit, VE, compliance gap, HKRG boilerplate, and material schedule.
 6. On compliance violations, **halt** per compliance rules — cite the rule and offer remediated options only.
+7. After a cross-check and integration, follow [`.cursor/rules/source-archive.mdc`](.cursor/rules/source-archive.mdc) and file the source in [`Reference/SS`](Reference/SS).
 
 Dispatch to `subskills/<slug>/<slug>.md` for the selected module.
 

@@ -37,12 +37,22 @@ HKRG-style owner-supply checklist. Confirm brand/model/delivery date before roug
 | 微波爐 | | | | | | | 業主自購 | | |
 | 雪櫃 | | | | | | | 業主自購 | | |
 | 洗衣機 | | | | | | | 業主自購 | | |
+| Dryer | | | | | | | Owner supply | | |
+| Steam / combi oven | | | | | | | Owner supply | | |
 | 飲水機 | | | | | | | 業主自購 | | |
 | 浴室寶 | | | | | | | 業主自購 | | |
 | 煤氣熱水爐 | | | | | | | 業主自購 | | |
 | 電視機 | | | | | | | 業主自購 | | |
 | 抽氣扇 | | | | | | | 業主自購 | | |
 | 其他 | | | | | | | 業主自購 | | |
+
+### Appliance interface record
+
+Use one row per selected model, including steam/combi ovens and dryers where present. Load [kitchen appliance coordination](../../subskills/interior-mep-clash-detection/references/kitchen-appliance-coordination.md). A sales brochure's nominal size is not an approved installation drawing.
+
+| Tag / model | Installation drawing rev | Body / cavity / open-door envelope | Electrical rating / isolation confirmation | Air inlet → outlet | Supply / waste / gas confirmation | Service access / withdrawal | Delivery date | Coordinated drawing / confirmer / status |
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | Confirmed / pending / N/A |
 
 ---
 
@@ -55,6 +65,8 @@ HKRG-style owner-supply checklist. Confirm brand/model/delivery date before roug
 ---
 
 ## 4. 填表說明
+
+For loose furniture, also record packaged size, delivery/turning route, full open/recline dimensions, user trial, power/service needs and confirmer/status as applicable. For beds, record the frame/platform plus mattress total height. Use [residential FF&E fit](../../subskills/interior-anthropometrics-ergonomics/references/residential-ffe-fit-and-selection.md).
 
 | 欄位 | 說明 |
 |------|------|
@@ -76,7 +88,7 @@ Designer practice checklist — **suggest and document**, do not invent new comp
 - [ ] Low-formaldehyde boards (E1 / equivalent) + test report request
 - [ ] Low-VOC paints/adhesives/sealants + SDS where relevant
 - [ ] Wet-area joinery: HMR / moisture-resistant carcass; seal cut-outs
-- [ ] Wet floor tiles: slip data (typ. R10+; shower consider R11) + falls to drain
+- [ ] Wet floor tiles: slip-test method/results suited to intended use, including barefoot shower conditions; do not use an R rating alone as proof of suitability; coordinate falls to drain
 - [ ] Wet tile adhesive + anti-mould grout suited to substrate and tile absorption
 - [ ] Tempered glass + edge polish for doors/high glass; supplier confirms thickness/fixings
 - [ ] Metals: corrosion-resistant in wet zones; whole-flat metal colour unified

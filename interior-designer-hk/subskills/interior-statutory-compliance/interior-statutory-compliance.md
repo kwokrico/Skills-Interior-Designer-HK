@@ -72,7 +72,7 @@ Use for statutory checks covering occupancy load, accessibility, and general int
 | File | Load when |
 |---|---|
 | `references/hkedca-preconstruction-compliance.md` | Pre-start, permits, insurance |
-| `references/structural-and-hos-alerts.md` | Spalling, balcony glass fixings, MIC/HOS walls, Joint Office pilot (no fines) |
+| [`references/structural-and-hos-alerts.md`](references/structural-and-hos-alerts.md) | Spalling, balcony glass fixings, MIC/HOS walls, dated official Joint Office procedures; recheck current notices |
 
 ### HKRG cross-reference
 

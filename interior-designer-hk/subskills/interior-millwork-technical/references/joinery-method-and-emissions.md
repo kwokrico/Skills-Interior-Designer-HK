@@ -37,3 +37,34 @@ Scribed furniture costs more because it is measured again after the walls are th
 - Drawings before start: demolition, partition, MEP, ceiling. During the job: joinery (lines drawn, not explained by mouth), tile set-out, furniture, paint colours. Being shown boards a week before they are fixed is too late.
 - Do not pay for a perfect finish where it cannot be seen. New-flat kitchen wall and mirror cabinets are often untiled behind. Wet areas and the hob are not this saving — see `finish-selection-field-notes.md`.
 - Too much built-in kills later flexibility. A built headboard can be the piece worth making. A cabinet used as a room divider is not a fire, acoustic, or statutory partition.
+
+## Substrate suitability, curved work and delivery
+
+Additional field sources: Rocky F86Phf_gkZw and cY9PlCQS35c; see the [source register](../../../references/source-register.md). Treat material rankings in the videos as prompts to check the actual grade and assembly.
+
+| Substrate | Verify for the intended assembly |
+|---|---|
+| Plywood | Grade, ply quality, adhesive/bond class, thickness, face quality and fixing performance; the name alone does not prove water resistance |
+| MDF | Grade, routing/paint finish, edge sealing, fixing and moisture exposure; a smooth paint face does not establish load capacity |
+| Particleboard | Actual grade, edge/joint/fixing design, span and moisture exposure; do not accept or reject every board by a single generic label |
+| Solid timber | Species, moisture conditioning, movement, joinery, weight and finish; it is not inherently waterproof or suitable for every external door |
+
+For curved panels, obtain the fabricator's permissible radius, substrate/laminate construction, reinforcement and edge treatment. Heat forming, kerfing and thin-layer bending are different methods, not interchangeable site instructions. Approve a mockup for the specified material and radius; preserve strength and finish continuity.
+
+Compare flat-pack and preassembled delivery using actual piece sizes, weight, lift dimensions and turning routes. Identify the site assembly and scribing responsibility. Do not let a lower factory price hide extra installation, wall restraint or repair work.
+
+For E1/E0/ENF or marketing terms such as “super E0”, record the standard, edition, test method, specimen scope and report. Do not transfer the video's mg/L figures into a cross-standard table. Board evidence does not certify the whole finished cabinet or its fire performance.
+
+## Space-saving doors and kitchen hardware
+
+| Item | Coordination checks |
+|---|---|
+| Unequal split-fold door (三七門) | Actual leaf sequence and swept envelope, clear opening, frame, finger protection, handles, water exposure and any required ventilation |
+| Slide-fold wardrobe door | Parked stack width, track support, floor trip/cleaning impact, handle reach, access to the full storage opening and replaceable hardware |
+| Glass folding divider | Weight, certified glass/assembly where required, support and impact risk; not a substitute for a fire-rated partition |
+| Pull-down rack / lift basket | Rated load and fixing, reachable operating force, retained contents, pinch points and collisions with tap, drainer or user |
+| Multi-level drawers / corner storage | Usable volume, runner rating, full travel, adjacent doors, plumbing and maintenance access |
+
+Check operating and parked positions on the shop drawing, not only the closed elevation. Require product instructions and an operable sample where the mechanism drives usability. A smooth showroom movement does not demonstrate installed load capacity. Any kitchen fire-door substitution must route to fire/life safety; a folding mechanism or louvre is not evidence of the required rating.
+
+For appliance cavities use [kitchen appliance coordination](../../interior-mep-clash-detection/references/kitchen-appliance-coordination.md); for supports and cutouts use [countertop selection and fabrication](../../interior-material-procurement/references/countertop-selection-and-fabrication.md). For storage-bed/mattress height and delivery use [residential FF&E fit](../../interior-anthropometrics-ergonomics/references/residential-ffe-fit-and-selection.md).

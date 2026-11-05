@@ -21,6 +21,9 @@ For site inspection and SI workflow, use `interior-site-supervision` instead.
 | Field defect / SI | — | `interior-site-supervision` |
 
 ## Purpose
+
+For substrate suitability, curved panels, split-fold/slide-fold doors, pull-down fittings or assembled delivery, load [joinery-method-and-emissions.md](references/joinery-method-and-emissions.md). For appliance cavities use [kitchen-appliance-coordination.md](../interior-mep-clash-detection/references/kitchen-appliance-coordination.md); for stone templating/support use [countertop-selection-and-fabrication.md](../interior-material-procurement/references/countertop-selection-and-fabrication.md).
+
 Use for cabinetry/joinery technical resolution including carcass logic, hardware selection, and service integration.
 
 ## Core Outputs
