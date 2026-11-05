@@ -1,0 +1,18 @@
+---
+description: Archive sources in Reference/SS after they are cross-checked and integrated into interior-designer-hk
+alwaysApply: true
+---
+
+# Source archive after skill integration
+
+When the user asks to cross-check a source and integrate it into `interior-designer-hk`:
+
+1. Finish extraction and skill integration first, including compliance checks.
+2. Then archive every source file used for that request (pdf, txt, md, and any other format) under `Reference/SS`.
+3. If the file is already inside the repo and outside `Reference/SS`, move it. If it lives outside the repo, copy it in. Leave a file that is already under `Reference/SS`.
+4. Keep the original filename. A folder of files keeps its folder name: `Reference/SS/<source-folder>/...`. A single file goes to `Reference/SS/<filename>`, or `Reference/SS/<short-name>/<filename>` only when that filename is already taken.
+5. Point new citations, including `interior-designer-hk/references/source-register.md` and subskill source lines, at the archived path.
+6. Do not archive skill files, indexes, scripts, audit notes, or the standing HKRG / HKEDCA / HKRIDA library unless that file was the source named for this cross-check.
+7. Report the archived path once the move or copy is done.
+
+Example: a PDF dropped at the repo root for a cross-check ends at `Reference/SS/example-spec.pdf`, and the new source-register row links to that path.
