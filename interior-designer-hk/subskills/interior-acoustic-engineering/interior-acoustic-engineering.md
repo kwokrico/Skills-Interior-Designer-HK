@@ -8,6 +8,8 @@ disable-model-invocation: true
 
 # interior-acoustic-engineering
 
+For HK application of overseas textbook examples, read [Hong Kong adaptation](../../references/ching-hk-adaptation.md): accessibility/legal status, fire/stairs/barriers, daylight, services, energy, IAQ and certification. Confirm scope and edition before adopting a dimension or performance claim.
+
 For ceiling/service zone conflicts with baffles, use `interior-mep-clash-detection` instead.  
 For lighting compensation after acoustic treatment, use `interior-lighting-science` instead.
 

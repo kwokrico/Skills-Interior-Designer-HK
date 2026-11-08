@@ -1,5 +1,9 @@
 # Golden verification prompts
 
+Next-wave coverage is planned in [NEXT-EVALUATION-PLAN.md](NEXT-EVALUATION-PLAN.md), with 12 new prompts in [planned-scenarios.json](planned-scenarios.json). These scenarios are not yet executed and are separate from the active suite.
+
+DECO-TV additions are scenarios 35–38 in `evals.json`: services before concealment and photo/drilling limits; completion/cleaning/payment distinctions; joinery replacement and door-system evidence; paint/tile inspection without video-derived universal rules. JSON/link/dispatcher checks are structural verification, not executed behavioural evaluations.
+
 Run after skill changes to confirm routing, depth, and compliance halts.
 
 ## 1. Routine — quick reference only
@@ -79,6 +83,8 @@ Run after skill changes to confirm routing, depth, and compliance halts.
 
 `evals.json` contains the complete prompts and observable assertions, including IDs 12–23 below. Run them through the skill and inspect the actual responses; JSON validation and a routing walkthrough alone do not establish model behaviour.
 
+The HKRIDA scenarios (slugs `hkrida-*`) add briefing/concept, consultancy scope, document precedence, universal use/POE, material evidence, licensing/adaptive reuse and lifecycle evaluation. Run them as behavioural prompts when evaluating those additions; archive/link/dispatcher validation is separate from model-response testing.
+
 | ID | Scenario | Expected route and decisive behaviour |
 |---|---|---|
 | 12 | Steam oven: universal 20A / two-inch rear gap | MEP + millwork; obtain actual model/install drawing and whole air path; no copied circuit size |
@@ -93,3 +99,33 @@ Run after skill changes to confirm routing, depth, and compliance halts.
 | 21 | Cat-scratch fabric and zero-wall recliner | Ergonomics; verify material/care, full opening and service envelope, pinch/stability checks; no immunity guarantee |
 | 22 | Compact flat with kitchen door removal | Ergonomics + fire/statutory; compare circulation/furniture options without authorising unsafe alterations |
 | 23 | Seepage transcript with fees and dates | Statutory; current official procedure and actual notice, stage distinction; no invented fees/fines |
+
+## HOMIC DÉCOR verification scenarios
+
+Added scenarios 24–27 in `evals.json`: electrical point reconciliation without deleting required isolation; window/flood testing without typhoon guarantees or universal cure times; detailed room snags without replacing certification or deferring urgent defects; old-flat survey without hiding defects or assuming enclosure legality. Assess actual responses against the assertions when running a behavioural evaluation. Dispatcher, JSON and link checks alone do not establish model behaviour.
+
+## Ching textbook additions
+
+Scenarios `ching-composition` and `ching-furnishings` check spatial hierarchy/flexibility, conditional colour claims, inventory-based storage and coordinated window treatments. They also reject historical book dimensions as HK legal minima. Added scenarios are not evidence of executed behavioural tests; structural validation is recorded in the source coverage audit.
+
+## Ching Hong Kong adaptation
+
+Scenarios `ching-hk-access-status`, `ching-hk-required-stair`, `ching-hk-services` and `ching-hk-green-and-iaq` test applicability, legal/advisory status, scoped local dimensions, edition transitions and certification limits. Structural checks do not count as executed behavioural evaluations.
+
+Executed on 2026-11-07: [behavioural evaluation report and saved responses](runs/ching-hk-2026-11-07/REPORT.md). Final sampled result: 4/4 scenarios, 14/14 content assertions and 4/4 routing checks pass after targeted fixes. The report preserves baseline and failed intermediate results and explains the test limits.
+
+## DECO-TV batch 2 additions
+
+Six `deco-*` scenarios cover shutoff shower heads, cabinet/pipe scope, tools/liability, finish marketing, retained services and flood-test claims. These are added regression prompts, not executed independent behavioural evaluations. Structural and manual review results are recorded in the batch 2 coverage audit.
+
+## Remaining planned behavioural scenarios
+
+Executed 2026-11-07: [18-case report, actual responses and grades](runs/remaining-2026-11-07/REPORT.md). IDs6,7,35,36,39,40 and45–56 finish at 18/18 scenarios, 61/61 content assertions and 18/18 routes after fixes. Controls45/55 and prior case44 also pass; nine lighting-calculator tests pass. Three version-drift responses are excluded and preserved. Concurrent IDs57–62 are outside this run; this is not a full-suite pass.
+
+DECO-TV batch 3 (2026-11-07): added `deco-paint-recipes` and `deco-demolition-followup` as regression prompts. These prompts have not been run as behavioural evaluations. Structural checks and archive integrity are recorded in `Reference/DECO-TV-BATCH3-VALIDATION-2026-11-07.json`; Python validation is unavailable because the local interpreter fails to import encodings.
+
+DECO-TV batch 4 (2026-11-08): added `deco-solder-evidence`, `deco-detector-and-adaptor`, and `deco-tool-marketing`. Added regression cases only; behavioural evaluation not executed. See `Reference/DECO-TV-BATCH4-VALIDATION-2026-11-08.json` for structural/hash checks.
+
+## Tim Ho additions — 2026-11-08
+
+Scenarios 68–73 cover smart wiring/escape, unit bathrooms/fire doors, pressure/material evidence, split-trade insurance, privacy/accommodation and IAQ/protection. Added for future behavioural execution; JSON/link checks are structural verification only.

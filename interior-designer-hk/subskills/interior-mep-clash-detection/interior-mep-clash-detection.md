@@ -9,6 +9,12 @@ disable-model-invocation: true
 
 # interior-mep-clash-detection
 
+For HK application of overseas textbook examples, read [Hong Kong adaptation](../../references/ching-hk-adaptation.md): accessibility/legal status, fire/stairs/barriers, daylight, services, energy, IAQ and certification. Confirm scope and edition before adopting a dimension or performance claim.
+
+For DECO-TV residential cooling/fan maintenance, small-repair compatibility or client/repair procurement questions relevant to this module, read [the applicable field supplement](../../references/deco-hvac-maintenance.md). Treat demonstrations as conditional observations; obtain actual system and contract evidence.
+
+For services before concealment, false-ceiling wiring scope and route-photo/test records, read [residential stage inspections](../interior-site-supervision/references/residential-stage-inspections.md). Confirm the compliant wiring system with the registered contractor; photographs do not certify safety or authorize drilling.
+
 For pure egress or fire-rating logic, use `interior-fire-life-safety` instead.  
 For statutory permit scope, use `interior-statutory-compliance` instead.
 
@@ -127,3 +133,13 @@ Load from parent references/ when needed (one hop):
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
 * [hk-residential-mini-tender-set.md](../../references/cases/hk-residential-mini-tender-set.md) — P3 heights + wet ceiling zones
 
+
+
+For retained appliances, shower controls/screens, smart sockets, drainage or cabinet lighting, read [deco-fixtures-and-retained-services](../../references/deco-fixtures-and-retained-services.md).
+
+For potable-water solder evidence, lead-test claims or pipe-joint demonstrations, read [repair and materials — potable-water safety gate](../../references/deco-repair-and-materials.md#potable-water-solder-evidence--safety-gate). Leaded solder is not an acceptable substitute for competent installation and documented lead-free materials.
+
+
+## Tim Ho field review
+
+Read the applicable supplement for detailed checks and qualified source evidence: [services and smart home](../../references/tim-ho-services-and-smart-home.md).

@@ -104,35 +104,44 @@ class EgressCalculator:
         return result
 
     def lux_targeting(self, data: dict[str, Any]) -> dict[str, Any]:
-        """
-        Maintained illuminance: E_m = E_u × MF × LLF.
-        E_u = target lux; MF = maintenance factor; LLF = lamp lumen depreciation factor.
-        """
-        target_lux = float(data.get("target_lux", 300))
-        maintenance_factor = float(data.get("maintenance_factor", 0.8))
-        llf = float(data.get("llf", 0.9))
-        lumens_per_fixture = float(data.get("lumens_per_fixture", 0))
-        room_area_m2 = float(data.get("room_area_m2", 0))
-        utilization_factor = float(data.get("utilization_factor", 0.5))
+        """Initial illuminance = maintained target / explicit overall maintenance factor."""
+        import math
 
-        if target_lux <= 0:
-            return {"error": "target_lux must be > 0"}
+        if "llf" in data:
+            return {"error": "Do not supply a separate llf: resolve overlapping losses into one overall maintenance_factor."}
+        required = ["target_lux", "maintenance_factor"]
+        fixture_fields = ["lumens_per_fixture", "room_area_m2", "utilization_factor"]
+        estimate_fixtures = any(key in data for key in fixture_fields)
+        if estimate_fixtures:
+            required += fixture_fields
+        if any(key not in data for key in required):
+            return {"error": "Explicit inputs required: " + ", ".join(required)}
+        try:
+            values = {key: float(data[key]) for key in required}
+        except (TypeError, ValueError, OverflowError):
+            return {"error": "Lighting inputs must be finite positive numbers"}
+        if any(isinstance(data[key], bool) or not math.isfinite(value) or value <= 0 for key, value in values.items()):
+            return {"error": "Lighting inputs must be finite positive numbers"}
+        if values["maintenance_factor"] > 1 or values.get("utilization_factor", 1) > 1:
+            return {"error": "maintenance_factor and utilization_factor must be in (0, 1] for this estimate"}
 
-        maintained = target_lux
-        initial_required = maintained / (maintenance_factor * llf) if maintenance_factor * llf else target_lux
+        target_lux = values["target_lux"]
+        maintenance_factor = values["maintenance_factor"]
+        initial_required = target_lux / maintenance_factor
 
         result: dict[str, Any] = {
             "calc_type": "lux_targeting",
             "target_maintained_lux": target_lux,
             "maintenance_factor": maintenance_factor,
-            "llf": llf,
             "initial_design_lux": round(initial_required, 1),
-            "formula": "E_m = E_u; E_initial = E_u / (MF × LLF)",
+            "formula": "E_initial = E_maintained / MF_total",
+            "basis": "maintenance_factor is the overall non-overlapping factor; estimate only, not photometric or compliance validation",
         }
 
-        if lumens_per_fixture > 0 and room_area_m2 > 0 and utilization_factor > 0:
-            import math
-
+        if estimate_fixtures:
+            lumens_per_fixture = values["lumens_per_fixture"]
+            room_area_m2 = values["room_area_m2"]
+            utilization_factor = values["utilization_factor"]
             total_lumens_needed = (initial_required * room_area_m2) / utilization_factor
             fixture_count = math.ceil(total_lumens_needed / lumens_per_fixture)
             result["room_area_m2"] = room_area_m2

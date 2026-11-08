@@ -8,8 +8,16 @@ disable-model-invocation: true
 
 # interior-lighting-science
 
+For HK application of overseas textbook examples, read [Hong Kong adaptation](../../references/ching-hk-adaptation.md): accessibility/legal status, fire/stairs/barriers, daylight, services, energy, IAQ and certification. Confirm scope and edition before adopting a dimension or performance claim.
+
 For ceiling/service conflicts with luminaires, use `interior-mep-clash-detection` instead.  
 For numeric lux/fixture count estimates, use `run_interior_calculator` lux_targeting.
+
+### Maintained-lighting calculation basis
+
+Use `E_maintained = E_initial × MF_total`, with one supported overall maintenance factor. CIE includes lamp output decline and dirt on luminaires/room surfaces in MF; IES uses LLF for a wider loss allowance, not simply lamp lumen maintenance. Define each component and count it once. Sources checked 2026-11-07: [CIE definition](https://cie.co.at/eilv/753), [IES definition](https://ies.org/definitions/light-loss-factor-llf/).
+
+The calculator requires explicit `target_lux` (maintained) and `maintenance_factor` (overall); a separate `llf` input is rejected because its overlap is unknown. A fixture estimate additionally needs `room_area_m2`, `lumens_per_fixture` and `utilization_factor`. Do not invent these inputs. The lumen-method estimate does not establish distribution, glare, uniformity, screen comfort or compliance; obtain actual photometry, geometry, maintenance programme and commissioning evidence. Initial 500 lux alone does not prove 500 lux maintained.
 
 ## When to Use This Skill
 
@@ -27,6 +35,10 @@ For numeric lux/fixture count estimates, use `run_interior_calculator` lux_targe
 - P3 legend conventions: [`hk-residential-mini-tender-set.md`](../../references/cases/hk-residential-mini-tender-set.md).
 
 ## Purpose
+
+HKRIDA Products and Materials chapter 10 ([archived source](../../../Reference/SS/HKRIDA/application_20200331_3y12O-compressed.pdf), PDF pp. 44–73) supplements the numerical targets: consider daylight, direct/indirect distribution, beam/aiming, glare, contrast, surface reflectance/texture and the change of scenes through use/time. Review actual materials under the proposed light. Illuminance is incident flux per area (lux); luminance describes light leaving a surface toward a viewer (cd/m²). Do not copy the book's conflated terminology or historical lamp tables as current product performance.
+
+For luminaire selection record tag/location/quantity, manufacturer/model, distribution/photometric data, output and power, CCT/colour rendering, mounting/cutout/depth, finish, driver/control compatibility and access, environmental rating and any emergency role. Verify a product's data and maintainability; lamp wattage or a rendering alone cannot establish task illuminance or visual comfort.
 Use for performance-led lighting design decisions, including quality metrics and coordination constraints.
 
 ## Core Outputs
@@ -90,3 +102,12 @@ Load from parent references/ when needed (one hop):
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
 * [hk-residential-mini-tender-set.md](../../references/cases/hk-residential-mini-tender-set.md) — P3 legend + height markers
 
+## Spatial design and furnishing reference
+
+When the brief concerns composition, visual hierarchy, furniture grouping, storage planning or window coverings, read the relevant shared reference:
+
+- [spatial composition](../../references/ching-spatial-composition.md)
+- [furnishings and window treatments](../../references/ching-furnishings-and-window-treatments.md)
+
+
+For retained appliances, shower controls/screens, smart sockets, drainage or cabinet lighting, read [deco-fixtures-and-retained-services](../../references/deco-fixtures-and-retained-services.md).

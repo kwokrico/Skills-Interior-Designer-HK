@@ -49,3 +49,15 @@ More work moves the completion date. Use the programme as the baseline. Fairest 
 - “Every rate-only quote is fraud.”
 - “Unforeseen spalling is always the owner’s cost,” or “a short-stay owner may leave rusted bars.” Spalling repair is a statutory item — see `interior-statutory-compliance` / `structural-and-hos-alerts.md`.
 - A design-fee credit figure as market practice. Ask; do not assume it.
+
+## Electrical point-count reconciliation (HOMIC DÉCOR)
+
+Source: `o1XxAtMHUpk`, Summary / Transcript / Items; [archived source and review](../../../references/source-register.md#homic-décor-review-2026-11-06). HKRG already requires agreement on electrical-point counting and site confirmation (`interior-site-supervision/references/hkrg-renovation-essentials-trades.md`, §1.4). The supplement below makes that comparison explicit.
+
+- Mark each socket outlet, luminaire outlet, switch plate, switch gang, two-way control, appliance connection and isolator on the same room-by-room drawing/schedule. Record actual installed quantities separately from each bidder's chargeable units, multipliers, inclusions and exclusions.
+- State how one switch controlling several lamps and multi-gang plates are charged. Obtain worked examples from every bidder before comparing totals; the speaker's one-switch-position convention is not an industry measurement rule.
+- Compare the complete installed scope: sum agreed chargeable quantities × applicable rates, plus separately identified board work, dedicated circuits, controls, testing and making good. Historical video prices are arithmetic illustrations, not current market rates.
+- Example from the source: three luminaires plus three separately charged switch gangs gives six units × HK$500 = HK$3,000, or HK$1,000 per luminaire when allocating that combined scope. It does not establish the correct quantity: compare another bid only after its included switching/wiring scope is matched.
+- For AC, distinguish connection point, local isolator, remote wall control and dedicated circuit. Resolve overlapping charges by scope; two legitimate devices need not be a duplicate. Do not remove required isolation or access to save a billed point. Chain to MEP and the registered electrical contractor for the actual arrangement.
+- Price distribution-board retention/replacement separately from relocation: record new position, incoming supply and cable-route feasibility, access, circuits and making good. Replacement is not automatically necessary in every renovation; relocation is not guaranteed by payment.
+- Treat the transcript's “單數／馬數”, garbled supply description and appliance current ratings as unresolved terminology/examples. Require unambiguous socket/circuit descriptions and verified load/supply information; do not infer single/three-phase supply or cable/MCB sizes from them. Carry out fixed electrical works through a registered electrical contractor, with applicable completion testing/certification; see [EMSD checklist](https://www.emsd.gov.hk/filemanager/en/content_442/Electrical_Safety_Checklist.pdf), checked 2026-11-06.

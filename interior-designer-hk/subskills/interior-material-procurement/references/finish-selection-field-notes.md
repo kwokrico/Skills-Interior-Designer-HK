@@ -1,5 +1,14 @@
 # Finish selection field notes
 
+## Tile set-out and acceptance supplement (DECO-TV)
+
+Source: `xj91JzRuEYU`, Summary / Transcript / Items; [archive and review](../../../references/source-register.md#deco-tv-review-2026-11-07).
+
+- Give installers the overall pattern/orientation image, numbered pieces/bookmatch sequence where applicable and approved set-out with start datum, visible edges, cuts, fixtures and furniture. Keep a marked copy at site; one tile alone may not communicate the intended composition. This supplements the existing full-tile/visible-edge guidance below.
+- Inspect delivered shade, calibre, pattern, quantity and damage before the laying crew depends on the batch. Record discrepancies and agree replacements, storage, labour/programme effects and any VO before proceeding. The party buying a tile is not automatically liable for every standby loss; responsibility follows the contract and evidence.
+- Tap-testing is screening: substrate, partition construction and assembly affect the sound. Map suspect areas and seek competent assessment under the applicable specification before accepting/rejecting or instructing removal. The speaker's “more than two hollow points out of nine” is not adopted as a universal test or failure threshold.
+- Where HKRG §驗收指引/2.5 is adopted, retain its area/location conditions, including critical wet/drainage/load areas; a point count is not an equivalent area percentage. Confirm the actual tile/system acceptance method, curing and any further investigation without damaging waterproofing. Owner tap sounds alone do not establish poor workmanship or liability.
+
 > Source: 工程師裝修學堂 transcripts extracted 2026-11-01 (`Reference/renovationeer_extract`). Field commentary, not HKEDCA, HKRG, or statute.
 > On conflict: statute, AP/RSE, manufacturer method statement, then the signed contract.
 > Do not copy spoken numbers the transcript flags as Whisper errors.
@@ -30,13 +39,15 @@ Thickness, strength, and maximum pour come from the **current datasheet**. Disca
 
 ## Floor and wall by length of stay
 
+The following stay periods are source preferences, not material lifespans or selection rules. Compare substrate condition, moisture, maintenance, repairability and actual product evidence before deciding to overlay or strip.
+
 | Stay | Field approach |
 |---|---|
 | About 3–5 years | Cover rather than strip. SPC is a short-stay floor; it wears and is usually left behind. Do not use it to bury a failed membrane or a fall to a floor waste |
 | About 10–20 years | Spend on the base. Tile is easier to keep |
 
-- SPC and seamless timber (Quick-Step type in the source) swell when wet. Sheet vinyl was the cheap rental floor because it lifts. Timber is harder to keep in an ordinary small flat; the source does not recommend it unless the look is the point.
-- Microcement rarely pays in a small HK flat. 文化石 chips easily — experience, not a test. Ask whether a material can form the drawn bullnose.
+- Do not generalise the source’s wet-swelling claim to every SPC product. Timber/laminate, SPC cores, joints and underlays have different moisture and movement behaviour. Verify the complete floor assembly and manufacturer limits; an impervious sample does not make joints or the substrate waterproof.
+- The source’s microcement cost judgement and 文化石 chipping account are field opinions, not universal performance results. Compare actual installed-system costs, repairability and evidence; confirm whether the material can form the drawn bullnose.
 - Do not finish what nobody sees and what cabinet install will scratch: tiles behind kitchen cabinets, walls fully hidden by tall units. Where a strip of wall remains, a panel can be more practical than a perfect plaster face.
 - A storage platform that will leave in a few years: screed only underneath, not tile. **Wet areas are not this rule.** Do not skip waterproofing because a cabinet will cover the wall.
 - Hob zone: non-combustible stainless sheet. Do not record a fire-board rating the speaker then retracted.
@@ -62,3 +73,9 @@ Long rectangular tiles can show lippage when a high point meets a low point in a
 Showroom near-seamless displays are aesthetic demonstrations, not approval for jointless home installation. Retain product/system joint requirements and movement joints. Grout fills tile joints; it does not replace the waterproofing membrane or movement sealant. Follow the chosen tile/adhesive instructions for preparation, including whether soaking is appropriate; do not soak every tile called 浸水瓦 by default.
 
 Choose grout with the delivered tile under site lighting. Check compatible joint width, wet-use/cleaning requirements and curing. Approve a small cured trial before grouting the whole area; colour can change from wet to dry. A paler grout is a preference, not a rule. Record code, product, colour, batch and mockup approval on the material schedule; chain joint failures to interface detailing and acceptance disputes to handover.
+
+## Tile setting-out and priced edges — DECO-TV batch 3
+
+Sources: 7tm2tA4smdk, vXdKb0aYqJc, QDGBpkJaPeg; [coverage and archives](../../../../Reference/DECO-TV-BATCH3-COVERAGE-2026-11-07.md).
+
+Agree a dimensioned setting-out drawing before installation: starting wall/datum, first tile, focal alignment, joint widths, cut locations and edge returns. Check the whole elevation and openings to avoid unintended narrow slivers; a nominal count of full tiles is insufficient. Trial exposed corners with the actual tile profile: bevelled/curved tiles may need a trim or alternative return instead of a mitre. Price tile-skirting supply, cutting, edge finishing, wastage, installation and protection explicitly, including who supplies cut pieces. Do not assume a quoted standard tile size/rate includes every pattern or skirting method. Wood-look is an appearance, not proof of floor/wall/wet-area suitability or mould immunity. A stainless-steel overlay still requires the retained-substrate, fixing, joint, heat and moisture checks in [finish evidence](../../../references/deco-finish-evidence-and-maintenance.md); it is not automatically cheaper or a waterproof assembly.

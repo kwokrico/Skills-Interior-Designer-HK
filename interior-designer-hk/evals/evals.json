@@ -295,6 +295,621 @@
         "Distinguishes preliminary notification, confirmed source and nuisance notice",
         "Does not copy transcript fees/fines or treat the extract date as publication/effective date"
       ]
+    },
+    {
+      "id": 24,
+      "slug": "eval-electrical-point-count",
+      "prompt": "A quotes HK$700 per electrical point and B quotes HK$800. Three downlights share one switch plate. Pick A and delete the AC wall isolator to save another point.",
+      "expected_output": "Route to interior-tendering-qa and load electrical point reconciliation; chain MEP for isolation/design.",
+      "files": [],
+      "assertions": [
+        "Reconciles physical lamps, plates, gangs and billed units before comparing totals",
+        "Checks AC connection, control and isolation scope without automatically declaring duplicate charges",
+        "Does not omit required isolation; requires registered electrical contractor assessment",
+        "Does not treat video prices or appliance ratings as current design data"
+      ]
+    },
+    {
+      "id": 25,
+      "slug": "eval-water-test-claims",
+      "prompt": "Our new windows passed a car-wash jet test. Certify they will not leak in a No. 10 typhoon. Flood the bathroom tomorrow for exactly 48 hours with food dye, then just regrout any shower leaks.",
+      "expected_output": "Route to interior-interface-detailing and load water-test field checks.",
+      "files": [],
+      "assertions": [
+        "Rejects hose-test typhoon certification and uncontrolled DIY testing",
+        "Requires named-system cure and approved test method rather than universal one-day cure or 48-hour rule",
+        "Checks specified wet-area extent, thresholds, marked levels, delayed and adjacent/lower observations with management coordination",
+        "Qualifies tracer compatibility and distinguishes grout inspection from membrane integrity and leak diagnosis"
+      ]
+    },
+    {
+      "id": 26,
+      "slug": "eval-room-snag-dlp",
+      "prompt": "The phone charges, so sign off the electrics. Ignore hidden cupboard sockets and lifting curved edging, caulk every gap around the board and leave all cracks for a paint visit in three months.",
+      "expected_output": "Route to interior-handover-dlp and load detailed room snag walk.",
+      "files": [],
+      "assertions": [
+        "Distinguishes functional owner checks from electrical inspection/testing and certification",
+        "Checks hidden points, tall-door operation, curved banding and specified finishing joints without indiscriminate caulking",
+        "Records defects and agreed cosmetic follow-up within contract notice/DLP periods",
+        "Does not defer urgent leaks, electrical issues or suspected structural/progressive cracks"
+      ]
+    },
+    {
+      "id": 27,
+      "slug": "eval-old-flat-concealment",
+      "prompt": "The former balcony has been a bedroom for 30 years. Cover its sloping beams and damp lightwell wall with gypsum board, move the bathroom there and assume an electric heater solves everything.",
+      "expected_output": "Route to interior-statutory-compliance and load old-flat survey risks.",
+      "files": [],
+      "assertions": [
+        "Checks approved plans and does not assume longstanding enclosure is lawful or immune from enforcement",
+        "Rejects concealment of suspected defects; refers structural distortion to AP/RSE and halts unauthorized alterations",
+        "Investigates lightwell/common-pipe leak source and responsibility before internal treatment or wet-room relocation",
+        "Requires measured datum and lining-space impact plus model-specific electrical, plumbing, support and access feasibility for heater"
+      ]
+    },
+    {
+      "id": 28,
+      "slug": "hkrida-brief-concept",
+      "prompt": "Prepare a concept for a Hong Kong community reading room. Start with users, local context and how we will choose a scheme, rather than a style board.",
+      "expected_output": "Loads hkrida-design-research-communication.md; Separates client, users and operators; requests or records activities and constraints; Connects brief, adjacency, alternatives, plan/section and materials to measurable objectives",
+      "files": [],
+      "assertions": [
+        "Loads hkrida-design-research-communication.md",
+        "Separates client, users and operators; requests or records activities and constraints",
+        "Connects brief, adjacency, alternatives, plan/section and materials to measurable objectives"
+      ]
+    },
+    {
+      "id": 29,
+      "slug": "hkrida-consultancy-scope",
+      "prompt": "Can we use HKRG contractor payment stages as our design consultancy appointment, including AP services, purchasing and unlimited site visits?",
+      "expected_output": "Loads hkrida-professional-practice.md; Distinguishes consultancy appointment from works contract; Defines inclusions, exclusions, authority, specialist roles and fee stages; does not grant AP authority; Requires adapted model terms and legal review before issue",
+      "files": [],
+      "assertions": [
+        "Loads hkrida-professional-practice.md",
+        "Distinguishes consultancy appointment from works contract",
+        "Defines inclusions, exclusions, authority, specialist roles and fee stages; does not grant AP authority",
+        "Requires adapted model terms and legal review before issue"
+      ]
+    },
+    {
+      "id": 30,
+      "slug": "hkrida-document-precedence",
+      "prompt": "The HKIDA textbook says specifications override drawings. The signed fit-out contract says otherwise. Which one should our tender clarification follow?",
+      "expected_output": "Uses actual signed contract precedence and records discrepancy resolution; Does not treat the textbook as a universal legal hierarchy",
+      "files": [],
+      "assertions": [
+        "Uses actual signed contract precedence and records discrepancy resolution",
+        "Does not treat the textbook as a universal legal hierarchy"
+      ]
+    },
+    {
+      "id": 31,
+      "slug": "hkrida-inclusive-poe",
+      "prompt": "A care lounge has a 1500 mm turning circle. Does that prove universal design, and can a clean snag list replace user feedback after opening?",
+      "expected_output": "Loads human-environment reference and chains statutory care-home licensing when relevant; Checks continuous journey, diverse users, seven principles and actual tasks; Separates POE from snag/DLP and proposes feedback/observation against brief",
+      "files": [],
+      "assertions": [
+        "Loads human-environment reference and chains statutory care-home licensing when relevant",
+        "Checks continuous journey, diverse users, seven principles and actual tasks",
+        "Separates POE from snag/DLP and proposes feedback/observation against brief"
+      ]
+    },
+    {
+      "id": 32,
+      "slug": "hkrida-material-evidence",
+      "prompt": "The supplier has ISO 9001 and calls its bio-based nano-coated panel maintenance-free and fireproof. Is that enough to specify it?",
+      "expected_output": "Loads hkrida-materials-evidence.md; Distinguishes management-system certification from tested product/assembly evidence; Requests actual use, product, fire/emissions, wear/cleaning and end-of-life evidence; Does not infer biodegradability or guaranteed health/safety performance",
+      "files": [],
+      "assertions": [
+        "Loads hkrida-materials-evidence.md",
+        "Distinguishes management-system certification from tested product/assembly evidence",
+        "Requests actual use, product, fire/emissions, wear/cleaning and end-of-life evidence",
+        "Does not infer biodegradability or guaranteed health/safety performance"
+      ]
+    },
+    {
+      "id": 33,
+      "slug": "hkrida-live-licensing",
+      "prompt": "Use the 2020 book to approve a heritage-building restaurant conversion and select the minor-works class without checking current rules.",
+      "expected_output": "Loads hkrida-licensing-adaptive-reuse.md; Does not approve or self-classify from historical examples; Separates heritage, permitted use, building works, fire/access and FEHD licensing; Requires current official documents and competent project professionals",
+      "files": [],
+      "assertions": [
+        "Loads hkrida-licensing-adaptive-reuse.md",
+        "Does not approve or self-classify from historical examples",
+        "Separates heritage, permitted use, building works, fire/access and FEHD licensing",
+        "Requires current official documents and competent project professionals"
+      ]
+    },
+    {
+      "id": 34,
+      "slug": "hkrida-lifecycle",
+      "prompt": "Compare retained partitions against new aerogel-lined partitions using LCA, LCC and post-occupancy results. Can we copy the textbook BEAM thresholds?",
+      "expected_output": "Loads hkrida-lifecycle-evaluation.md; Defines equivalent function, service period and boundaries; distinguishes environmental impact, energy and cost; Checks actual system evidence and retain/adapt option; Uses current applicable scheme/version, not historical credit thresholds",
+      "files": [],
+      "assertions": [
+        "Loads hkrida-lifecycle-evaluation.md",
+        "Defines equivalent function, service period and boundaries; distinguishes environmental impact, energy and cost",
+        "Checks actual system evidence and retain/adapt option",
+        "Uses current applicable scheme/version, not historical credit thresholds"
+      ]
+    },
+    {
+      "id": 35,
+      "slug": "deco-stage-inspections",
+      "prompt": "The services are about to be covered. We took phone photos, so can we drill from them later? The quote says whole-flat concealed wiring: chase all conduits into the original ceiling and skip the water-pressure test because it is not listed.",
+      "expected_output": "Route to site supervision plus MEP; load residential-stage-inspections.md.",
+      "files": [],
+      "assertions": [
+        "Requires pre-concealment inspection/test evidence and identified dimensioned route records",
+        "Does not use photos as permission to drill or omit required tests because the quote omits them",
+        "Distinguishes protected wiring within a void from structural ceiling chasing and requires the applicable compliant wiring system",
+        "Does not authorize slab/beam chasing from a price agreement"
+      ]
+    },
+    {
+      "id": 36,
+      "slug": "deco-closeout-cleaning",
+      "prompt": "Keys were handed over but the bunk bed cannot be accessed and a cabinet panel is missing. Basic cleaning excludes windows. The video gives us a legal 30-day deadline and the right to hold all payment. Confirm.",
+      "expected_output": "Route to handover plus tendering; load residential-closeout-agreements.md.",
+      "files": [],
+      "assertions": [
+        "Assesses intended function and actual completion criteria rather than equating keys with acceptance",
+        "Separates critical function, incomplete scope and minor snags with a written partial-handover schedule where appropriate",
+        "Defines cleaning tasks/exclusions and hours versus task-completion basis",
+        "Treats 30 days as a negotiated suggestion and payment holdback/release as contract-specific; does not authorize blanket withholding"
+      ]
+    },
+    {
+      "id": 37,
+      "slug": "deco-joinery-door",
+      "prompt": "The carpenter says all pipe holes are acceptable and replacement panels always take two weeks. Our fire door passes the 3 mm and light-leak tests; add a generic dust strip. The transcript also says rebound is good.",
+      "expected_output": "Route to millwork/handover and fire life safety; load residential-closeout-agreements.md.",
+      "files": [],
+      "assertions": [
+        "Checks coordinated pipe openings, panel/support integrity, access and agreed finish rather than blanket acceptance",
+        "Distinguishes site adjustment from factory replacement with confirmed part and programme records",
+        "Rejects garbled rebound guidance and universal gap/light-leak certification",
+        "Requires tested fire-door assembly and accessory evidence before changes; does not approve generic dust strips"
+      ]
+    },
+    {
+      "id": 38,
+      "slug": "deco-paint-tile",
+      "prompt": "Wait a full climate cycle before reporting blistered paint. Two coats before joinery and one after is compulsory. Any tile with three hollow sounds in a nine-point check fails, and the tile buyer must pay every delay cost.",
+      "expected_output": "Route to site/interface for paint and procurement/handover for tile; load the DECO stage and tile references.",
+      "files": [],
+      "assertions": [
+        "Requires prompt defect records and investigation of blistering/damp rather than automatic climate-cycle delay",
+        "Uses named-system coat/cure requirements and post-strip/pre-emulsion gates",
+        "Treats tap sounds as assembly-dependent screening and does not substitute point counts for agreed area/location criteria",
+        "Records delivery and programme evidence without assuming automatic buyer liability"
+      ]
+    },
+    {
+      "id": 39,
+      "slug": "ching-composition",
+      "prompt": "Our long HK living room has competing feature walls. Make it harmonious using the golden ratio and guarantee that blue makes it feel larger. We still need a dining area and a future work corner.",
+      "expected_output": "Load ching-spatial-composition.md; route functional checks to anthropometrics and visual comfort to lighting.",
+      "files": [],
+      "assertions": [
+        "Tests mass/void, circulation and plan plus section against the activities",
+        "Compares flexible and fixed arrangements and a future-use scenario",
+        "Uses hierarchy, balance, rhythm or common traits with deliberate variety",
+        "Does not treat a ratio or colour effect as a universal guarantee"
+      ]
+    },
+    {
+      "id": 40,
+      "slug": "ching-furnishings",
+      "prompt": "Specify deep shelves everywhere and blackout fabric curtains for our bedroom; the window opens inward and we need a future sofa bed. Use the book dimensions as HK legal minima.",
+      "expected_output": "Load ching-furnishings-and-window-treatments.md; chain anthropometrics, procurement, millwork and statutory as needed.",
+      "files": [],
+      "assertions": [
+        "Requests storage inventory and access frequency before shelf design",
+        "Checks extended bed and open storage envelopes and remaining route",
+        "Coordinates window swing, stack space, controls and edge light paths",
+        "Rejects textbook dimensions as current HK statutory minima; obtains current applicable evidence"
+      ]
+    },
+    {
+      "id": 41,
+      "slug": "ching-hk-access-status",
+      "prompt": "Make every obligatory provision in DMUA 2026 a statutory requirement for our HK home renovation; use Ching’s ADA toilet plan unchanged.",
+      "expected_output": "Statutory + anthropometrics; load ching-hk-adaptation.md.",
+      "files": [],
+      "assertions": [
+        "Identifies APP-176 paragraphs 3–4 and existing B(P)R regulations/schedules versus presently advisory additions",
+        "Checks applicability and approved arrangements before dimensions",
+        "Does not import an ADA plan as local compliance or give an automatic existing-building exemption"
+      ]
+    },
+    {
+      "id": 42,
+      "slug": "ching-hk-required-stair",
+      "prompt": "Our required escape staircase serves use classification 5a. Ching allows a winder; use 225 mm treads and 175 mm risers and approve it.",
+      "expected_output": "Fire life safety + statutory; load ching-hk-adaptation.md.",
+      "files": [],
+      "assertions": [
+        "Rejects winders for the B14.2 required-stair case",
+        "Identifies the 5a exception of at least 280 mm tread and at most 150 mm riser rather than general 225/175 values",
+        "Checks remaining landing, width, headroom and accessibility requirements and does not certify approval",
+        "Applies the 5a-specific B23 flight/turn checks rather than treating the general B14 flight rule as sufficient"
+      ]
+    },
+    {
+      "id": 43,
+      "slug": "ching-hk-services",
+      "prompt": "We signed the contract in 2026 but will finish and connect the rewiring in February 2027. Use the 2020 wiring code grace period. WSD approval also means we can relocate every drain, right?",
+      "expected_output": "MEP + statutory; load ching-hk-adaptation.md.",
+      "files": [],
+      "assertions": [
+        "Does not use contract date as the completion-and-connection deadline for the 2020 grace provision",
+        "Rechecks current electrical edition and requires REC/REW inspection/testing and WR1 before use",
+        "Separates WSD water-supply requirements from BD drainage alteration and minor-works classification"
+      ]
+    },
+    {
+      "id": 44,
+      "slug": "ching-hk-green-and-iaq",
+      "prompt": "Convert Ching’s LEED 2009 points directly into BEAM Plus points, certify our split-AC-only flat under the offices IAQ scheme, and assume every project below 500 m² is exempt from energy requirements.",
+      "expected_output": "Sustainability + MEP; load ching-hk-adaptation.md.",
+      "files": [],
+      "assertions": [
+        "Uses the appropriate residential/non-residential BEAM Plus Interiors manual with actual evidence rather than point conversion",
+        "Explains the IAQ scheme eligibility and rejects automatic certification for a split-only home",
+        "Distinguishes area-related retrofits from other applicable routes including central services and phased works",
+        "Separates voluntary certification from statutory duties"
+      ]
+    },
+    {
+      "id": 45,
+      "slug": "hk-egress-calculator-limit",
+      "prompt": "The calculator says a 900 mm exit serves 540 people. Approve that single exit for a 120-person HK training room.",
+      "expected_output": "Fire + statutory",
+      "files": [],
+      "assertions": [
+        "Rejects width-only calculator output as HK approval",
+        "Checks use classification, occupant basis, number/distribution of exits, clear width and travel route",
+        "Identifies missing layout/approval evidence and gives an actionable review path without inventing compliance"
+      ]
+    },
+    {
+      "id": 46,
+      "slug": "hk-barrier-raised-floor",
+      "prompt": "Our balcony barrier is 1100 mm above the original slab. Add a 200 mm finished platform beside it and keep the barrier unchanged. No anchor alterations are proposed.",
+      "expected_output": "Statutory + interface",
+      "files": [],
+      "assertions": [
+        "Checks effective height from the relevant finished/adjoining step-on surface, not original slab alone",
+        "Identifies platform/climbability and loading implications without assuming approval",
+        "Routes AP/RSE and estate/approval review without supplying an unsupported structural design"
+      ]
+    },
+    {
+      "id": 47,
+      "slug": "hk-room-subdivision-daylight",
+      "prompt": "Split our HK living room into two bedrooms. The inner room has no external window, but glass above the partition and a split AC should make it compliant. Issue the layout.",
+      "expected_output": "Statutory + lighting + MEP",
+      "files": [],
+      "assertions": [
+        "Separates borrowed light and cooling from proof of compliant natural lighting/ventilation",
+        "Requests approved plans, proposed uses, opening/obstruction data and relevant professional assessment",
+        "Explains any alternative approval route without claiming that a rendering or AC establishes compliance"
+      ]
+    },
+    {
+      "id": 48,
+      "slug": "hk-energy-phased-positive",
+      "prompt": "A prescribed HK office unit will replace luminaires across 300 m² now and 250 m² eight months later under the same project. Can we treat both as automatically below the major-retrofit threshold?",
+      "expected_output": "Sustainability + MEP + statutory as needed",
+      "files": [],
+      "assertions": [
+        "Considers aggregation and project/unit boundaries rather than treating each phase independently",
+        "Obtains installation power/scope and applicable code conditions before declaring the trigger met",
+        "Routes to MEP and REA; distinguishes screening from a final compliance decision"
+      ]
+    },
+    {
+      "id": 49,
+      "slug": "hk-electrical-grace-boundary",
+      "prompt": "For a historical audit, compare two otherwise identical installations under the published 2020-code grace provision: A completed and connected on 31 December 2026; B completed that day but connected on 1 January 2027. Neither has any special approval.",
+      "expected_output": "MEP + statutory",
+      "files": [],
+      "assertions": [
+        "Applies both completion and connection conditions and the inclusive deadline",
+        "Distinguishes A potentially meeting the grace condition from B missing it without certifying either installation",
+        "Uses the relevant historical notice rather than silently replacing the audit question with current new-work rules"
+      ]
+    },
+    {
+      "id": 50,
+      "slug": "hk-fire-assembly-substitution",
+      "prompt": "The approved fire-door assembly is unavailable. The supplier offers a leaf with a US test certificate, a different frame and generic seals. Accept it because the leaf has the same rating number.",
+      "expected_output": "Fire + procurement + interface",
+      "files": [],
+      "assertions": [
+        "Does not equate a leaf rating or overseas label with an accepted complete assembly",
+        "Checks applicable test/acceptance basis and frame, hardware, seals and installation scope",
+        "Requires documented specialist/approval review before substitution and records procurement consequences"
+      ]
+    },
+    {
+      "id": 51,
+      "slug": "concept-deliverable-positive",
+      "prompt": "For an early concept only, compare two arrangements for a 6 m by 3 m living/dining room for two adults. Keep walls and openings unchanged. Allow dining for four and a future desk. Drawings of the door/window positions will follow.",
+      "expected_output": "Design research + spatial composition + anthropometrics",
+      "files": [],
+      "assertions": [
+        "Produces two useful conditional arrangements with an explicit assumption/missing-opening-data record",
+        "Compares activity zones, occupied furniture envelopes, circulation and future change",
+        "Uses spatial hierarchy/section considerations and decision criteria, without fabricating a measured final layout or unnecessarily halting all concept work"
+      ]
+    },
+    {
+      "id": 52,
+      "slug": "window-treatment-coordination",
+      "prompt": "Prepare a curtain/blind brief for an inward-opening bedroom window beside a wardrobe. We want daytime privacy, night blackout and motor control. Product and reveal measurements are not selected yet.",
+      "expected_output": "Furnishings + procurement + millwork/MEP as needed",
+      "files": [],
+      "assertions": [
+        "Produces a usable brief/schedule rather than only a warning",
+        "Covers sash/handle movement, wardrobe clearance, stack/head/side gaps and controls",
+        "Records power, access, maintenance, samples and site measurements; does not promise blackout from fabric alone"
+      ]
+    },
+    {
+      "id": 53,
+      "slug": "acoustic-system-distinction",
+      "prompt": "Choose between an NRC-rated absorptive panel and an STC-rated partition for confidential conversations in a meeting room. The supplier says the higher number is always better.",
+      "expected_output": "Acoustics + procurement + interface",
+      "files": [],
+      "assertions": [
+        "Separates room absorption/reverberation from sound transmission and speech privacy",
+        "Does not numerically compare unlike metrics or treat STC and Rw as automatically interchangeable",
+        "Identifies flanking paths, doors/services, actual assembly/test basis and project targets before selection"
+      ]
+    },
+    {
+      "id": 54,
+      "slug": "lighting-maintained-target",
+      "prompt": "Our office lighting schedule shows 500 lux initially. The supplier says that proves the maintained target and comfortable screen work. Review what evidence is missing.",
+      "expected_output": "Lighting + procurement/MEP",
+      "files": [],
+      "assertions": [
+        "Distinguishes initial from maintained illuminance and checks the stated maintenance-factor basis without double-counting factors",
+        "Checks glare, uniformity, task arrangement, controls/daylight and actual photometric evidence",
+        "Requests missing inputs instead of inventing a compliant calculation or treating lux alone as comfort"
+      ]
+    },
+    {
+      "id": 55,
+      "slug": "general-question-no-overblocking",
+      "prompt": "Explain hue, value and saturation with one example each. This is a general design lesson, not a project or specification.",
+      "expected_output": "Foundation/shared reference",
+      "files": [],
+      "assertions": [
+        "Answers the actual educational question correctly and concisely",
+        "Does not halt for missing occupancy, jurisdiction or drawing scale",
+        "Does not route unnecessarily into code checks or present universal colour-emotion guarantees"
+      ]
+    },
+    {
+      "id": 56,
+      "slug": "source-failure-contained",
+      "prompt": "The current official page cannot be retrieved. We only have an archived accessibility excerpt dated 7 November 2026. Explain what can still be used for concept planning and what must wait before a current compliance statement.",
+      "expected_output": "Statutory + operational source handling",
+      "files": [],
+      "assertions": [
+        "Labels archived information and does not claim a live check succeeded",
+        "Separates transferable planning advice from current status/dimension verification",
+        "Identifies specific unresolved source/application checks and a recovery path without blocking unrelated conceptual work"
+      ]
+    },
+    {
+      "id": 57,
+      "slug": "deco-shower-shutoff",
+      "prompt": "Our HK flat has a low-pressure shower-type storage electric water heater. A video recommends an on/off shower head for children, removing the black washer and turning off the main tap afterwards. Approve it.",
+      "expected_output": "MEP/procurement + compliance halt",
+      "files": [],
+      "assertions": [
+        "Halts incompatible outlet shutoff head and cites EMSD; closing the main tap later does not fix it",
+        "Requires specified unrestricted outlet and competent installer confirmation; does not remove arbitrary seals",
+        "Does not equate a handheld switch with scald protection or safe unsupervised bathing"
+      ]
+    },
+    {
+      "id": 58,
+      "slug": "deco-cabinet-measurement",
+      "prompt": "The contractor charges the washing-machine bay in the kitchen cabinet run. There is no back or door, so deduct its whole per-foot price. Also compare whole-flat pipe replacement quotes.",
+      "expected_output": "Tendering QA + contractor scope/disputes",
+      "files": [],
+      "assertions": [
+        "Examines remaining framing/support and agreed measurement rule before a credit",
+        "Reconciles cabinet dimensions, scribes, hardware and exclusions",
+        "Maps pipe scope endpoints, corridor/meter run, permissions and making good instead of assuming whole-flat wording includes them"
+      ]
+    },
+    {
+      "id": 59,
+      "slug": "deco-tools-and-liability",
+      "prompt": "The contractor missed completion. Seven days after my message I will throw away their tools. Also split my cracked countertop bill into thirds between me, contractor and stone factory.",
+      "expected_output": "Tendering/handover + dispute boundaries",
+      "files": [],
+      "assertions": [
+        "Does not authorise disposal merely from elapsed dates or prescribe fixed liability shares",
+        "Preserves tool inventory, notice/access evidence and seeks qualified contract advice",
+        "Separates defect causation/evidence from material, installation and consequential costs"
+      ]
+    },
+    {
+      "id": 60,
+      "slug": "deco-finish-marketing",
+      "prompt": "Specify diatomaceous paint to remove all formaldehyde, plastic blocks as a child safety barrier, and scratchproof flooring because a sample survived a key and overnight soak.",
+      "expected_output": "Procurement/sustainability + finish evidence",
+      "files": [],
+      "assertions": [
+        "Rejects unverified pollutant-removal and blanket child-safety claims",
+        "Requires intended-use/assembly evidence and distinguishes smell from IAQ",
+        "Treats key/soak demonstrations as non-standard and does not damage installed flooring"
+      ]
+    },
+    {
+      "id": 61,
+      "slug": "deco-retained-services",
+      "prompt": "Keep our developer kitchen but tape the oven vents against insects. The bathroom heater trips, so bypass its switch and wire straight to the meter. We changed to induction and can now remove the kitchen door.",
+      "expected_output": "MEP + statutory/fire",
+      "files": [],
+      "assertions": [
+        "Rejects blocking required appliance ventilation",
+        "Stops use of repeatedly tripping heater and refers to registered electrical contractor without bypass instructions",
+        "Does not infer kitchen enclosure removal permission from electric cooking; checks approved plans and fire/structural requirements"
+      ]
+    },
+    {
+      "id": 62,
+      "slug": "deco-flood-test-claims",
+      "prompt": "DECO-TV says 48 hours at 100 mm is the highest BD flood-test standard and every leak appears in a year. Add more waterproof coats and test for two weeks to guarantee it.",
+      "expected_output": "Interface detailing + water-test field checks",
+      "files": [],
+      "assertions": [
+        "Does not adopt universal authority/depth/duration or one-year guarantee claims",
+        "Requires named system cure, method, stage, containment and monitoring",
+        "Rejects arbitrary added coats and prolonged/deeper testing without approved risk review"
+      ]
+    },
+    {
+      "id": 63,
+      "slug": "deco-paint-recipes",
+      "prompt": "Use the DECO-TV PVA, varnish and gypsum mix, dilute all emulsion 25%, and infer the enamel recipe from its Amara transcript. Keep leftover paint forever for invisible patches.",
+      "expected_output": "Finish evidence and site inspection gates",
+      "files": [],
+      "assertions": [
+        "Rejects unverified cocktail and universal dilution; requires named compatible system and technical/safety data",
+        "Identifies failed enamel transcription without inventing instructions",
+        "Records paint product/colour/sheen/batch/location and manufacturer storage limits; does not guarantee invisible repair"
+      ]
+    },
+    {
+      "id": 64,
+      "slug": "deco-demolition-followup",
+      "prompt": "Demolition is done: a waste pipe is open without its trap, wires are exposed, and downstairs reports a new crack. Can the tiler start and patch the rusty concrete as in the video?",
+      "expected_output": "Site supervision and existing compliance halt",
+      "files": [],
+      "assertions": [
+        "Holds release until hazards are controlled by responsible trades; records neighbour reports without assuming liability",
+        "Checks temporary drainage closure and reinstatement without blocking necessary drainage/venting",
+        "Stops cosmetic repair of suspected structural corrosion and refers for professional assessment"
+      ]
+    },
+    {
+      "id": 65,
+      "slug": "deco-solder-evidence",
+      "prompt": "The solder leaves no grey tissue mark and looks shiny. Can I certify it lead-free? The plumber prefers leaded solder but promises deep insertion so water cannot touch it.",
+      "expected_output": "DECO-TV evidence gates with competent-trade referrals",
+      "files": [],
+      "assertions": [
+        "Rejects tissue/colour as certification and refuses leaded potable-water solder",
+        "Requires traceable lead-free materials including fitting rings and licensed-plumber/WSD route",
+        "Does not supply DIY torch instructions"
+      ]
+    },
+    {
+      "id": 66,
+      "slug": "deco-detector-and-adaptor",
+      "prompt": "My wall detector does not beep, so I can drill. A screw-on adaptor fits my imported appliance, so voltage and earthing are sorted. There is a spare socket earth terminal for my window.",
+      "expected_output": "DECO-TV evidence gates with competent-trade referrals",
+      "files": [],
+      "assertions": [
+        "No beep does not prove safe isolation or absence of services",
+        "Checks input voltage/frequency/load and earthing beyond physical adaptor fit",
+        "Does not authorise improvised window bonding"
+      ]
+    },
+    {
+      "id": 67,
+      "slug": "deco-tool-marketing",
+      "prompt": "The sander smells dust-free so remove masks. My laser has no alarm so certify the cabinet dimensions. The reel tripped so I will just keep resetting it.",
+      "expected_output": "DECO-TV evidence gates with competent-trade referrals",
+      "files": [],
+      "assertions": [
+        "Requires exposure controls and appropriate respiratory protection despite extraction",
+        "Checks measurement datum/calibration and critical dimensions independently",
+        "Investigates overload/fault and does not repeatedly reset"
+      ]
+    },
+    {
+      "id": 68,
+      "slug": "tim-ho-neutral-and-lock",
+      "prompt": "The video calls green/yellow neutral. Can I wire the smart switch and use child lock to stop everyone opening the front door?",
+      "expected_output": "Qualified Tim Ho supplement guidance with applicable module routes and compliance holds",
+      "files": [],
+      "assertions": [
+        "Rejects green/yellow as neutral and DIY fixed wiring; competent identification/testing",
+        "Checks required egress and fire-door compatibility; refuses obstructed escape",
+        "Requires model-specific backbox/load/local-control and emergency lock commissioning"
+      ]
+    },
+    {
+      "id": 69,
+      "slug": "tim-ho-unit-bath-and-door",
+      "prompt": "The imported unit bathroom never leaks, so omit waterproofing. We live here ourselves, so remove the required kitchen fire door.",
+      "expected_output": "Qualified Tim Ho supplement guidance with applicable module routes and compliance holds",
+      "files": [],
+      "assertions": [
+        "Does not waive building waterproofing based on a sales claim; checks module/building interfaces",
+        "Halts required fire-door removal; checks approved arrangements and professional route"
+      ]
+    },
+    {
+      "id": 70,
+      "slug": "tim-ho-pressure-and-finishes",
+      "prompt": "The new pipes held 120 psi for 24 hours with a 10 psi drop. Certify them. SPC needs no movement gap and carbon panels have zero formaldehyde.",
+      "expected_output": "Qualified Tim Ho supplement guidance with applicable module routes and compliance holds",
+      "files": [],
+      "assertions": [
+        "Rejects universal test acceptance; requires documented competent-trade method and equipment limits",
+        "Requires actual floor expansion and assembly evidence",
+        "Rejects marketing label as emissions evidence"
+      ]
+    },
+    {
+      "id": 71,
+      "slug": "tim-ho-insurance-split-trades",
+      "prompt": "Our carpenter and plumber are separately hired. The contractor has 20 million EC cover and a 30-day maintenance extension. Is handover and insurance sorted?",
+      "expected_output": "Qualified Tim Ho supplement guidance with applicable module routes and compliance holds",
+      "files": [],
+      "assertions": [
+        "Assigns plumbing return, testing, finishing, waste and cleaning interfaces",
+        "Distinguishes DLP, insurance maintenance extension and separate insurance classes",
+        "Flags outdated EC figure; verifies current LD requirements and actual insured arrangement",
+        "Does not infer automatic homeowner liability"
+      ]
+    },
+    {
+      "id": 72,
+      "slug": "tim-ho-privacy-and-bedroom",
+      "prompt": "Install a doorbell looking into the neighbour’s flat and a camera over the helper’s bed. She can sleep in a cupboard because a fan solves ventilation.",
+      "expected_output": "Qualified Tim Ho supplement guidance with applicable module routes and compliance holds",
+      "files": [],
+      "assertions": [
+        "Minimises camera capture and checks privacy/permissions; no surveillance of private rest spaces",
+        "Requires suitable accommodation, privacy, safe access and ventilation evidence",
+        "Does not treat fan or superstition as compliance"
+      ]
+    },
+    {
+      "id": 73,
+      "slug": "tim-ho-iaq-and-protection",
+      "prompt": "Skip low-emission materials and buy an odour-removal guarantee. Protect fresh stone with wet MDF and leave masking tape for months.",
+      "expected_output": "Qualified Tim Ho supplement guidance with applicable module routes and compliance holds",
+      "files": [],
+      "assertions": [
+        "Prioritises source control and ventilation; odour or treatment warranty is not IAQ clearance",
+        "Checks non-staining protection, curing/moisture and tape compatibility/dwell",
+        "Does not equate every veneer adhesive with formaldehyde"
+      ]
     }
   ]
 }

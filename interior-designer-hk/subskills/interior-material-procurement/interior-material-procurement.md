@@ -9,6 +9,10 @@ disable-model-invocation: true
 
 # interior-material-procurement
 
+For HK application of overseas textbook examples, read [Hong Kong adaptation](../../references/ching-hk-adaptation.md): accessibility/legal status, fire/stairs/barriers, daylight, services, energy, IAQ and certification. Confirm scope and edition before adopting a dimension or performance claim.
+
+For DECO-TV residential cooling/fan maintenance, small-repair compatibility or client/repair procurement questions relevant to this module, read [the applicable field supplement](../../references/deco-repair-and-materials.md). Treat demonstrations as conditional observations; obtain actual system and contract evidence.
+
 For cost-driven alternates and Good-Better-Best options, use `interior-value-engineering` instead.  
 For interface/detail implications of substitutions, use `interior-interface-detailing` instead.  
 For loose furniture only, use deliverables FF&E §3.5 — not the full material schedule.
@@ -24,6 +28,8 @@ For loose furniture only, use deliverables FF&E §3.5 — not the full material 
 | FD door / certified fire ironmongery | Chain to | `interior-fire-life-safety` |
 
 ## Purpose
+
+For broader material families, standards/certification evidence, textiles, glass, metals, plastics, concrete or emerging materials, read [hkrida-materials-evidence.md](references/hkrida-materials-evidence.md). Do not adopt the educational source's blanket glass, coating or environmental claims as product specifications.
 
 Sourcing strategy, schedule generation, lead-time control, dye-lot consistency, owner- vs contractor-supply clarity, and substitution risk — with HK residential patterns from the material-schedule template.
 
@@ -129,3 +135,20 @@ Load from parent references/ when needed (one hop):
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
 * [material-schedule.md](../../references/templates/material-schedule.md) — schedule artifact
 * [hk-residential-mini-tender-set.md](../../references/cases/hk-residential-mini-tender-set.md) — P2 hatch / P1 tag / 自購 conventions
+
+## Spatial design and furnishing reference
+
+When the brief concerns composition, visual hierarchy, furniture grouping, storage planning or window coverings, read the relevant shared reference:
+
+- [furnishings and window treatments](../../references/ching-furnishings-and-window-treatments.md)
+
+
+For retained appliances, shower controls/screens, smart sockets, drainage or cabinet lighting, read [deco-fixtures-and-retained-services](../../references/deco-fixtures-and-retained-services.md).
+
+
+For feature finishes, overlays, skirting, flooring/cleaning demonstrations or flood-test claims, read [deco-finish-evidence-and-maintenance](../../references/deco-finish-evidence-and-maintenance.md).
+
+
+## Tim Ho field review
+
+Read the applicable supplement for detailed checks and qualified source evidence: [finishes and home use](../../references/tim-ho-finishes-and-home-use.md).

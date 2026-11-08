@@ -9,6 +9,8 @@ disable-model-invocation: true
 
 # interior-anthropometrics-ergonomics
 
+For HK application of overseas textbook examples, read [Hong Kong adaptation](../../references/ching-hk-adaptation.md): accessibility/legal status, fire/stairs/barriers, daylight, services, energy, IAQ and certification. Confirm scope and edition before adopting a dimension or performance claim.
+
 For statutory accessibility compliance sign-off, use `interior-statutory-compliance` instead.  
 For lighting at task surfaces, use `interior-lighting-science` instead.
 
@@ -21,6 +23,8 @@ For lighting at task surfaces, use `interior-lighting-science` instead.
 | Task illuminance at desk | Chain to | `interior-lighting-science` |
 
 ## Purpose
+
+For user research, environmental perception, the seven universal-design principles or post-occupancy evaluation, read [hkrida-human-environment.md](references/hkrida-human-environment.md). Universal-use principles supplement the statutory accessibility check.
 
 For mattresses, storage-bed height, sofas/recliners, delivery fit, or compact-flat door/circulation layouts, load [residential-ffe-fit-and-selection.md](references/residential-ffe-fit-and-selection.md). Use user trials and actual product dimensions; chain to millwork for fixed furniture and statutory/fire modules before altering walls or kitchen doors.
 
@@ -72,3 +76,14 @@ Load from parent references/ when needed (one hop):
 * [domain_terms.json](../../references/domain_terms.json) — vocabulary
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
 
+## Spatial design and furnishing reference
+
+When the brief concerns composition, visual hierarchy, furniture grouping, storage planning or window coverings, read the relevant shared reference:
+
+- [spatial composition](../../references/ching-spatial-composition.md)
+- [furnishings and window treatments](../../references/ching-furnishings-and-window-treatments.md)
+
+
+## Tim Ho field review
+
+Read the applicable supplement for detailed checks and qualified source evidence: [finishes and home use](../../references/tim-ho-finishes-and-home-use.md).

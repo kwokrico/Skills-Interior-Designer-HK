@@ -8,6 +8,10 @@ disable-model-invocation: true
 
 # interior-statutory-compliance
 
+For HK application of overseas textbook examples, read [Hong Kong adaptation](../../references/ching-hk-adaptation.md): accessibility/legal status, fire/stairs/barriers, daylight, services, energy, IAQ and certification. Confirm scope and edition before adopting a dimension or performance claim.
+
+For old-flat lightwells, former balcony enclosures, irregular beams/walls, damp-wall linings or water-heater feasibility, load [old-flat survey risks](references/old-flat-survey-risks.md). Check approved records and professional assessment before altering or concealing uncertain conditions.
+
 For detailed egress/fire strategy, use `interior-fire-life-safety` instead.  
 For physical service conflicts, use `interior-mep-clash-detection` instead.
 
@@ -21,6 +25,8 @@ For physical service conflicts, use `interior-mep-clash-detection` instead.
 | 士波令 / 露台玻璃 / MIC / 居屋拆牆 / 釘契 | This skill + `references/structural-and-hos-alerts.md` | Halt per `compliance.md` if AP/RSE or HA approval is missing |
 
 ## Purpose
+
+For premises feasibility, restaurant/care-home licensing, adaptive reuse, heritage or approval layers, read [hkrida-licensing-adaptive-reuse.md](references/hkrida-licensing-adaptive-reuse.md). Classify actual works against current official guidance; historical examples do not authorize construction.
 Use for statutory checks covering occupancy load, accessibility, and general interior code compliance.
 
 ## Core Outputs
@@ -37,10 +43,11 @@ Use for statutory checks covering occupancy load, accessibility, and general int
 | Documentation | Drawing annotations, schedules, approval records |
 
 ## Decision Rules
-1. If conflict exists, apply stricter requirement unless AHJ grants variation.
+1. Establish the governing jurisdiction, document status and project applicability first. Reconcile applicable local requirements with the responsible professional/AHJ; do not automatically substitute a stricter-looking overseas or advisory value for HK law. Record any approved variation.
 2. Separate assumed values from confirmed values.
 3. Route detail-level physical conflicts to `interior-mep-clash-detection`.
 4. Spalling, balcony barriers, and HOS/MIC wall removal: load `references/structural-and-hos-alerts.md`. Do not diagnose reinforcement, self-classify minor works, or authorize the work. Halt per `compliance.md`.
+5. A raised finish/platform beside a barrier changes the review even when anchors are untouched. Read `interior-interface-detailing`; record the relevant finished/step-on datum, climbability, added load, waterproofing/drainage and AP/RSE assessment needs. Include estate/management consent and the applicable statutory approval route as separate unresolved checks; management consent does not replace statutory approval.
 
 ## HK Local Practice (HKEDCA)
 
@@ -107,3 +114,6 @@ Load from parent references/ when needed (one hop):
 * [domain_terms.json](../../references/domain_terms.json) — vocabulary
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
 
+
+
+For retained appliances, shower controls/screens, smart sockets, drainage or cabinet lighting, read [deco-fixtures-and-retained-services](../../references/deco-fixtures-and-retained-services.md).

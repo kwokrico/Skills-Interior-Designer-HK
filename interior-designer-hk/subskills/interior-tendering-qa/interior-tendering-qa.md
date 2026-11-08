@@ -9,6 +9,10 @@ disable-model-invocation: true
 
 # interior-tendering-qa
 
+For DECO-TV residential cooling/fan maintenance, small-repair compatibility or client/repair procurement questions relevant to this module, read [the applicable field supplement](../../references/deco-client-and-repair-procurement.md). Treat demonstrations as conditional observations; obtain actual system and contract evidence.
+
+For pricing basic versus specialist cleaning, completion/partial handover, factory replacement dates and snag holdback/release, also read [residential closeout agreements](../interior-handover-dlp/references/residential-closeout-agreements.md). Negotiate the actual scope and deadlines; a video's 30-day suggestion does not override signed terms.
+
 For site execution of contract terms, use `interior-site-supervision` instead.  
 For handover acceptance criteria, use `interior-handover-dlp` instead.
 
@@ -23,6 +27,8 @@ For handover acceptance criteria, use `interior-handover-dlp` instead.
 | Payment dispute on site | Pair with | `interior-site-supervision` |
 
 ## Purpose
+
+For delivery methods, consultancy appointments, ethics, complete tender-document structure, specification types or document precedence, read [hkrida-professional-practice.md](../../references/hkrida-professional-practice.md). Distinguish client–designer fees from client–contractor payments and apply the signed contract's precedence.
 
 For contractor, foreman, design-and-build or platform selection, and intermediary/factory deposits, load [contractor-due-diligence.md](references/contractor-due-diligence.md). Establish the contractual entity, service scope and evidence of delivery; price comparison alone is insufficient.
 
@@ -141,6 +147,7 @@ Door/ironmongery schedule · consolidated 物料規格表 · power/ELV layout ·
 | File | Load when |
 |---|---|
 | `references/quotation-field-traps.md` | 套餐價 vs 按量計價, optional items, VO split, items outside the works price |
+| [Electrical point reconciliation](references/quotation-field-traps.md#electrical-point-count-reconciliation-homic-décor) | 電位/電掣 counting, lamp vs switch gangs, AC isolator charges, board replacement vs relocation; chain MEP for electrical design |
 
 ## Region-Switch Notes (HK / Mainland China)
 - Hong Kong mode: align to HKRG standard quotation (client contracts) and/or HKEDCA contract outline for trade BOQ; map sections per routing table above.
@@ -179,3 +186,11 @@ Load from parent references/ when needed (one hop):
 * [hk-residential-mini-tender-set.md](../../references/cases/hk-residential-mini-tender-set.md) — P0–P7 conventions + gap register
 * [tender-completeness-audit.md](../../references/templates/tender-completeness-audit.md) — audit artifact
 
+
+
+For contractor service fit, scope measurement, delay/approval responsibility or disputes, read [deco-contractor-scope-and-disputes](../../references/deco-contractor-scope-and-disputes.md).
+
+
+## Tim Ho field review
+
+Read the applicable supplement for detailed checks and qualified source evidence: [project coordination](../../references/tim-ho-project-coordination.md).

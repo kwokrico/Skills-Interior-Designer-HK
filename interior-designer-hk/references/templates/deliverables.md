@@ -40,6 +40,15 @@ Master index for Phase 4 artifact generation. Use the **standalone file** when o
 
 ## 3. Inline templates
 
+For HKRIDA briefing and professional-practice tasks, the following compact records supplement the stage map. See [design research/communication](../hkrida-design-research-communication.md) and [professional practice](../hkrida-professional-practice.md):
+
+| Record | Fields to include |
+|---|---|
+| Approved design brief | Client/users/operators; activities; objectives and success criteria; area/adjacency; measured constraints; budget/programme; approvals; exclusions; open questions |
+| Design decision / communication register | Date; issue and evidence; options; selected response and reason; drawing/revision; approver; cost/time impact; action owner/due date; distribution |
+| Consultancy scope review | Deliverables by stage; inclusions/exclusions; consultants/interfaces; authority; fee basis/stages; changes; IP/use rights; notices/exit/disputes; legal-review items |
+| Post-occupancy review | Brief objective; user group; survey/observation/measurement; occupancy/operating conditions; result/limitations; corrective action and follow-up; defect reference if applicable |
+
 ### 3.1 Request for Information (RFI)
 
 **RFI No.:** RFI-###  

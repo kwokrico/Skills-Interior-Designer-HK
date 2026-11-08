@@ -8,6 +8,12 @@ disable-model-invocation: true
 
 # interior-handover-dlp
 
+For DECO-TV residential cooling/fan maintenance, small-repair compatibility or client/repair procurement questions relevant to this module, read [the applicable field supplement](../../references/deco-hvac-maintenance.md). Treat demonstrations as conditional observations; obtain actual system and contract evidence.
+
+For joinery finish/cutout agreements, site repair versus replacement parts, timber-door fit, cleaning scope, partial handover or snag/payment timing, load [residential closeout agreements](references/residential-closeout-agreements.md). Use actual contract and tested door-system requirements rather than video deadlines or gap values.
+
+For a room-by-room inspection of hidden cupboard points, tall doors, curved edge banding, finishing joints, tiles and paint, load [detailed room snag walk](references/detailed-room-snag-walk.md). Use its DLP follow-up guidance without deferring urgent defects or replacing electrical certification with a phone-charger test.
+
 For active site defects and SI during construction, use `interior-site-supervision` instead.  
 For tender contract DLP clauses, use `interior-tendering-qa` instead.
 
@@ -21,6 +27,8 @@ For tender contract DLP clauses, use `interior-tendering-qa` instead.
 | HKRG payment retention / clause 12 | — | `interior-tendering-qa` |
 
 ## Purpose
+
+For user feedback and performance after occupation, read [hkrida-human-environment.md](../interior-anthropometrics-ergonomics/references/hkrida-human-environment.md). Keep post-occupancy evaluation distinct from snag closure, contractual completion and DLP duties.
 
 For countertop and sanitaryware closeout, pair the acceptance checklist with the approved [countertop fabrication record](../interior-material-procurement/references/countertop-selection-and-fabrication.md) and [sanitaryware rough-in record](../interior-material-procurement/references/sanitaryware-selection-and-rough-in.md). Verify the selected models, operation, leak/access evidence, care instructions and warranty responsibilities; a showroom recommendation is not acceptance evidence.
 
@@ -43,6 +51,7 @@ Use for handover readiness, O&M completeness, as-built verification, and defect 
 1. No practical handover recommendation without O&M and as-built baseline.
 2. DLP log must include owner, due date, and verification evidence.
 3. Escalate repeat defects to root-cause review before closure.
+4. When cleaning scope is disputed, include a concrete cleaning record in the answer: tasks (such as residue removal, dust/cabinet interiors, windows and final wipe), inclusions/exclusions, responsible party, and whether the purchase is fixed hours or completion of listed tasks. Mark unknown terms for agreement and specify inspection/rework. Merely advising an itemised scope does not define the purchased outcome; do not imply excluded work is included.
 
 ## HK Local Practice (HKEDCA)
 
@@ -145,3 +154,11 @@ Load from parent references/ when needed (one hop):
 * [domain_terms.json](../../references/domain_terms.json) — vocabulary
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
 
+
+
+For contractor service fit, scope measurement, delay/approval responsibility or disputes, read [deco-contractor-scope-and-disputes](../../references/deco-contractor-scope-and-disputes.md).
+
+
+## Tim Ho field review
+
+Read the applicable supplement for detailed checks and qualified source evidence: [services and smart home](../../references/tim-ho-services-and-smart-home.md); [project coordination](../../references/tim-ho-project-coordination.md).

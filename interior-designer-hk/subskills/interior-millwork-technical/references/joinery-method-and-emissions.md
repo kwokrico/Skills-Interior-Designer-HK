@@ -13,7 +13,7 @@ Ask the construction method, not “which board do you include”. Many firms us
 | Fibreboard / particle board | The carcass. Grades named in the source: E1, E0, ENF. National E0 and ENF were added in 2021. The source says those two are stricter on formaldehyde than European E0 | Proof the piece is odourless. Test methods differ (desiccator vs chamber). Do not write “national E1 = European E0” |
 | Glue | Often the larger emission source. Mainland glues have their own grades. The client usually cannot see which glue was used | Something the board stamp controls |
 | Laminate (including fire-rated, Formica type) | Glued on, about 1 mm in the source; richer grain; harder than eco-board film. Interiors often go plain because a seen face inside the cabinet is expensive. Often the dearest part of the piece | A fire rating. “Fire-rated laminate” is named, not specified — no class in the file. Chain `interior-fire-life-safety` if a rating is required |
-| Veneer | Glue or white latex, then edge, colour, lacquer. Those steps add formaldehyde | A low-emission finish by default |
+| Veneer | Glue or white latex, then edge, colour, lacquer. Those products can add emissions; verify their actual composition and test evidence rather than assuming every glue or lacquer contains formaldehyde | A low-emission finish by default |
 | Solid-colour lacquer | Usually on fibreboard. The spray coat itself is a large source | An eco-board |
 | Eco-board | Film applied at the mill with melamine, so no extra site glue on the face. Lower glue on that face, more stain-resistant, less hard, flatter grain, same grain inside and out | “No formaldehyde”. The carcass glue remains |
 

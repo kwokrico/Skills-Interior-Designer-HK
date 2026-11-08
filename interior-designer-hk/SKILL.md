@@ -56,12 +56,16 @@ Phase 1: Ingestion ──► Phase 2: Compliance validate ──► Phase 3: Dom
 
 1. Answer from Section 1 when sufficient; else route via Section 2 decision tree or `load_sub_skill`.
 2. Run [`run_interior_calculator`](scripts/dispatcher.py) for egress, occupancy, build-up, or lux checks.
-3. Use LaTeX when notation aids clarity: build-up $T_{total} = \sum t_i$; lux $E_{initial} = E_u / (MF \times LLF)$.
+3. Use LaTeX when notation aids clarity: build-up $T_{total} = \sum t_i$; lux $E_{initial} = E_{maintained} / MF_{total}$. Require a supported overall maintenance factor; do not multiply overlapping MF/LLF losses. See the lighting module for the calculation basis.
 
 ### Phase 4: Synthesis and artifact generation
 
 1. Select artifact from [`deliverables.md`](references/templates/deliverables.md) (catalog + inline templates); use standalone files under [`templates/`](references/templates/) when listed (SI, snag, tender audit, VE, compliance gap, HKRG boilerplate, material schedule).
 2. Start with the deliverable — no conversational preamble ("Sure, I can help").
+
+## Hong Kong use of overseas textbook guidance
+
+When applying Ching or US accessibility, fire, building-service or green-rating examples in HK, load [Hong Kong adaptation](references/ching-hk-adaptation.md) before using numerical defaults. It distinguishes local statutory/code requirements, advisory universal-design provisions and voluntary certification, with official sources checked on 2026-11-07. Determine applicability and edition first; global IBC/NFPA/ADA concepts and width-only calculators do not establish HK compliance.
 
 ## Sub-skill routing (table)
 
@@ -88,8 +92,43 @@ Phase 1: Ingestion ──► Phase 2: Compliance validate ──► Phase 3: Dom
 | Residential FF&E / compact flats | `interior-anthropometrics-ergonomics` | Mattress/bed height, sofa/recliner fit, delivery, door clusters and circulation |
 | Brand / graphics | `interior-brand-environmental-graphics` | Wayfinding, identity → `subskills/interior-brand-environmental-graphics/interior-brand-environmental-graphics.md` |
 | Sustainability | `interior-sustainability-wellness` | WELL/LEED/BEAM+, low-VOC → `subskills/interior-sustainability-wellness/interior-sustainability-wellness.md` |
+| Spatial composition / colour / proportion / visual hierarchy | Shared reference | Load [spatial composition](references/ching-spatial-composition.md) for enclosure, mass/void, balance, rhythm and concept critique; pair with anthropometrics and lighting |
+| Furniture grouping / storage inventory / window treatments | Shared reference | Load [furnishings and window treatments](references/ching-furnishings-and-window-treatments.md); pair with procurement, millwork and anthropometrics |
+| Brief / concept / design communication / education | Shared reference | Load [`hkrida-design-research-communication.md`](references/hkrida-design-research-communication.md) for research, precedents, representations, client approvals and competencies |
+| Ethics / consultancy appointment / project delivery | Shared reference + `interior-tendering-qa` | Load [`hkrida-professional-practice.md`](references/hkrida-professional-practice.md); consultancy fees and construction payments are separate |
 
 Load via: `python scripts/dispatcher.py load <skill_id>` or stdin JSON `{"tool":"load_sub_skill","arguments":{"skill_id":"<id>"}}`.
+
+### Complete the applicable routes before responding
+
+For a project review or deliverable, read and apply every module/reference in the applicable row below, plus triggered Auto-Chain directives. A source citation or a referral to a professional does not replace reading the technical module. A compliance hold still needs the modules that define the remediated options and evidence needed for release. Read each resource once; do not loop through reciprocal chains. General educational questions can still use Foundation/shared references without project routing.
+
+| Project question | Required resources and coordination |
+|---|---|
+| Raised finishes/platforms beside a barrier | `interior-statutory-compliance` + `interior-interface-detailing`; review finished datum, loading, drainage and estate/approval interfaces |
+| Room subdivision affecting daylight or ventilation | `interior-statutory-compliance` + `interior-lighting-science` + `interior-mep-clash-detection`; separate natural-light/ventilation evidence from lighting and cooling design |
+| BEC applicability, phased works or major retrofit | `interior-sustainability-wellness` + `interior-mep-clash-detection` + `interior-statutory-compliance`; coordinate scope and REA assessment |
+| Electrical code editions or transition eligibility | `interior-mep-clash-detection` + `interior-statutory-compliance`; preserve the historical/current question's applicable dates |
+| Fire-rated assembly selection or substitution | `interior-fire-life-safety` + `interior-material-procurement` + `interior-interface-detailing`; review complete tested assembly and installation interfaces |
+| Concept layout alternatives | [Design research](references/hkrida-design-research-communication.md) + [spatial composition](references/ching-spatial-composition.md) + `interior-anthropometrics-ergonomics`; include section/height and hierarchy as conditional design considerations; add lighting for visual-comfort decisions |
+| Storage, furniture or window-treatment specification | [Furnishings](references/ching-furnishings-and-window-treatments.md) + `interior-anthropometrics-ergonomics` + `interior-material-procurement`; add `interior-millwork-technical` for fixed storage/mounting interfaces and MEP for powered-system design |
+| Acoustic product/system selection for privacy | `interior-acoustic-engineering` + `interior-material-procurement` + `interior-interface-detailing`; assess test evidence and enclosure/flanking interfaces |
+| Lighting schedule/performance acceptance | `interior-lighting-science` + `interior-material-procurement`; add `interior-mep-clash-detection` for controls, wiring or service coordination |
+| Concealed-service inspection, testing or route records | `interior-site-supervision` + `interior-mep-clash-detection`; load the site module's residential stage-inspection reference |
+
+Apply the relevant findings in the deliverable. Do not merely list module names or turn an evidence gap into a construction approval.
+
+## DECO-TV field supplements
+
+Read the relevant supplement for these triggers; each includes source IDs, qualifications and archive links:
+
+- Contractor fit/service breadth, cabinet measurement, delayed work, signed-drawing disputes, abandoned tools or 裝修約章: [contractor scope and disputes](references/deco-contractor-scope-and-disputes.md), with tendering QA/site supervision/handover.
+- Retained developer appliances, shower shutoff heads/screens, smart sockets, traps or cabinet lighting: [fixtures and retained services](references/deco-fixtures-and-retained-services.md), with MEP/procurement. **Halt incompatible shutoff heads on shower-type storage electric water heaters** per compliance.
+- Feature finishes, overlays, flooring demonstrations, skirting corners, peeling paint or DIY quiz claims: [finish evidence and maintenance](references/deco-finish-evidence-and-maintenance.md), with procurement/millwork/interface detailing.
+
+## Tim Ho field supplements
+
+For smart switches, hubs, locks, camera privacy, appliances and prefabricated bathrooms, load [services and smart home](references/tim-ho-services-and-smart-home.md) with MEP and handover. For finish systems, retained-surface protection, lift beds, helper rooms and furniture fit, load [finishes and home use](references/tim-ho-finishes-and-home-use.md) with procurement, ergonomics and interface detailing. For split trades, model deliverables, provisional prices and insurance, load [project coordination](references/tim-ho-project-coordination.md) with tendering QA and site supervision. Unsafe video claims remain subject to compliance halts.
 
 ## Available scripts
 
@@ -259,12 +298,40 @@ Always issue a transition detail when level delta > 3 mm.
 
 ---
 
+### 1.12 HKIDA / HKRIDA educational and professional framework
+
+The [HKRIDA collection index](../Reference/HKRIDA-INDEX.md) maps the 2014 Professional Guideline and six 2020 knowledge volumes to this skill. These are educational/industry sources, not statutory law. Use the relevant reference for depth:
+
+- Briefing, concept, history/precedents, communication or training: [design research and communication](references/hkrida-design-research-communication.md).
+- Ethics, client–designer appointment, delivery method, tender-document structure or specifications: [professional practice](references/hkrida-professional-practice.md), plus tendering QA when relevant.
+- User perception, universal design and post-occupancy evaluation: ergonomics → `references/hkrida-human-environment.md`.
+- Material families, certification evidence or emerging materials: procurement → `references/hkrida-materials-evidence.md`.
+- Food/care premises licensing or adaptive reuse: statutory compliance → `references/hkrida-licensing-adaptive-reuse.md`.
+- LCA/LCEA/LCC, reuse, adaptability and evaluation: sustainability → `references/hkrida-lifecycle-evaluation.md`.
+
+Read the named file after dispatch. Historical registration/CPD proposals, legal examples, code tables and product claims require current authoritative verification before live use. Apply contract-specific document precedence; do not assume specifications always override drawings.
+
 ## 2. Routing Decision Tree
 
 **Answer from Section 1 first** if query can be solved there. Route only when deeper expertise is required.
 
 ```text
 START
+│
+├─ Brief, concept, design history, representations, education or competence?
+│   └─► references/hkrida-design-research-communication.md (+ relevant technical module)
+│
+├─ Ethics, consultancy fees/scope, delivery method or specification strategy?
+│   └─► references/hkrida-professional-practice.md (+ interior-tendering-qa for tenders)
+│
+├─ Electrical point-count quote, 電位/電掣計法, switch gangs or board relocation price?
+│   └─► [interior-tendering-qa] (+ MEP for load, isolation and board feasibility)
+│
+├─ Old-flat lightwell, enclosed former balcony, irregular beams or damp-wall concealment?
+│   └─► [interior-statutory-compliance] (+ interface detailing for leak diagnosis)
+│
+├─ Window spray check, delayed seepage, coloured flood test or finished-shower test?
+│   └─► [interior-interface-detailing] (+ handover for snag records)
 │
 ├─ Appliance cavity, washer/dryer stack, dishwasher, hood or steam-oven connection/ventilation?
 │   └─► [interior-mep-clash-detection] + [interior-millwork-technical]
@@ -470,6 +537,8 @@ Each sub-skill must contain at least one standard reference table for auditable,
 
 ## 4. Operating Rules
 
+- Residential inspection stages: site supervision → `references/residential-stage-inspections.md` (demolition, service concealment, paint gates); handover → `references/residential-closeout-agreements.md` (joinery/door fit, cleaning, partial handover and snag/payment terms). Read after dispatch. Video deadlines, gap/tap counts and coat sequences do not replace the applicable contract or system specification.
+
 - Field-source provenance and claim limits: [source-register.md](references/source-register.md). Load the relevant module reference after dispatch; `references_available` lists files but does not load their contents. Official requirements and the applicable product/system documents govern; video examples are not specifications.
 
 - Prioritize safety/compliance over style: if aesthetics conflict with egress/access/fire logic, flag non-compliance first and apply [`compliance.md`](references/compliance.md) halts.
@@ -486,3 +555,8 @@ Each sub-skill must contain at least one standard reference table for auditable,
 ---
 
 *Sources baseline: IBC/NFPA framework concepts, ADA/ISO accessibility principles, common BS/EN fire/acoustic/material standards, LEED/WELL/BEAM Plus sustainability frameworks, professional CA/tender/handover practice, and for Hong Kong residential fit-out the HKEDCA 裝修業界攻略 (Reference/HKEDCA-INDEX.md) plus the HKRG 香港裝修指引 / 裝修資訊 v2.0 (Reference/HKRG-INDEX.md). Always verify latest local AHJ requirements, estate management conditions, lease terms, and project-specific authority comments before final instruction.*
+
+## Residential maintenance and repair references
+For AC/fans/condensation read [cooling and maintenance](references/deco-hvac-maintenance.md); for small repairs, materials and trade terminology read [repair and materials](references/deco-repair-and-materials.md); for client coordination, repair quotes and takeover read [client and repair procurement](references/deco-client-and-repair-procurement.md). Apply the existing safety/compliance routes before installation advice.
+
+For tool/laser measurement, drilling/dust-control claims or potable-water solder checks, use [repair and materials](references/deco-repair-and-materials.md); for plug adaptors, detector limits, terminal protection, reel overload or surge claims, use [fixtures and retained services](references/deco-fixtures-and-retained-services.md). Route regulated work to MEP and compliance.

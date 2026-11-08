@@ -8,6 +8,10 @@ disable-model-invocation: true
 
 # interior-site-supervision
 
+For DECO-TV residential cooling/fan maintenance, small-repair compatibility or client/repair procurement questions relevant to this module, read [the applicable field supplement](../../references/deco-client-and-repair-procurement.md). Treat demonstrations as conditional observations; obtain actual system and contract evidence.
+
+For demolition release, common-route condition records, pre-concealment photographs/testing and paint interim inspection, load [residential stage inspections](references/residential-stage-inspections.md). Distinguish the inspection hold point from certification and owner photographs from permission to drill.
+
 For handover O&M and DLP registers, use `interior-handover-dlp` instead.  
 For statutory permit scope, use `interior-statutory-compliance` instead.
 
@@ -21,6 +25,8 @@ For statutory permit scope, use `interior-statutory-compliance` instead.
 | Scaffold engineering detail | Pair with | `interior-fire-life-safety` |
 
 ## Purpose
+
+For appointment limits, PM/contractor roles, impartial certification, programme and formal decision records, read [hkrida-professional-practice.md](../../references/hkrida-professional-practice.md). For communicating approvals, site sketches and minutes, read [hkrida-design-research-communication.md](../../references/hkrida-design-research-communication.md). Instruction and certification authority must come from the actual appointment.
 Use for site walk protocols, defect management, SI drafting, and field discrepancy handling.
 
 ## Core Outputs
@@ -160,3 +166,11 @@ Load from parent references/ when needed (one hop):
 * [domain_terms.json](../../references/domain_terms.json) — vocabulary
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
 
+
+
+For contractor service fit, scope measurement, delay/approval responsibility or disputes, read [deco-contractor-scope-and-disputes](../../references/deco-contractor-scope-and-disputes.md).
+
+
+## Tim Ho field review
+
+Read the applicable supplement for detailed checks and qualified source evidence: [project coordination](../../references/tim-ho-project-coordination.md).

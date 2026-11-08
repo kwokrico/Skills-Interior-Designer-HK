@@ -73,3 +73,8 @@ Load from parent references/ when needed (one hop):
 * [domain_terms.json](../../references/domain_terms.json) — vocabulary
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
 
+## Spatial design and furnishing reference
+
+When the brief concerns composition, visual hierarchy, furniture grouping, storage planning or window coverings, read the relevant shared reference:
+
+- [spatial composition](../../references/ching-spatial-composition.md)

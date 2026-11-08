@@ -8,6 +8,10 @@ disable-model-invocation: true
 
 # interior-millwork-technical
 
+For DECO-TV residential cooling/fan maintenance, small-repair compatibility or client/repair procurement questions relevant to this module, read [the applicable field supplement](../../references/deco-repair-and-materials.md). Treat demonstrations as conditional observations; obtain actual system and contract evidence.
+
+For agreed scribed trims/sealant/open joints, pipe cutouts, factory replacement records and door fit/operation acceptance, load [residential closeout agreements](../interior-handover-dlp/references/residential-closeout-agreements.md). Resolve fire-door assembly requirements before accessory changes; do not impose a generic 3 mm rule.
+
 For floor finish transitions at joinery bases, use `interior-interface-detailing` instead.  
 For site inspection and SI workflow, use `interior-site-supervision` instead.
 
@@ -134,3 +138,16 @@ Load from parent references/ when needed (one hop):
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
 * [hk-residential-mini-tender-set.md](../../references/cases/hk-residential-mini-tender-set.md) — elev numbering + joinery tags
 
+## Spatial design and furnishing reference
+
+When the brief concerns composition, visual hierarchy, furniture grouping, storage planning or window coverings, read the relevant shared reference:
+
+- [furnishings and window treatments](../../references/ching-furnishings-and-window-treatments.md)
+
+
+For feature finishes, overlays, skirting, flooring/cleaning demonstrations or flood-test claims, read [deco-finish-evidence-and-maintenance](../../references/deco-finish-evidence-and-maintenance.md).
+
+
+## Tim Ho field review
+
+Read the applicable supplement for detailed checks and qualified source evidence: [finishes and home use](../../references/tim-ho-finishes-and-home-use.md); [services and smart home](../../references/tim-ho-services-and-smart-home.md).

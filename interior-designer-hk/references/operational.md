@@ -92,6 +92,8 @@ The dispatcher returns module instructions and `references_available`; it does n
 
 ## Field-source use
 
+For the HKIDA/RIDA educational collection, use [HKRIDA-INDEX.md](../../Reference/HKRIDA-INDEX.md) for seven-source coverage, PDF-page locators and extraction limits. Current authority/product evidence overrides dated examples. Read the PDF for tables, diagrams and image-only agreement pages; a textless extract is not an empty source page. For briefing, communication, ethics and consultancy scope use the shared HKRIDA references linked in SKILL §1.12.
+
 Use [source-register.md](source-register.md) to trace video-derived observations. Extracted date is not publication date. For a reusable claim, retain source ID and section/timestamp if available, destination reference, conditions and verification status. Keep commentary distinct from authority, manufacturer evidence and designer synthesis.
 
 For statutory procedures, live prices, registrations, certificates, product ratings or dimensions, obtain the current official or applicable product document before issuing a project-specific conclusion. Record its URL/document revision and checked date. Do not merge conflicting test methods, extrapolate a product to a whole material family, or promote garbled transcripts, advertising and unrelated tail segments into specifications. An unresolved product datum limits the affected decision, not every unrelated design task. Existing compliance hard stops remain unchanged.

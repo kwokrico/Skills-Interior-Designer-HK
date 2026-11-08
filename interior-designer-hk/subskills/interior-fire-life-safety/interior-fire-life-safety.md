@@ -8,6 +8,8 @@ disable-model-invocation: true
 
 # interior-fire-life-safety
 
+For HK application of overseas textbook examples, read [Hong Kong adaptation](../../references/ching-hk-adaptation.md): accessibility/legal status, fire/stairs/barriers, daylight, services, energy, IAQ and certification. Confirm scope and edition before adopting a dimension or performance claim.
+
 For statutory submissions and occupancy classification, use `interior-statutory-compliance` instead.  
 For ceiling/service physical clashes, use `interior-mep-clash-detection` instead.
 
@@ -41,6 +43,7 @@ Use for interior fire strategy, egress checks, compartment interface, and sprink
 1. Life safety always overrides aesthetics.
 2. If uncertain on local code number, state AHJ verification required.
 3. When ceiling design conflicts with services, escalate to `interior-mep-clash-detection`.
+4. In a required-stair review, state which applicable accessibility checks remain unresolved alongside the fire/egress checks, and chain to statutory compliance. Fire-code tread/riser corrections alone do not complete accessibility review; do not leave that limitation implicit in a general request for professional sign-off.
 
 ## HK Local Practice (HKEDCA)
 

@@ -8,6 +8,14 @@ disable-model-invocation: true
 
 # interior-interface-detailing
 
+For HK application of overseas textbook examples, read [Hong Kong adaptation](../../references/ching-hk-adaptation.md): accessibility/legal status, fire/stairs/barriers, daylight, services, energy, IAQ and certification. Confirm scope and edition before adopting a dimension or performance claim.
+
+For DECO-TV residential cooling/fan maintenance, small-repair compatibility or client/repair procurement questions relevant to this module, read [the applicable field supplement](../../references/deco-hvac-maintenance.md). Treat demonstrations as conditional observations; obtain actual system and contract evidence.
+
+For 剷底 scope, primer/filler/topcoat coordination, paint interim gates and post-joinery final-coat timing, read [residential stage inspections](../interior-site-supervision/references/residential-stage-inspections.md). Keep system-specific cure/coats and prompt investigation of debonding, damp or unexplained cracks.
+
+For new-window water checks, delayed seepage, bathroom flood tests, coloured tracer or finished-shower testing, load [water-test field checks](references/water-test-field-checks.md). Separate membrane testing from grout inspection; video cure/test durations and hose demonstrations are not performance specifications.
+
 For total floor/wall build-up stacks and leveling, use `interior-thickness-build-up` instead.  
 For joinery carcass and hardware, use `interior-millwork-technical` instead.
 
@@ -112,3 +120,11 @@ Load from parent references/ when needed (one hop):
 * [domain_terms.json](../../references/domain_terms.json) — vocabulary
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
 
+
+
+For feature finishes, overlays, skirting, flooring/cleaning demonstrations or flood-test claims, read [deco-finish-evidence-and-maintenance](../../references/deco-finish-evidence-and-maintenance.md).
+
+
+## Tim Ho field review
+
+Read the applicable supplement for detailed checks and qualified source evidence: [services and smart home](../../references/tim-ho-services-and-smart-home.md); [finishes and home use](../../references/tim-ho-finishes-and-home-use.md).
