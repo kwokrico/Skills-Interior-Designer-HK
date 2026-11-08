@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-06",
+  "archive_complete": true,
+  "pdf_count": 7,
+  "pdf_pages": 486,
+  "text_extracts": 7,
+  "image_extracts": 34,
+  "source_hashes_verified": true,
+  "new_hkrida_links_checked": 58,
+  "dispatcher_modules_loaded": 16,
+  "new_module_references_discovered": 4,
+  "json_and_required_frontmatter_fields": "pass",
+  "skill_creator_quick_validate": "attempted; unavailable because PyYAML is missing in bundled and installed Python",
+  "model_behaviour_evaluation": "not independently executed; scenarios added for future runs",
+  "errors": []
+}

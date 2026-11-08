@@ -1,0 +1,1927 @@
+## PDF page 1
+
+
+
+## PDF page 2
+
+前言
+第一章
+第二章
+第三章
+第四章
+第五章
+參考文獻
+作者簡介
+i
+1
+16
+7
+16
+29
+44
+24
+38
+22
+20
+31
+38
+室內設計的挑戰與意義
+屋宇設備和室內設計
+建築環境中的人類感知
+3.1.	 視覺
+3.2.	 聽覺
+3.4.	 環境溫度
+3.3.	 空氣
+3.5.	 個案研究
+通用設計和用戶友善的空間
+室內設計的可持續發展
+5.1.	 資源管理
+目錄
+5.2.	 個案研究
+
+## PDF page 3
+
+現時香港的室內設計課程沒有專屬的教材，教育工作者往往依賴海外(特別是西方)或來自建築科目的
+材料，作為教授室內設計的教材。但室內設計已建立了一套獨特而完善的專業知識體系，而且亦與當
+地的文化和社會狀況息息相關，本港實有需要有一套能夠充份反映這背景的室內設計教科書，讓室內
+設計學生能緊貼這行業的快速發展。這一系列的室內設計教科書旨在滿足香港不同程度的室內設計課
+程學生的 需要，包括文憑、高級文憑及學士學位的學生。這一系列室內設計教科書是亞洲地區第一套
+同類型書籍，不但包括來自亞太地區及以外的得獎室內設計作品作為個案研究，也收錄香港以至世界
+各地的著名的業界代表及教育工作者的訪談及文章。
+這系列包含的六本書，是根據香港室內設計協會於2014年出版的「室內設計專業指引」內所定義的知
+識體系的六大範疇而編寫。該指引經過嚴謹的資料搜集，研究國際具有代表性的相關標準，再以問卷
+形式諮詢本地的室內設計師，有系統地整理出香港室內設計從業員應具備的知識與技能。這六大範疇
+因應一般室內設計項目的流程排列，依次為：
+•	 人類環境需要
+•	 設計
+•	 產品及物料
+•	 溝通與傳訊
+•	 室內建築、規章及條例
+•	 專業實務
+此書為第一冊：「人類環境需要」，將集中探討室內設計師在項目最初期所需要的知識：了解客戶、
+使用者以及環境需要。當中涉及的議題包括室內設計的意義、屋宇設備、建築環境中的人類感知、通
+用設計以及可持續發展，並加上詳盡的繪圖以及個案研究以豐富有關討論。
+編寫這系列書籍的最大挑戰，是決定那些內容對教育工作者最為有用，並提供足夠彈性讓他們可自行
+闡述。所以在有限的篇幅內，選取合適的資料涉及嚴謹的編輯過程。我們希望這一套書能令室內設計
+學生、教育工作者及業界人士獲益，並啟發他們精益求精。
+潘鴻彬
+項目研究總監
+i
+前言
+
+## PDF page 4
+
+1
+第一章
+室內設計的挑戰與意義 i
+Kees Spanjers 著
+室內設計往往被當作是建築學的潮流附屬品，或者建築物本身以外的裝飾，也許室內設計確實如此。
+建築是慢藝術，所創造的建築物往往比人類的生命長數十年，但建築物的使用者往往只在同一地方生
+活或工作七至八年。室內設計其實是建築學的用户端，並且會損耗，以及要配合不斷轉變的口味和用
+戶要求。室內設計本身就是跟據用戶不斷改變的社會、功能及美學需要，所作的可持續內部空間改造
+的藝術。好的室內設計要配合使用者，也無可避免受潮流影響。
+室內設計一向被視為私人事，人們裝飾自己的家、房車和個人空間。媒體經常把設計包裝成潮流產
+品， 並介紹予大眾，令很多人會認為室內設計只是如此。但事實上除了安坐家中之外，人們大部分時
+間都花在不屬於自己的室內空間之內，例如學校、辦公室、醫院、公共建築、商店和體育設施等。在
+大多數情況下，人們不能影響這些空間的設計。然而，這些空間的設計（或沒設計）可以大大影響他
+們的健康、福祉 和情緒。可供集體使用的建築空間是城市生活的一部分，室內設計的作用是規劃設計
+內部環境， 以適應佔用空間的人類和其活動，因此，我們應倍加注意這些公共和半公共空間的設計。
+新的挑戰
+現代人們的焦點正在從「建造更多」轉向「用得更好」，所以室內設計的功能更不可或缺。傳統上，
+室內設計師致力於空間的再利用、改造及更新，使用者的體驗質量尤為重要。室內設計師精於創造超
+越建築本身限制的空間，室內設計能創建新的工作環境（工作的新世界ii）、為醫療保健行業帶來新概
+念（治療環境iii、循證設計iv），為教育、安全和公共無障礙建築帶來創新，也在零售、旅遊服務業、
+休閒和家居裝飾等重要經濟領域創造機會。
+工作空間
+電腦技術和新的通訊系統改變了我們工作、通訊和做生意的方式。社會變得越來越透明，人們都能獲
+得資源和機會。因此，用戶而非建築物變成了焦點，發展的趨向也從長期變為短期。室內設計師位於
+辦公室設計的前線位置，因為科技把人們連結起，建築物和城市的界線變得模糊。在上個世紀末荷
+蘭保險公司 Interpolis 設立了新總部，由建築師 Abe Bonnema 設計，該建築物原本以傳統的獨立辦
+公室模式設計，室內設計師 Nel Verschuuren 獲聘設計建築物的內部公共空間和標誌性空間。但是
+Interpolis 管理層意識到數碼革命正在發生，於是找來Eric Veldhoen擔任顧問。
+Verschuuren 和 Veldhoen 合作設計了一個嶄新的辦公室概念，僱員全都沒有個人桌子，這樣衍生了
+新的工作模式。在這個新模式內，沒有固定的工作場所，而是有不同類型的活動和溝通發生；沒有房
+間或隔間，但有咖啡室、休息室、會議點、集中室和休閒室、體育設施、圖書館甚至電影院。所有員
+工，從主管到清潔工都以無線網絡報到，並尋找一個適合他們當天活動的地方工作。Verschuuren 的
+概念特別之處在於她的設計同時容許其他設計師如 Piet Hein Eek 和 Jurgen Bey的加入，以提升整體
+設計質素。
+這個概念成為辦室設計的新典範。今天，我們不再每週工作五天、每天工作 8 小時。辦公室不僅僅是
+一個工作環境，而成為發展社交網絡的地方。僱員在一個同時重視員工與公司的身份和態度的和諧環
+境中，工作表現和心情都更好。辦公室成為了新的家。
+
+## PDF page 5
+
+2
+放棄一人一工作場所的概念，也證明有利公司
+營利。彈性工作安排能節省高達30％的工作空
+間。除了節省成本外，真正的增益是員工的愉快
+心情，以及工作表現的提升，而這些利益可再投
+資，令這個概念得以進一步發展。開放辦公室對
+於舒適、路引、聲學、照明和室溫控制等都有不
+同要求，室內設計師熟練於這些層面的設計，把
+樓宇設施結合人類需求。
+接近十年後，Rabo-bank在荷蘭Utrecht市開
+設了新總部，令新的工作空間設計進入金融
+界。Ellen Sander是該項目的首席室內設計師，
+她邀請多位設計師參與，令辦公樓成為國際間廣
+為談及的項目，也進一步增強了靈活工作空間、
+雲端技術和可持續發展環境的概念。新的工作
+空間設計現已在荷蘭和國際上推行，Google和
+Unilever等大公司的辦公室都已採用這種設計。
+科技發展以及人類面對的生態危機，促使人們尋找
+新的概念。受過良好教育的獨立專業人士，上班時
+為何要抵受交通擠迫之苦，而不是在世界任何地方
+登錄到網絡上進行他們的工作？辦公室的附加價值
+是它同時是一個交流、分享想法和發展的地方。發
+展由員工的個人發展開始，在重視知識的網絡社會
+最寶貴的資產是員工。新創公司明白這個道理，要
+求工作場所不僅要具備固有功能，還要吸引能為公
+司提供新意念的年輕人。我們需要建立具持久而靈
+活的辦公室，能夠應付不斷變化的工作流程，並能
+有利改善城市的社會氛圍。
+圖1.1 Interpolis 的辦公室，提供私隱度高的椅子
+圖1.2 開放式辦公室
+圖1.3 靈活的工作空間
+
+## PDF page 6
+
+3
+室內設計師正在積極開展這項新任務，我們的合作夥伴是不同的專業人員，包括管理顧問、策略發展
+人員、設施經理、資訊科技工程師等。今時今日的關鍵詞是溝通、轉型和反思。
+教育
+以上的詞語同時在教育出現，是我們傳授知識和
+培育下一代獨立思考的關鍵。今天的學校是複雜
+的架構，團體和個人、學生和教師在接納的氛圍
+下聚集在一起。長期以來，創造這樣的氣氛是教
+育工作者的職責，但現在我們知道室內設計對學
+生的感覺和行為可帶來一定的影響。
+室內設計師在這方面也成為很好的合作夥伴，以
+幫助營造這種環境，因為室內設計師習慣從用戶
+的角度思考，不僅在功能上滿足空間需求，而且
+能創造促進溝通和互動的環境。
+醫療
+空間設計可影響人們的本能和情緒，也能誘發空間使用者一些不自覺的行為或感覺。例如在癌症中心
+的治療室使用皮家具，因為皮革外表柔軟和溫暖。開放的空間使人更開朗，而社交互動能使人更快
+樂。這都是間接地影響行為的方法v
+。荷蘭設計師 Francesco Messori 設計的阿姆斯特丹VUmc癌症中
+心作，是荷蘭首批治療環境的成功例子之一。癌症患者在中心接受化療時，除了室內設計，由入院、
+檢查到治療過程都以為患者提供最高舒適度為設計主旨。設計尤其著重路引（避免不必要的干擾和壓
+力）、照明和聽覺環境。
+病人在任何時候都有各種選擇，例如選擇更大私隱度或更方便社交的環境，抑或更高或低認知度的環
+境。中心的操作管理和技術設施，都被設置在不當眼的位置。
+用戶的體驗和觀感在「護理行業」尤為重要。畢
+竟，大多數人不喜歡看醫生或住醫院。恐懼和焦
+慮影響病人對醫護服務的看法，因為他們害怕痛
+苦、殘障和死亡。最高水平的優等醫療保健當然
+是一個首要條件，但病人的個人疑慮和恐懼也應
+顧及到。他們需要一個安全、舒適的醫療場所，
+而不是一個意味疾病、醫療程序和喪失尊嚴的地
+方；他們需要一個安靜、舒適的康復環境，而不
+是醫療生產線。
+圖1.4 聚會、工作及學習。荷蘭鹿特丹
+Erasmus Education Center 。 KAAN
+Architects 設計, 2013
+圖1.5 位於阿姆斯特丹的 VUmc 癌症中心
+
+## PDF page 7
+
+4
+圖1.6 位於阿姆斯特丹的 VUmc 癌症中心
+圖1.7 照顧老年人口
+室內設計的重點是避免一般醫療保健機構的單調外表，給予患者正面的心理刺激。幾十年來，米色和
+灰色已成為醫院的首選顏色。我們對醫院都有一個印象：無盡頭的走廊、擁擠的候診室，病人擠在一
+起，苦侯數小時才看到醫生。今天，我們想給客戶一種身份認同感，不稱他們為病人，而是客戶或住
+客，我們尊重私隱和人的尊嚴。在新式的醫療中心，病人都是客人。醫院提供一個保障私隱和令人放
+鬆的環境，客人有如處身四星級酒店，感到賓至如歸，家人和朋友可以留夜，幫助照顧病人。在醫療
+條件允許的情況下，住客可以使用非正式的會議設施，休息室甚至工作空間，確保他們能保持與社會
+的聯繫，不會脫節。
+室內設計師可以創建這樣的空間，讓住客或病人
+安心，讓時間和他們的生活節奏不會停頓，他們
+可以放鬆心情，有尊嚴地養病。而這樣的護理安
+排也可不失效率，醫療護理也需要高質的設計，
+室內設計師可以把這些看似不兼容的要求整合到
+空間設計概念中，讓病人在愉快的環境中得到有
+效的照料。
+由於社會漸趨人口老齡化，醫療保健是一個快速
+增長的市場。隨著老年人口的增加，護理院和老
+人院備受注視。到了 2030 年，因為社會經濟增
+長及醫療保健的改善，預計30％的人口將超過
+65歲，相較今天的百分比是15％。幸運的是，老
+年人的健康和經濟狀況都更優越，令他們能較長
+期活躍於社會之中。但老年人仍然很脆弱，到了
+某階段會需要特別的支持和照顧。而離開自己熟
+悉的環境，對他們來說代表著巨變。我們有責任
+給他們一個與舊的家同樣舒適自在的新居所。
+
+## PDF page 8
+
+5
+可持續發展是當今首要的議題，亦可能是這時代最被濫用的詞語。政府和企業清楚了解可持續發展的
+賣點，紛紛進駐採用最新綠色設計標準的時髦新建築物，但同時棄用了許多老舊過時的建築物，這並
+不符合可持續發展。更重要的是，這些舊建築很多都是我們集體回憶的一部分，是我們探索城市和找
+到自我身份的一部分，從中我們可獲得到歸屬感。所以，簡單的拆除棄置不僅不可持續，也是對我們
+的城市 DNA 的破壞，損害人們與他們所在環境的情感關係。
+以一個筆者做的項目作例子：在 20 世紀 90 年代初，筆者的公司將著名荷蘭建築師 H.P. Berlage 於
+1904年設計、位於阿姆斯特丹的舊證券交易所大樓，改建成為音樂廳和會議中心。為了解決兩個大
+廳之間的聲學問題，在大廳內建造了一個玻璃室，作為室樂的演奏廳，同時也是一個可容納250人的
+小型演講廳。25年後，這座建築現在正重新裝修，當然需求已經改變。玻璃音樂廳因為再無實用要拆
+除。但結果沒有單單將之拆毀，而是以1歐元售價出售，條件是買家必須另覓 新址重建大廳，給它一
+個新的用途，最好與文化相關。很多買家對此有興趣，並收到了超過40份來自世界各地的標書，甚至
+有遠在新西蘭的買家。經過一段長時間的考慮，
+我們選擇出售給在荷蘭南部Tiburg鎮的市政項
+目。在該鎮市中心的火車站後面有一個舊鐵路維
+修廠，將被改造成一個公共空間，容納公共圖書
+館、文化中心和一個小演講廳。這個演講廳就是
+由玻璃音樂廳改建而成的。
+通過改造現有的建築和給予舊建築新的用途，室
+內設計師能賦予現有的東西新的價值，增強社會
+和諧、提升生活質量、並提高現有社區的價值。
+這樣的改造再利用也有助增加創造力，因為很多
+時這些改建了的建築物，成為了年輕初創公司或
+文化組織的辦公室。此外，重新使用現有空間亦
+具成本效益。
+新的動力
+以上只是幾個創新和實驗性項目的實際例子，它們的共通之處是針對用戶的體驗和對環境的感知。這
+些項目超越了裝飾，而是植根知識的設計。裝飾仍然是室內設計很重要的部分	，但這行業真正的力量
+在於創造利民和為人們充權的空間。
+總的來說，現今社會從以前以增長為目標，轉而變為把現有房地產整合、轉型和重估。隨著社會環境
+的轉變，社會未來將強調健康、護理、教育和小規模（私人）項目。當然，很多室內設計師早已注意
+到這些改變，更值得留意的是，這些新挑戰從來都是屬於室內設計師的工作範圍。
+從物理空間為起點，室內設計師設計適合各用戶（無論是住戶、工作人員、客戶還是訪客）的生活空
+間。他們要考慮健康和安全等各個層面，遵照有關的（建築）規則和條例，並融合美觀、舒適和可持
+續性，設計出滿足所有功能、技術和經濟要求的空間。這些空間超越了功能和美學，還具有一定的社
+會附加價值。良好的設計有助促進社會和諧、可持續性和經濟可行性。
+可持續發展
+圖1.9 荷蘭阿姆斯特丹 Beurs van Berlage Building 內的 
+Glass Music Hall。Zaanen Spanjers Architects 設計。
+
+## PDF page 9
+
+6
+室內設計是一個動態的過程，涉及建築和用戶之間的持續互動，達至建築環境的可持續性和價值保留
+的目標。室內設計師習慣在處理的小規模項目上與客戶和用戶直接聯繫，也與建築師、平面設計、產
+品設計師以及室內家具設計師等不同的團隊合作，再加上項目經理、管理顧問、環境心理學家、人類
+學家和藝術史學家的幫助。越來越多人視室內設計師為研究者，他們或自發或受委託，探索和重新詮
+釋我們的生活環境的多個方面。室內設計師習慣扮演許多不同的角色，以迎合客戶的需求。室內設計
+涉及很多不同學科，有時很難把單一專業人員的職責跟其他人分別出來。這令到外行人較難清楚了解
+室內設計的重要，但這正正是室內設計與其他時尚和設計不同之處，這也就是它的附加價值，一般人
+只在出了問題時才會注意到室內設計。
+室內設計師致力保障和促進所有樓宇用戶的健康、安全和福祉，並在滿足功能、技術和經濟需求的設
+計的同時，顧及其美觀、舒適和可持續性。與建築師一樣，他們提供的服務不只有利客戶，也直接
+令公眾獲益，並有助於改善建築環境的質素。但這是一個競爭激烈的市場，往往由公眾媒體主導，並
+傾向聚焦於不同的層面。為了保持行業發展質量和專業知識，並為客戶和消費者提供清晰的資訊和指
+導，設計師必須更大規模地投資在提高教育質素上，研究和開發必須是我們日常工作的一個重要部
+分。
+設計師必需深化和分享我們的知識，也盡力蒐集更多與行業實踐經驗相關的知識。現在我們已具備達
+至這目標的基本條件，就是把科學研究定為室內設計學士和碩士學位培訓的必修部分，一些國家甚
+至已有博士課程出現。十年前書架上有關室內設計書主要是圖畫書，現在已開始多了相關的知識的書
+籍，但數量還不夠多。特別是在日常實踐中，採用循證設計、入住後評估並非主流，室內設計專業與
+環境心理學、神經科學和行為經濟學的互動應用也不足夠。因此，我們的工作方式必須從一個線性過
+程變為循環過程，不斷驗證我們的設計是否有效，以及把研究結果用於新的工作項目。
+對於我們的客戶，我們的工作成果一直是旅程的開始。現在我們必須說服他們，從現在開始，我們將
+與他們一起同行，學習、有需要時作出調整，並在必要時改變。我們將成為顧問，不僅關注住宿，還
+對生產力、流程的有效性和生活幸福有所貢獻。
+重新思考原則
+室內設計不只是創造讓人銘記的空間，還是一個動態過程。 2000 多年前，維特魯威(Vitruvius) 確立他
+著名的建築教條：Firmitas，Utilitas et Venustas (堅固，實用，美觀)。現在也許是時候重新制定適合
+用於室內空間的三點，我建議：美觀、舒適和可持續發展。
+新的設計方法
+
+## PDF page 10
+
+7
+第二章
+屋宇設備和室內設計
+羅徵憲及巫翔鷹著
+屋宇設備是指構成一座建築物功能的所有內部系統，能影響人們的舒適、健康、生產力和安全。室內
+設計師應與屋宇設備顧問或相關專業人員合作，以確保屋宇設備能同時滿足功能和美觀要求。
+屋宇設備包括四個部分：
+（a）機械通風及空調（MVAC），
+（b）消防設備，
+（c）水管及排水設 施，以及
+（d）電力及超低電壓設備 ，
+一般稱為風、火、水、電。
+圖2.2 風火水電
+圖2.1 屋宇設備
+MVAC
+ Plumbing
+and 
+Drainage
+Fire
+Services
+Electrical
+and
+ELV
+Services
+水
+風 火
+電
+
+## PDF page 11
+
+8
+自然通風和機械通風
+通風可分為自然通風和機械通風。自然通風是通
+過自然方式為室內空間提供和抽掉空氣，例如利
+用建築物及其周圍環境之間的壓力差，而機械通
+風需要使用風扇或其他機械系統。i
+根據美國采暖和空調工程師學會（ASHRAE），
+空調的定義是通過控制溫度、濕度、清潔度和分
+佈來處理特定空間的空氣，以符合其要求。ii
+通風扇
+通風扇包括排氣扇，作用是把空氣從室內排出到
+室外，而凈氣風扇則把室外新鮮空氣抽進室內。
+風機盤管機組(FCU)
+FCU 是一種設備簡單的獨立的室內空氣再循環系
+統，機組包括空氣過濾器，加熱或冷卻盤管和離
+心式風扇，機器的運作是把空氣經機組的入口引
+導至盤管，然後排出。
+(a) MVAC 風
+圖2.3
+圖2.6 圖2.7
+圖2.4
+圖2.5
+空氣處理機組（AHU）
+AHU 連接到較複雜的大型中央空調系統，其中包括敷設管道處理外部空氣，AHU 這通常應用於更大
+的空間如整座辦公室大樓。AHU 調節空氣的溫度和濕度，並控制氣流，其基本組件包括供氣風扇（回
+風機）、水冷卻盤管、過濾器、混合箱，閘閥和控制器。
+
+## PDF page 12
+
+9
+空氣擴散器
+空氣擴散器是機械通風的重要組成部分之一。市面上有許多不同設計的空氣擴散器，可供室內設計師
+選擇。iii
+圖2.8 不同種類的空氣擴散器
+
+## PDF page 13
+
+10
+中央空調系統和非中央空調系統
+中央空調系統通過供應和回收風管，將冷空氣循環輸送到不同的房間，中央空調系統常見於較大的室
+內空間如辦公樓。
+風機盤管機組
+•	 恆定風量（CAV）系統：
+簡單的開/關冷卻操作，溫度波幅大。
+•	 可變風量（VAV）系統：
+更精確的溫度控制，相對較細的溫度波幅。
+非中央空調系統通常用於較小的室內空間，例如單一的住宅空間。
+． 窗口式空調機 	 	 	 ． 分體式空調機
+圖2.9 風機盤管機組
+圖2.10 恆定風量（CAV）系統 圖2.11 可變風量（VAV）系統
+圖2.13 分體式空調機
+圖2.12 窗口式空調機
+
+## PDF page 14
+
+11
+消防設施的作用，是探測火警，並避免建築物受到火災的破壞。
+(b) 消防 (火)
+圖2.14
+圖2.16
+圖2.18
+圖2.17
+圖2.15
+•	 煙霧探測器是一種感測煙霧的裝置，有煙霧
+通常表示有火警。
+•	 防火玻璃警鐘是一種手動啟動的裝置，用於
+警報有火警發生。
+•	 消防灑水器通過感應熱力而噴水，必需接連
+供水管。火災時消防灑水器可幫助減慢火焰
+的蔓延，從而確保安全和減低對建築物的結
+構損壞。
+•	 防火擋板通過把樓宇的不同部分分隔，以避
+免火災迅速蔓延，讓被困火場的人有時間逃
+離現場。
+•	 消防警報燈連接探測器，傳遞視覺警報信
+號。
+
+## PDF page 15
+
+12
+供水系統可分為冷水系統和熱水系統，以供樓宇使用者作飲用、沖廁、消防服務和空調等之用。
+(c) 水管和排水 (水)
+圖2.19
+圖2.20
+圖2.21
+•	 水管系统利用管道、閥門、衛生設備、水箱
+和其他設備供水。所有水管工程必須按照
+《香港水務設施規格》進行，包括以下類型
+的水務工程：
+- 飲用水
+- 沖廁水
+- 清潔水
+- 灌溉水
+•	 排水系統目的是排走廁所、洗手盆、臉盆、
+浴缸、淋浴間、坐浴桶、洗碗機、屋頂及洗
+衣 機流出的污水。設計良好的排水系列，能
+確保排水時水流順𣈱，以及於排水時減少氣
+味及 臭氣。當中的組件包括聚水器，能防止
+臭氣、昆蟲及細菌進入室內。污水包括以下
+各種水源：
+- 雨水
+- 廢水
+- 泥水
+
+## PDF page 16
+
+13
+•	 假天花可用於平衡美學和基礎設施的需要。例如用以隱藏空氣管道或水管，亦可用作隔熱或隔
+音。假天花板可以各種材料製成，包括：iv
+石膏板：
+重量較輕、靈活、價格便宜。	 	
+金屬面板：
+可重複使用、堅固、耐用、富現代感。
+熟石膏：
+重量較輕、質地光滑、表面均勻。
+膠合板：
+堅固、可作不同表面處理。
+纖維板/礦物磚：
+高度隔聲和防火，可作各種表面處理。
+圖2.22
+圖2.24
+圖2.26
+圖2.25
+圖2.23
+
+## PDF page 17
+
+14
+電氣和 ELV（超低電壓）裝置是所有建築的重要組成部分，包括佈線，配電方案、照明與電力設施的
+保護。在香港，對流電的電壓為 220V; 三相電的電壓為 380V。
+•	 照明為人們提供光以讓他們使用空間，以及進行特定工作時可看得清楚。光線還可以呈現空間或
+形體，表達出空間設計的概念、結構和顏色。建立視覺環境的方法包括環境照明、重點照明、工
+作照明和周邊照明。下面的照片顯示一個反射天花板規劃圖設計的例子。有關該項目的詳程，請
+參閱第四章。
+(d) 電力和超低電壓裝置 (電)
+圖2.27 天花反向圖
+
+## PDF page 18
+
+15
+•	 電訊和互聯網
+電訊是指電子通訊，其定義為「以任何性質的符號、信號、文字、圖像或聲音經過有線、無線、
+光學或其他電磁系統的傳輸、發射或接收」。在室內設計的範疇，電話、電視和互聯網都是電訊
+的最重要形式。
+圖2.28 電力裝置圖
+圖2.29
+圖2.30
+
+## PDF page 19
+
+16
+房間種類 特質 色溫 例子 
+家居 溫暖白色，色調偏橙
+黃，感覺舒適 2700K
+辦公室 冷白光，適合閱讀和
+工作 3500K
+第三章
+建築環境中的人類感知
+羅徵憲及巫翔鷹著
+室內設計以誘發人類的五感反應，來創造不同的空間體驗。通過選擇不同類型的照明、讓日光進入空
+間、提供新鮮空氣，或調節室內溫度和室內聲音等，能影響人們的視覺、聽覺、嗅覺和感覺。此外，
+也有各種測量工具和標準，可幫助設計人員以精確和科學的方式達至所需要的效果。
+2.1 視覺
+室內照明
+色調(hue)指一件物件看起來的顏色，像紅色，綠色或藍色。顏色值(value)顯示顏色的深淺，像天藍
+色、湖藍色等。色品(chroma)表示顏色的飽和度。相對色溫（CCT）指光源色的外觀，使用開爾文
+(Kelvin)單位表示。低 CCT 是指光源是長波長，光線較溫暖。 CCT 是室內設計師的主要考慮之一。
+圖3.1 色溫表
+圖3.3
+圖3.2
+
+## PDF page 20
+
+17
+•	 重點照明集中照射指定的物件和表面，提供
+戲劇性的燈光效果。
+•	 裝飾照明突出和點綴走廊、通道和其他室內
+和室外的設計元素。
+•	
+•	 景觀照明能加強景觀的美感、個性和安全
+性，光線充足的景觀設計提供功能和舒坦並
+存的環境。
+•	 環境照明提供整體照明，定義空間並形成舒
+適的視覺環境。
+•	 工作照明照亮執行工作的區域，提高工作效
+率。
+•	 室外照明在戶外提供燈光，讓人們可以享受
+各種活動。
+•	
+1. 照明功能類型 
+圖3.4
+圖3.6
+圖3.8
+圖3.5
+圖3.7
+圖3.9
+
+## PDF page 21
+
+18
+種類 特性
+白熾燈泡
+•	 電流通過鎢絲產生光
+•	 價格低廉
+•	 壽命較短
+•	 能源效率低
+辦公室
+•	 光粉塗層產生光線
+•	 有毒汞氣洩漏的危險
+•	 昂貴的燈泡/光管
+•	 合理的壽命
+•	 較好的能源效益
+發光二極管 (LEDs)
+•	 通過重組電子產生光線
+•	 燈泡價格非常昂貴
+•	 壽命很長
+•	 最高的能源效益
+石英燈泡
+•	 一種加入少量鹵素
+（如碘或溴）的白熾燈
+•	 操作時發出高溫
+•	 有災危險
+•	 具較高色溫
+燈光類型
+WELL Building Standard 是一家美國公益企業，其使命是通過建築環境，改善人類健康和福祉。
+WELL Building Standard 制定的 58 Color quality 標準，說明光線顏色質素能影響視覺吸引力，可
+提升或降低用戶的舒適度。較差的顏色質素能降低視敏度和照明體的清晰度。 這標準能確保高色彩質
+素燈具的使用。
+圖3.10
+圖3.11 圖3.12
+圖3.13 圖3.14
+圖3.15
+
+## PDF page 22
+
+19
+•採用日光
+採用日光能帶來很多好處，能減少電燈的使用以節約能源，並提高使用者的滿意度，令他們視覺舒
+適。良好的採光需要設計者作質與量的考慮。
+具體來說，日光指素（DF）是房間內日光量的量度數字。窗口的大小和分佈能改變DF值。另一方面，
+可以使用如 RADIANCE 這樣的軟件模擬和分析空間的日光分佈。
+光通量(Lux)是國際單位制的亮度單位，用以測
+量每單位面積的光亮度。
+特許屋宇設備工程師學會（CIBSE）是屋宇設備工
+程的標準制定者和授權機構，其制定的CIBSE SLL
+照明規範，為不同活動作出了不同光通量的建
+議。
+圖3.16
+空間及活動種類 所需光通量(Lux)
+休息室
+貨倉及儲物室
+通道和走廊
+升降機
+飯堂、茶水間
+衣帽間、洗手間
+運動室
+課室
+辦公室—接待室
+實驗實
+禮堂，演講堂
+圖書館 - 閱讀區
+廚房
+辦公室 - 會議室
+辦公室 - 寫作、打字、閱讀、數據生產
+醫療室
+藝術學校的藝術室
+技術繪圖室
+牙醫-診症室
+100
+100
+100
+100
+200
+200
+300
+300
+300
+500
+500
+500
+500
+500
+500
+500
+750
+750
+1000
+
+## PDF page 23
+
+20
+WELL 建屋標準內的窗戶採光標準說明，自然光能改善情緒、警覺性和整體健康。這標準詳述窗戶的
+設計參數，以優化在室內引入自然光的質量與質素。
+•空間配置/擁塞
+美國的「領先能源和環境設計」認證計劃(LEED)，制定了名為 EQ Credit 8.2: Daylight & Views: 
+Views for 90% of Spaces 的室內日光標準，目的是通過引入自然光及景觀，為樓宇用戶提供室內空
+間與戶外的連繫。這標準規定，在90％經常使用的室內區域內，要在高於地面 0.8 米和 2.3 米之間的
+範圍，能直線看到室外環境。
+3.2 聽覺
+•噪音隔離
+噪聲是人們不希望聽到和不悅耳的聲音，例如辦公室的打印機和通風系統產生的雜音，都可能導致聽
+力受損和高血壓i
+。通過建築結構，即建築物外圍、牆壁和地板的結構，可以達到噪音隔離的效果。
+噪音隔離指數（NIC）展示兩個相鄰區域之間的聲音隔離效果。數字越大，聲音的隔離效果越大。
+傳聲等級（STC）是另一種隔音指數，顯示牆壁的阻隔聲音傳輸的能力。數字越高，便越能隔音。下
+表顯示建築物料的 STC 值。ii
+圖3.17 圖3.18
+圖3.19
+
+## PDF page 24
+
+21
+厚度與物料 STC
+5/16” 夾板
+5/8” 石膏板	
+1/4” 玻璃	
+3/16” 鋼板	
+1” 厚木板	
+12” 磚牆
+25
+28
+30
+35
+36
+59
+房間類型 最佳反響時間(秒)
+錄音室
+課室
+小型劇場
+教堂
+樂團
+0.2-0.5
+0.5-1.0
+1.0-1.5
+1.5-2.0
+2.0-2.5
+綠建環評 （BEAM Plus）是本港一項自願性綠色建築物標籤計劃。綠建環評 – 新建築 IEQ 19 隔音是一
+套旨在改善房屋或房間的隔音效果以減少噪聲影響的指南，裡面提到不同的性能標準。比如在蜂窩式
+辦公室，噪聲隔離指數（NIC）應至少為 40，而住宅臥室和客廳之間的 STC 值應為 STC46。iii
+WELL 建築標準81 Sound barriers表明，來自相鄰空間的噪音對住戶可能帶來極大干擾。小心挑選高
+質量的建築材料，能大大提高內部間隔或大門的隔音大效果。
+•室內聲學
+室內聲學關乎聲音在封閉空間中的表現，涉及在房間內聲音如何產生、傳播、感知、量度和塑造。室內
+聲學中其中一項最重要的參數是聲音反響時間，用以測量在房間內發出的聲源在空間中滯留的時間。
+最合適的反響時間取決於房間的性質。具體來說，較長的反響時間適用於教堂和大音樂廳， 以增強音
+樂體驗。iv 下表顯示不同房間類型的反響時間。v
+圖3.20 圖3.21
+
+## PDF page 25
+
+22
+此外，美國亦建立了一項噪音標準（NC），用
+於評估室內噪音，這是一組標準曲線，用以定義
+不同空間中，人類最舒適的音量上限。以下圖表
+展示不同的 NC 曲線。vi
+例如，頻率為 1000Hz 的聲音聲量達 60dB，在
+NC40 值的空間中便不能接受。
+綠建環評制定的新建築物「IEQ 18 房間聲學」是改
+善房間聲學性能的指南，其中語音清晰度是重要
+的。這指南建議在私人辦公室和會議室中，A加
+權聲壓值的反響時間應為 0.6 秒或更低。噪音評
+估標準應為 NC40。
+WELL 樓宇標準內的 78 Reverberation time 建
+議較低的反響時間，以維持舒適的聲音水平。這
+標準的要求，可以通過在不同表面和設計元素，
+使用各種具吸音性能的物料來實現。
+3.3 空氣 - 室內空氣質素（污染物和氣味）
+室內空氣質素（IAQ）關係到建築內的人們的健康和舒適度。 IAQ 可能被不同污染物影響， 包括一氧
+化碳、氡、揮發性有機化合物（VOC）、顆粒物和微生物等。不理想的室內空氣質量能引致咳嗽、噴
+嚏、淚水、頭痛等徵狀，vii 惡劣的室內空氣質量更會產生惡臭。
+圖 3. 22 噪音標準曲線圖
+圖 3. 23 圖 3. 24
+
+## PDF page 26
+
+23
+污染物 潛在健康問題 污染物來源
+石棉
+•	 石棉沉滯症
+•	 間皮瘤
+•	 肺癌
+•	 地磚
+•	 屋頂材料
+阻燃劑(PBDEs)
+•	 對行為和神經系統發育的
+潛在影響
+•	 一些塑料
+•	 電氣和電子設備
+•	 軟體家具
+•	 非服裝紡織品
+•	 發泡膠產品
+甲醛（甲醇）
+•	 眼睛，鼻子和喉嚨有灼
+燒感
+•	 呼吸問題
+•	 過敏
+•	 香煙
+•	 清油漆和膠水
+•	 壁紙，紙板和紙製品
+•	 由刨花板製成的家具，櫥櫃
+和建築材料
+揮發性有機化合物（VOC）
+•	 刺激眼睛、鼻子和喉嚨
+•	 頭痛、身體失調和噁心
+•	 損害肝、腎和中樞神經
+系統
+•	 香煙
+•	 清油漆和膠水
+•	 噴髮膠和指甲油
+氡氣
+•	 損害基因
+•	 肺癌
+•	 建築材料
+•	 土壤和岩石
+圖3.25
+圖3.26
+圖3.27
+圖3.28
+圖3.29
+從不同室內源頭所產生的污染物，可能導致許多健康問題。viii
+
+## PDF page 27
+
+24
+綠建環評的「新建築 IEQ 6 室外空氣污染源指標」，用意是確保外來的空氣污染物，不會在正常使用的
+空間內，帶來不可接受的室內空氣污染。而IEQ 7 室內空氣污染指標旨在確保來自內部的空氣污染物
+維持在可接受的水平之內。
+WELL Building Standard 的 01 空氣質量標準，要求經認證的評估員在建築物入伙後進行功能測試，
+以確保建築物無論採取自然或機械通風，都能符合有關的空氣質量要求。
+圖3.30 圖3.31
+3.4 環境溫度 - 室內溫度
+室內溫度可能誘發「病態建築症候群」症狀，或影響住戶對空氣質量的滿意度，間接影響生產力。然
+而，不同的人對溫度具有不同的感覺。最好各使用者之間能達成共識，然後設置平均溫度。
+預測平均投熱感度（PMV）是從冷（-3）到熱（+3）的熱感指數；透過收集一組人在不同溫度下的冷
+熱舒適感的數據，得出不同環境和生理因素之間數學關係。這個關係讓我們可 以利用以下的參數計算
+PMV 值，包括：ix
+1.	 代謝率（met）：人體新陳代謝產生的能量；
+2.	 衣服絕緣（clo）：人所穿衣服的保溫程度；
+3.	 空氣溫度：住戶所處四周空氣的溫度；
+4.	 輻射溫度：環繞住戶四周的表面所產生的熱
+度的加權平均值；
+5.	 空氣速度：一定距離之間空氣流動的速度；
+6.	 相對濕度：空氣中水蒸汽的百分比。
+ASHRAE 55 建議，可接受的熱舒適度範圍在 PMV-0.5 和+0.5 之間。下表顯示 PMV 感覺量表：
+數值 感覺
+-3
+-2
+-1
+0
+1
+2
+3
+冷
+冷
+微冷
+中性
+微暖
+暖
+熱
+
+## PDF page 28
+
+25
+有一個在線的舒適計算器（ISO7730-1993），能根據以下參數作出 PMV 值的建議。
+圖3.32
+綠建環評創建新建築物IEQ 13的目的，是確保空調系統在不同的負荷條件下，仍為室內空間提供符合
+設計原意的運作質素。此外， IEQ 14 自然通風的室內環境下的舒適度旨在減少因外部熱力增加而引起
+的高溫，並確保空調機組能有效控制室內溫度。
+WELL 建築標準76 熱舒適性說明，室溫的舒適度能影響心情、專注力和生產力。然而，對冷熱的偏好
+很個人，而且人與人之間的差異很大。在大型樓宇內平衡能量需求以及不同用戶偏好，是一件具挑戰
+性的任務。
+圖3.33
+
+## PDF page 29
+
+26
+圖3.34
+自然通風（或被動通風）是指在不使用電力和機械系統的情況下，為室內空間供應和抽除空氣。空氣
+從外部流入室內空間的過程，是因壓力差引起的堆積效應的結果。這過程可以令建築物降溫及通風，
+同時減少很大部份的能量消耗。
+在使用自然通風的房間，坐在窗戶附近的使用者能感受到空間內的微風。空間內一定程度的循環空氣
+有助提高舒適度，也有助吹散空氣污染物。然而，當風速太高或不穩定時，或會影響工作或令人感到
+不適。
+綠建環評新建築物SA 8 建築物微氣候指出，風速
+達每秒五米便會使人感到不適，而風速高於每秒
+八米便會令人感到非常不舒服。
+傳統的波斯/阿拉伯建築，使用風斗達到自然通
+風的效果。高塔的天花開口與主要風向相反，而
+暖空氣將自然地上升到天花，這過程便於排出室
+內空氣。ix
+跟據綠建環評新建築附件 8.8.1.4 自然通風，室內設計師在設計室內結構時，必須考慮不同交叉通風
+的方案。
+圖3.35
+圖3.36
+
+## PDF page 30
+
+27
+與此同時，室內設計師必須明白自然通風的限制。首先，在高噪音及空氣污染的環境不太適合作自然
+通風，因為自然通風和周遭環境有很大的相互關係。x 其次，寒冷天氣地區的建築物，需要相對封閉的
+空間來保持室溫，因此自然通風並不可行。另一方面，在設計通風立面時，需要同時考慮採光設計。
+•玻璃種類
+室溫的其中一個重要考慮是玻璃隔熱。市面上有
+許多種類的玻璃，室內設計師建立合適的室溫環
+境時，在玻璃的選擇上必須考慮兩個數值。xi
+第一個是 U 值。雙層玻璃窗的「U 值」是其傳熱
+能力，因此最低 U 值的雙層玻璃窗能最有效地隔
+熱。
+第二個數值是太陽能熱增益系數（SHGC），用
+以測量隔熱玻璃傳輸太陽能到房間中的能 力，這
+參數以 0 到 1 數值來表達，太陽能熱增益系數越
+低，傳遞的太陽能熱便越少。
+圖3.37
+圖3.38
+圖3.39
+
+## PDF page 31
+
+28
+•	 透明浮製玻璃：
+普通，高透光率，應用廣泛。
+•	 低輻射玻璃：
+玻璃上具極薄的透明塗層， 減低紫外線和紅
+外線透射，但容許大部份可見光透射。
+•	 絕緣玻璃：
+多層的玻璃被真空或充氣層分隔，能減低傳
+熱，具非常低的「U 值」。
+•	 有色浮製玻璃：
+有色，高遮光率。
+•	 夾層玻璃：
+在多層玻璃之間有 PVB 夾層， 堅固、能抵禦
+颱風和地震。
+•	 光伏玻璃（PV 玻璃）：
+玻璃設有太陽能電池，能以太陽能發電。
+市面上有很多種類的隔熱玻璃，每種具有不同的特性。以下是幾種普遍類型：
+圖3.40
+圖3.42
+圖3.44
+圖3.45
+圖3.41
+圖3.43
+
+## PDF page 32
+
+29
+個案研究: Small Home Smart Home 
+設計公司： LAAB (www.LAAB.pro) 
+Small Home Smart Home 是一個位於香港中心
+地區的 309 平方尺公寓。客戶是一對年輕專業
+人士夫婦，他們對新家居有很多要求，希望在這
+小小空間內有設備完整的廚房、大浴缸、家庭影
+院、健身房、 給貓貓用的設施和充足的儲空間。
+為了滿足這些要求，設計師採用了細緻的規劃和
+非凡的工藝， 創造了一個具備不同可移動組件的
+空間，以提供不同功能。根據用戶的需要，不同
+部分可以打開和收起，結合不同組件、結構和器
+材的使用，令整個空間能因應使用者的需要，發
+揮不同的功能。 圖3.46 住宅單位的俯視圖
+圖3.47-48
+圖3.49
+
+## PDF page 33
+
+30
+間隔的使用，能讓不同種類的活動同時發生。浴缸所在除了是浴室外，也可搖身一變，成後座座位供
+客人使用，同時也能作為臨時客房。
+設計師對應人們不同的感官，創造一個舒適的環境。
+視覺： 所有設施包括 4K 電視、餐桌、化妝桌和存儲設備都便於隱藏，保持整個空間整潔寬敞的感覺。
+燈光照明： 智能燈光系統在早上逐漸照亮房間，讓住戶能緩緩地起床。
+空氣： 所有材料、細節和機械系統都經仔細考究，能保持乾爽，方便清潔，也適合貓貓居住，不會產
+生臭味。例如貓廁所配備特別設計的通風系統，把氣味抽到屋外。
+屋主的三隻貓也是家庭一份子，設計師也考慮到牠們的需要。貓走動的地區包括天花板上的走廊、貓
+用的梯子、隱藏在浴室水槽下面的貓廁所和藏在廚房櫥櫃內的貓糧盤，還有供牠們休息的小房間。
+這公寓是一間智能家居，科技發揮重要作用。屋內設有一系列電話程式控制的設施，包括智能燈泡和
+智能鎖。燈光的開關時間及光亮度可以調控，而智能門鎖不需實體鎖匙，屋主可把電子鑰匙發送給幫
+助照顧寵物的朋友。
+圖3.50-51
+圖3.52-53
+圖3.54-55
+
+## PDF page 34
+
+31
+第四章
+通用設計和用戶友善的空間
+梁牧群、梁澤彥及譚震宇著
+隨著社會的發展，人們越來越意識到，具有不同需要和能力的人，都應有平等地獲得商品和服務的機
+會。通用設計亦稱包容性設計，是一種現代很普遍的設計理念，其目的是容許所有產品、空間環境和
+通訊設施，都能讓不同種類、年齡和身體狀況的人使用。通用設計的產品和結構，都方便用戶使用，
+以服務各式不同的群體 。
+人體因素和人體工程學人體測量
+室內設計以人為中心，設計師必須塑造出符合用戶需求的家具和空間。人體的尺碼因人而異，不同國
+家的人之間也各有不同。設計師進行設計時，也應仔細考慮男女性以及不同年齡的用戶的不同尺碼。
+圖4.1 標準身高的人的尺碼
+圖4.2 標準身高的人的手長
+
+## PDF page 35
+
+32
+以下是一個標準身高為 1680mm 的亞洲男性的不同人體尺碼：ii
+主要尺碼 平均尺碼(毫米) 標準偏差
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+坐高
+坐高視線
+肩高
+上膝蓋高
+下手肘高
+手臂長
+前臂長
+手掌長
+大腿內側高
+肩寬
+臀部寬
+1239
+1124
+960
+502
+607
+298
+238
+189
+407
+377
+319
+47
+47
+45
+23
+39
+16
+13
+11
+16
+26
+24
+座椅家具的人體工程學建議
+設計座椅式家具，座椅向後傾斜會較舒適。若背
+部向後方傾斜度越大，坐墊部份便需往後下方傾
+斜。
+座椅部份不應設置得太高，否則會對大腿造成壓
+力，阻礙血液流通，也會因雙腳離地令坐姿不
+穩。但同樣座椅也不應太低，因為雙腿過於著地
+會令身體前傾，影響坐姿的穩定性，同時亦會令
+身體偏離椅背，腰部失去支撐。
+圖4.3
+圖4.4 適當的座椅高度
+
+## PDF page 36
+
+33
+使用長方型辦公桌，適宜為每個使用者提供寬度 560mm 至 600mm 的坐位，並與其他使用者每邊各
+相隔至少 300 mm。這建議適用於面積較小的房間。
+若使用圓桌，空間分配同樣為每用戶 560mm 到 600mm。要計算所需圓桌的大小，可以預計用戶數
+目乘每人所需空間(即 560 mm 到 600mm)，然後把結果除以 3.14(pi 值)，便可得出圓桌所需的直徑。
+桌子的高度應與椅子配合，理想座位高度為桌面下 300 mm。以平均亞洲人身高計算，桌子高度應為
+730 mm，而座椅最理想高度為 430 mm。
+輪椅通道
+香港的法例要求新建築物需要為殘疾人士提供通
+道，走廊和門口必須有足夠寬度，容許輪椅使用
+者進出。
+辦公室家具
+圖4.5
+圖4.6 坐輪椅人士的尺寸數據 圖4.7 坐輪椅人士的手長
+
+## PDF page 37
+
+34
+圖4.8 顯示香港殘疾人士一般使用的輪椅的尺寸。
+輪椅尺寸
+圖4.8 輪椅的尺寸
+
+## PDF page 38
+
+35
+餐廳、商場和公共設施必須配備殘疾人士洗手間。根據法例，有關場地必須配備足夠和設備齊全以及
+位置方便的洗手間給所有用戶使用，包括男女、照顧嬰兒和小孩的人、殘疾人士、輪椅使用者、老人
+和年老體弱的人等，而殘疾人士洗手間的空間，須要能夠讓輪椅使用者從正面、側面或對角線坐上廁
+板或從廁板坐回輪椅。
+殘疾人士洗手間
+圖4.9 不同設施的高度
+圖4.10 使用對角方法從輪椅移動到坐廁之上
+「通用設計的 7 大原則」由一群在職建築師、產品設計師、工程師和環境設計研究人員於 1997年在美
+國北卡羅來納州立大學編制。制定這 7 大原則的目的，是為環境、產品和通訊設計提供指引。根據該
+大學的通用設計中心，這些原則可用於「評估現有設計、指導設計過程，並教育設計師和消費者有關
+更實用的產品和環境的特性。」iii 通用設計也被稱為「全民設計」，原則是設計要適合所有人，不論
+年齡、性別、能力或能力已改變的人。
+
+## PDF page 39
+
+36
+1. 公平使用
+建築的設計應讓所有人可以使用。最理想是所有
+人使用建築物的方式應相同（例如提供一個方便
+所有人進入建築物的入口），若所有人不能使用
+同一方式，其他方式在保障私隱、安全和方便方
+面應一致。建築物絕不能隔離或標籤個別群體，
+或讓某一群體享有特權。iv
+3. 簡單直接
+建築物的設計特徵，應讓人容易理解（例如洗手
+間內洗手用的水龍頭，操作應簡單易明）。此
+外，設施的操作也應簡單直接，讓人可不用特別
+指示便可使用。
+4. 信息清楚
+建築物應以各種模式（例如文字、符號、觸覺、
+話音）提供所有必要信息，以確保具不同感官能
+力的人能夠明白。而所提供資訊的媒介，必須與
+周圍環境有對比，讓信息清晰可見。
+2. 使用靈活性
+建築物的設計應該允許人們以不止一種規定的方
+式使用其設施（例如提供坐著或站立也方便使用
+的地標指南圖）。設施也應適合右手和左手使
+用，和可按個別使用者的速度調節。建築內的設
+施應具靈活性，即使以非常規或非預計的方式使
+用，也能夠運作正常。
+圖4.11
+圖4.13
+圖4.14
+圖4.12 商場的指南讓使用者坐著或站立也可使用
+
+## PDF page 40
+
+37
+5. 容錯設計
+理想地，建築物的設計應消除或阻隔任何可能對
+使用者造成危險或不便的設計特徵。當潛在的危
+險情況不能避免時，應在用戶接近該設計特徵時
+發出警告（例如在樓梯頂部附近，以不同感官提
+示信息作警告。）建築物的設計還應把使用者的
+意外或無意的動作計算在內，以減低不便和/或
+保護使用者免受傷害。
+7. 適當的體積與使用空間
+建築物的設施應當提供足夠的空間，讓任何人都
+能使用（例如洗手間的洗手盤應在膝高處有空
+間，讓坐輪椅的人能夠使用）。此外，空間的佈
+局要在主要設施之間提供暢通路徑，方便使用者
+前往。
+6. 省力的設計
+建築物的設計特徵應以省力為主（例如用不使用
+需要用手抓握緊和轉動的傳統門扭，而轉用門
+桿）。使用省力設施時，使用者不需使用彆扭或
+危險的姿勢（例如提供平滑和儘量平坦的路徑通
+往樓宇的入口。）
+圖4.15
+圖4.16
+圖4.17
+
+## PDF page 41
+
+38
+第五章
+室內設計的可持續發展
+羅徵憲及巫翔鷹著
+可持續性已成為全世界室內設計業界的重要考慮因素，室內設計師應為客戶選擇一些節省資源和水電
+費的產品。此外，有一些地方和國際性的綠色建築和綠色室內設計標準，通過獲得有關組織發出的認
+證，除了可為保護環境做出貢獻外，還可保障用戶的健康和福祉。
+5.1 資源管理
+a) 電
+i. 日光控制
+利用日光控制，建築物可以消耗更少能源，也可
+減低冷氣的電量使用。通常在電力的高峰需求時
+段（例如下午 3 點至 6 點）期間，電費是最昂貴
+的。因此，在這期間使用天窗採光，可以顯著地
+節省照明成本。
+自動日光控制不依賴使用者操控，而依靠安裝在
+天花板的光電傳感器，以自動檢測光暗。這種系
+統的組成部分為燈光源、控制裝置、感光器和控
+制器。i
+市面上有兩種類型的日光控制，分別為手動和自
+動控制。手動控制即在日光充足時，住戶須自行
+關閉燈光。這方法不需額外的配件，但當樓宇很
+大或結構複雜便不可行。
+圖5.1
+圖5.2
+圖5.3
+
+## PDF page 42
+
+39
+ii. 能源標籤
+電器用品的大量使用，帶來了巨大的能源消耗，
+也增加了對環境的壓力。為進一步推動市民選擇
+節能電器，提高公眾對節能的認識，香港政府已
+按「能源效益（產品標籤）條例」推行強制性能
+源效益標籤計劃（MEELS）。在這計劃以之下，
+在香港供應的規定產品需要顯示能源標籤，以便
+消費者得知其能源效益 ii。
+(官方網頁：http://www.energylabel.emsd.gov.hk/en/
+about/background2.html)
+此外，中國大陸也設有一套能源標識管理系統，
+稱為「中國能效標籤」，通常貼在產品或其包裝
+上，顯示能源等級、能源消耗和其他資訊。這標
+籤為消費者（包括各級政府、企業和個人） 提供
+選購節能電器產品所需的有用訊息。「中國能效
+標籤」根據能源效益、技術潛力、節能裝置的成
+本效益等，將不同類型的電器分級。iii
+(官方網頁：http://www.energylabel.gov.cn/)
+「綠建環評EU 9 -- 能源效率設備」鼓勵更廣泛地
+使用節能設備，例如當一個場所有超過80％的電
+器和設備是經過認證的節能產品時，便會獲得兩
+分。
+iii. 能源之星 (Energy Star)
+「能源之星」 (Energy Star) 是美國環境保護署
+（EPA）推出的自願性計劃，通過增強能源效
+益，幫助企業和個人節省金錢和保護氣候iv。
+「能源之星」認證的照明燈具，比傳統燈泡所消
+耗的能源少 70-90％，發放的熱能亦少 70-90％
+。經認證的照明燈具能更有效地分配光線，有助
+減少溫室氣體排放，保護環境。
+(官方網頁：https://www.energystar.gov/)
+圖5.4
+圖5.5
+圖5.6
+
+## PDF page 43
+
+40
+b) 用水效益
+用水效益是指使用較少的水獲得相同的服務水平
+或相同的效果。一些衛生設備耗水量較低而效能
+一樣，例如節水淋浴噴頭、水龍頭和廁所。
+香港特別行政區政府推出的「自願參與用水效益
+標籤計劃」，是一項推動節約用水措施。v 參與這
+計劃的產品會貼上標籤，為消費者提供用水量和
+省水效率，幫助消費者選擇省水產品。參與標籤
+計劃的產品包括淋浴噴頭、水龍頭、洗衣機、小便
+池用具和節流器。
+(官方網頁：http://www.wsd.gov.hk/en/plumbing_and_
+engineering/wels/index.html)
+c) 可持續物料
+建築環保評估協會推行的「商業、零售和機構室
+內空間」，鼓勵使用快速可再生材料、回收材料
+和可持續木材，分別使用於地板、天花板產品和
+牆壁與門等產品。例如有些地毯產品和地毯墊是
+由回收的瓶子製成。受惠於科技進步，這些產品
+購買方便，而且舒適、環保又可靠。
+另外，一些廠商提供升級再造服務，能有效延長
+木製品生命週期。家具如門和隔板可以升 級再造
+或循環利用，以減少環境污染。室內設計師應考
+慮多使用可持續物料。
+圖5.7
+圖5.8-9
+圖5.10-11
+
+## PDF page 44
+
+41
+5.2 推薦性/自願性/增值標準
+• 綠建環評 /領先環境能源設計
+綠建環評是一個以香港為基地的計劃，旨在實現
+可持續發展的社區和綠色宜居的建設環境，使人
+類和自然和諧共處。這套評估工具通過教育和培
+訓，在社區累積能量，以促進樓宇使用者的健康
+和福祉。
+綠建環評提供了一個評估建築物整體質量的單一
+性能標籤。「綠建環評--新建築標準」包括一系
+列評估建築效能的參數。
+(官方網站：https://www.hkgbc.org.hk/eng/NB_Intro.aspx)
+• WELL 建築標準
+2013 年推出的 WELL 建築標準，由公益組織國
+際建築研究院（IWBI）管理，其使命是通過建設
+環境改善人類健康和福祉。 WELL 標準具有七個
+性能標準，有助優化建築質量。與其他環保建築
+標準不同，WELL 主要關注建築物對使用者健康
+的影響。
+(官方網站：https：//www.wellcertified.com/)
+• 領先能源和環境設計 (LEED)
+美國綠色標籤系統「領先能源和環境設計」
+(LEED)，用以評估不同類型建築物。經 LEED 認
+證的建築物都是能有效運用資源，有競爭優勢，
+處身當中的僱員和用戶身心愉快，建築物也能吸
+引租戶， 能節約能源和資源，降低運營成本，提
+升公共關係、社區效益以及租金水平，也能促進
+健康。
+(官方網站： http://www.usgbc.org/leed)
+• 室內空氣質素檢定計劃
+室內空氣質素檢定計劃（ IAQ） 成立的目的，是
+改善室內空氣質素，提高市民對室內空氣質素重
+要性的認識。這個自願參與和自我管理的計劃，
+設有兩個等級（良好和卓越），以配合不同建築
+物的需求。
+室內空氣質素檢定計劃有多個監察參數，包括室
+溫、相對濕度、空氣流動、CO2 、CO 、PM10
+、NO2、O3、HCHO、TVOC、氡氣和氣載浮游
+细菌等。
+(官方網站： http://www.iaq.gov.hk/en/iaq-certification￾scheme.aspx)
+圖5.12
+圖5.13
+圖5.14
+圖5.15
+
+## PDF page 45
+
+42
+•室內設計的綠色建築標準
+a) 綠建環評的「室內設計--商業、零售和機構手冊」，是為辦公室、商店和相關室內環境編制的一項
+綠色建築標準。這項環境評估方法為非住宅的室內裝修、改裝和翻新工程定下可持續發展的目標。這
+標準主要考慮以下幾方面：
+1.	 綠色建築特徵（GBA）
+2.	 管理（MAN）
+3.	 物料（MA）
+b) 美國的「領先環境能源設計」計劃，是室內設計和施工的綠色建築標準，包含對不同 的室內空
+間，包括商業、零售和酒店等的環境評估方法，其考慮的項目包括：
+1.	 位置和交通（LT）
+2.	 可持續發展地點（SS）
+3.	 用水效能（WE）
+4.	 能源與空氣（EA）
+5.	 材料與資源（MR）
+6.	 室內環境質素（EQ）
+7.	 創新（IN）
+8.	 區域優先事項 (RP)
+4.	 能源使用（EU）
+5.	 用水（WU）
+6.	 室內環境質素（IEQ）
+7.	 創新（IV）
+圖5.16
+圖5.17
+
+## PDF page 46
+
+43
+Table 1. Thresholds of compliance with emissions and content standards for 6 categories of 
+materials
+Category
+Interior paints and coatings
+applied on site
+Interior adhesives and sealants
+applied on site (including 
+flooring adhesive)
+Flooring
+Furniture
+Ceilings, walls, thermal, and
+acoustic insulation
+100%
+At least 90%, by cost
+100%
+At least 90%, by volume, for
+emissions; 100% for VOC
+content
+At least 90%, by volume, for
+emissions; 100% for VOC
+content
+• General Emissions Evaluation 
+for paints and coatings applied to 
+walls, floors, and celings
+• VOC content requirements for 
+wet applied products
+• General Emissions Evaluation
+• VOC content requirements for 
+wet applied products
+• General Emissions Evaluation
+• Furniture Evaluation
+• General Emissions Evaluation
+Emissions and content
+Threshold requirements
+領先能源和環境設計的綠色建築特徵
+MR 分：減低室內環境生命週期相關的影響
+MR 分：建築產品資料公開及優化 – 原料的採購
+表1. 6個物料類別的揮發性有機物及成份標準
+來自至少五個不同製造商的不少於 20 種永久安裝的產品，由公開原材料供應來源報告的建造商及
+生產商提供。這些報告詳列原材料提取的地點，對長期及環保使用土地的承諾，承諾減少開採和/
+或製造過程引起的環境損害，以及承諾自發遵循負責任的採購標準。
+室內非結構部份，應有至少50％
+面積範圍內，使用循環再用或回
+收物料。此外，至少30%的家具
+和裝飾應選擇再用、二手或翻新
+的。這些措施旨在鼓勵物料改造
+再利用，優化產品和材料的環境
+性能。
+圖5.18
+圖5.19
+
+## PDF page 47
+
+44
+ BEAM Society Limited Office - Reno Green“Platinum”Rating Accreditation Examples
+MAN MA EU WU IEQ 
+個案研究: 建築環保評估協會有限公司（BSL）的辦事處
+該辦事處位於九龍塘的賽馬會環保樓，已獲得室
+內綠建環評鉑金級認證。
+這辦公室的裝修實現了綠建環評的關鍵概念，包
+括提供一個舒適而簡單，並具有各種綠色功能的
+工作環境，充份說明如何在有限的預算下，實現
+可持續發展和高成效的室內設計。
+這個獲鉑金級認證的辦公室的其中一些設施包括：
+管理5 企業社會責任
+•	 鼓勵有利於社會的空間發展，推動組織的企
+業社會責任。
+ - 為僱員提供安全和舒適的工作環境。
+ - 提供樓梯機及運動繩索。
+管理7 職業健康和安全
+•	 照顧健康與安全的室內設計設施這類別的項
+目包括坐椅、辦公桌，把發出噪音的影印機
+和伺服器與辦公桌分隔、冷氣風口不直接吹
+向人、電腦屏幕不直接向窗以免反光等等。
+圖5.20
+圖5.21
+圖5.22-23
+
+## PDF page 48
+
+45
+Items
+Item 1
+Provided 
+adjustable & 
+movable office 
+chairs.
+Item 2
+Armrests on 
+office chair (if 
+provided) shall 
+be adjustable in 
+height.
+Item 3
+Standing-height￾benches can 
+be adjustable 
+in height (if 
+provided).
+The chair was purchase from 
+second hand supplier and the 
+catalogue is not applicable. 
+All chairs are adjustable 
+and moveable. The layout 
+showed the quantity and 
+location of chair.
+Office chairs with adjustable 
+armest can be chosen by the 
+colleagues.
+Standing-height-benches 
+which can be adjustable in 
+height located at photocopy 
+room.
+1
+1
+1
+Narrative Photo Record Achieved
+Point
+Ergonomics
+
+## PDF page 49
+
+46
+Item 8
+Wall/Sound 
+barrier between 
+occupant and 
+noisy equipment 
+or locations (e.g. 
+photocopiers, 
+kitchen etc.).
+Item 9
+Draught: Air 
+from air diffuser 
+is not directed 
+at seating 
+occupants.
+Item 10 
+Glare: No 
+monitors 
+(computer, 
+TV) are facing 
+windows.
+By setting up room for 
+photocopying, and doors 
+for server area, the 
+photocopy machine and 
+server are isolated from the 
+workstations.
+Air is not directly blown at 
+seating occupants, since 
+ceiling fans are provided to 
+reduce the air velocity from 
+cooled air diffuser to seating 
+occupant.
+All monitors are not facing 
+the window.
+1
+1
+1
+Indoor Environmental Quality
+
+## PDF page 50
+
+47
+MAN MA EU WU IEQ 
+用材1 廢物回收設施
+•	 推廣廢物循環以減少堆填區的壓力及保存不可再生資源。
+ - 回收廢紙、塑膠、金屬、充電池、光管、電器及電子器材及玻璃。
+用材2 室內物料循環再用：
+•	 增加牆、門、窗等物料的生命周期以保存資源，減少廢物及減低環境破壞。
+ - 這些物料包括天花、門及地氈。
+圖5.24-25
+
+## PDF page 51
+
+48
+
+## PDF page 52
+
+49
+MAN MA EU WU IEQ 
+用材6 可持續地板物料
+•	 推廣環保物料及製造方法，減低物料運輸帶來的影響。
+ - 重用現有地氈。
+ - 新購置的深綠色地氈用循環再用塑膠瓶製造，產地為方圓 800 公里以內的江西省。
+能源 1 能源效益-規範性方式
+•	 減少能源及資源使用，減低二氧化碳排放。
+ - 暖通空調系統；
+ - 六把吊扇覆蓋超過 50%空間；
+ - 窗戶可開啟。
+圖5.26-27
+圖5.28
+- 燈光系統
+ -安裝了可接受的照明功率密度(LPD)的LED燈具；
+ -適度的燈光分區及手動控制分配系統；
+ -廣泛採用佔用感應器及時間掣；
+ -每張工作桌備有桌燈；
+ -設有總開關，方便關上不必要的燈。
+
+## PDF page 53
+
+50
+能源2 具能源效益的設備
+•	 採購貼有節能標籤的設備和電器：
+ - 購買一個新的具 USEPA 能源之星認證 LED
+ 電腦顯示屏；
+能源5 計量和監測
+•	 實時監控、測量及紀錄，以管理及
+改善能源表現。
+ - 位處茶水間的實時監控顯示器；
+ - 每 15 分鐘更新的實時能源顯示屏。
+圖5.30
+圖5.31 具能源之星認證的電腦顯示屏
+
+## PDF page 54
+
+51
+MAN MA EU WU IEQ 
+MAN MA EU WU IEQ 
+用水2 每年用水量
+•	 通過應用具性能及可靠的節水裝置減少新鮮
+（飲用）水的消耗。
+ - 水效率標籤計劃第一級認證的水龍頭
+ (GTB GA 4072 形號)，流量 2.6l/min。
+室內環境質素2 室內盆栽
+•	 改善室內空氣質量，提高生產力。
+ - 等候室有兩堵綠牆，總面積 5.28 平方米。
+室內環境質素9 自然光
+•	 鼓勵對室內佈局、建築設計和開窗設計的全
+面考慮，令室內獲得最多陽光，以改善健康
+和舒適。
+ - 5%的工作桌或坐椅在自然光線度 100lux.或
+ 以上的地區。
+圖5.34
+圖5.35
+圖5.36
+
+## PDF page 55
+
+52
+室內環境質素10 室外景觀
+•	 為辦公室用戶提供室外環境的聯繁。
+ - 所有工作桌都是在窗戶的 8 米以內，能在坐下的 1.2 米高度，直線看到窗外環境。
+圖5.37 視覺角度為7.5° 
+
+## PDF page 56
+
+53
+詞彙表
+第二章 屋宇設備和室內設計
+Building Services
+Cable Trucking
+Air Duct
+Mechanical Ventilation & Air-conditioning（MVAC）
+Fire Services
+Plumbing and Drainage
+Electrical and Extra-low Voltage (ELV) Services
+Natural Ventilation
+Mechanical Ventilation
+Ventilation Fan
+Fan Coil Unit (FCU)
+Air Handling Unit (AHU)
+Dampers
+Air diffusers
+Constant air volume (CAV) system
+Variable air volume (VAV) system
+Window type air-conditioner
+Split type air-conditioner
+Chilled Water
+Smoke Detector
+Fire Alarm
+Fire sprinkler
+Fire flash light
+Fire shutter
+False Ceiling
+Lighting Fitting
+Power plugs and sockets
+Telecom and Internet
+屋宇設備
+電線槽
+風管
+通風及空調
+消防設備
+水管和排水設施
+特低電壓設備
+自然通風
+機械通風
+通風機
+風機盤管機組
+空氣處理機組
+閘閥
+空氣擴散器
+定風量系統
+變風量系統
+窗式空調機
+分體式空調機
+冷凍水
+煙霧探測器
+消防警鐘
+消防灑水器
+消防閃光燈
+防火擋板
+假天花
+燈具
+電源插頭及插座
+電訊及互聯網
+
+## PDF page 57
+
+54
+第三章 建築環境中的人類感知
+Hue
+Chroma
+Correlated color temperature (CCT)
+Lux
+Illuminance
+Ambient lighting
+Accent lighting
+Task lighting
+Decorative lighting
+Exterior lighting
+Landscape lighting
+Incandescent bulb
+Fluorescent bulb
+Halogen lamp
+Daylight factor (DF)
+Spatial arrangement
+Room Acoustic
+Noise Isolation Class (NIC)
+Sound Transmission Class (STC)
+Reverberation Time (RT)
+Noise Criterion (NC)
+Indoor air quality (IAQ)
+Asbestos
+Flame retardants (PBDEs)
+Formaldehyde (Methanal)
+Volatile organic compounds (VOCs)
+Radon
+Predicted Mean Vote (PMV)
+Metabolic rate (met)
+Clothing insulation (clo)
+Radiant temperature
+Air velocity
+Relative humidity
+Windcatcher
+U-values
+Solar Heat Gain Coefficient (SHGC)
+色調
+色品
+相對色溫
+光通量/勒克斯
+照度
+環境照明
+重點照明
+工作照明
+裝飾照明
+室外照明
+景觀照明
+白熾/鎢絲燈泡
+螢光燈
+鹵素燈
+日照係數
+空間佈置
+室內聲學
+隔音等級
+聲音穿透等級
+迴響時間
+噪聲標準
+室內空氣質素
+石棉
+阻燃劑
+甲醛
+揮發性有機化合物
+氡
+舒適感指標
+代謝率
+衣物隔熱
+輻射溫度
+風速
+相對濕度
+風斗
+總熱傳送值
+太陽得熱係數
+
+## PDF page 58
+
+55
+第五章 室內設計的可持續發展
+Daylighting controls
+Photosensors
+Energy Label
+China Energy Label
+ENERGY STAR
+Voluntary Water Efficiency Labelling and Standards
+(WELS) scheme
+Sustainable materials
+Upcycling
+BEAM Plus
+USGBC
+LEED
+Indoor Air Quality Certification Scheme
+Life Cycle
+Low-Emitting Materials
+日光控制
+光電傳感器
+能源標籤
+中國能效標識
+能源之星
+自願參與用水效益標籤計劃
+永續材料
+升級再造
+綠建環評
+美國綠色建築協會
+領先能源和環境設計
+室內空氣質素檢定計劃
+生命週期
+低排放材料
+
+## PDF page 59
+
+第一章
+i.	 This article is an adaptation of an essay published in the Journal of Interior Architecture,
+published by the Association of Estonian Interior Architects, 2016.
+ii.	 The term 'New World of Work' stems from an executive email from Bil Gates published May
+19, 2005 (http://www.microsoft.com/mscorp/execmail/2005/05- 19newworldofwork.mspx).
+Erik Veldhoen published the strategy earlier in his book 'The Art of Working', 2004, Academic
+Service. New ways of working may find their roots in Frank Duffy's 'The Changing Workplace'
+1992, Phaidon Press.
+iii.	 According to Wikipedia the term 'Healing Environment' goes back to Florence Nightingale's
+'Notes on Hospitals', published in 1859, nowavailable onGoogleBooks (public domain). Today
+the term refers to a concept of spatially designing and organizing healthcare in a holistic way
+that puts the patients wellbeing central. It is closely related with Evidence Based Design.
+iv.	 'Evidence Based Design' is a field of study emphasizing credible evidence to influence design,
+mostly in the health care sector. Note to this note: www.informedesign.org is a good starting
+point for Evidence Based Design resources.
+v.	 Interview with Francesco Messori by MaritOverbeek in 'de Architect', September 2011.
+第二章
+i.	 http://gbtech.emsd.gov.hk/english/utilize/natural.html
+ii.	 https://www.ashrae.org/resources--publications/free-resources/ashrae-terminology
+iii.	 http://www.swegon.com/Global/PDFs/Air%20diffusers/General/_en/AIR- overview.pdf
+iv.	 http://www.academia.edu/8116402/False_ceiling_and_types
+v.	 http://www.worldstandards.eu/electricity/plugs-and-sockets/
+圖表
+2.1	 https://www.bsria.co.uk/services/design/bim
+2.2	 http://supply2build.com/uploads/categories/Exhaust_fan.jpg
+2.3	 http://www.skmaircon.com/fcu
+2.4	 http://www.vodovod-ogrevanje.org/tiny_upload/slika3_56.jpg
+2.5	 http://www.archiexpo.com/prod/airtecnics/product-56767-228555.html
+參考文獻
+
+## PDF page 60
+
+2.6	 http://www.gallettigroup.com/images/soluzioni/soluzioni-per-aziende.png
+2.7	 http://www.swegon.com/Global/PDFs/Air%20diffusers/General/_en/AIR-overview.pdf
+2.8	 http://www.pricetwa.co.uk/userfiles/files/fan-coil-units_diagram.jpg
+2.9	 https://www.ruppams.com/catalogcontent/fans/sup_ram/images/ConstantVolSys.jpg
+2.10	 https://upload.wikimedia.org/wikipedia/commons/a/a1/Vaviable_Air_Volume_System. png
+2.11	 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Air_conditioning_unit-
+	 en.svg/2000px-Air_conditioning_unit-en.svg.png
+2.12	 http://www.batecool.co.uk/user/images/multi.diag01.jpg
+2.13	 http://safesoundfamily.com/p/smoke-alarm-detectors
+2.14	 http://aa-london-electricians.co.uk/wp-content/uploads/2016/01/photodune-781034-	
+fire-alarm-s.jpg
+2.15	 http://home.howstuffworks.com/home-improvement/household-safety/fire/fire- 		
+	 sprinker-system.htm
+2.16	 https://ae01.alicdn.com/kf/HTB1omxtKXXXXXa4XFXXq6xXFXXXG/2016-NEW-font-b-Fire-	
+	 b-font-Alarm-Siren-font-b-Red-b-font-Sound-and.jpg)
+2.17	 https://www.logismarket.co.uk/ip/hart-door-systems-fire-shutter-fire-shutter-335765-FGR.jpg
+2.18	 http://www.hitachi.com/businesses/infrastructure/product_solution/water_	 	
+	 environment/ industrial_water/graywater/image/building_02.jpg
+2.19	 http://www.snapdeal.com/product/parryware-c0208cascadenxt-wall-mounted- 	 	
+	 water/624914268358
+2.20	 http://cdnassets.hw.net/dims4/GG/615dcfe/2147483647/resize/876x%3e/quality/90/?url	
+	 =http://cdnassets.hw.net/77/c7/1590d9254d5eae3748915fc276ad/tmpeeac-2etmp-
+	 tcm131-2089072.jpg
+2.21	 http://image.made-in-china.com/2f0j00ZsYTUHcgTQuz/Design-Acoustic-Sound- 	 	
+	 Absorption-Suspended-Gypsum-Board-for-Ceiling.jpg
+2.22	 http://www.nevilllong.co.uk/sites/default/files/products/images/tegular.jpg
+2.23	 http://www.gharexpert.com/User_Images/11262010102400.JPG
+2.24	 https://s3-modlar-prd.s3.amazonaws.com/blocks/134/stacks/816/		 	 	
+	 slide/2_578918d05d320.jpg
+2.25	 http://img.archiexpo.com/images_ae/photo-g/59672-8182313.jpg
+2.26	 http://www.stantontelecom.com
+2.27	 http://www.telecomlead.com/telecom-equipment/telecom-equipment-major-ericsson-
+	 introduces-new-broadband-network-gateway-for-connected-homes-21452
+
+## PDF page 61
+
+第三章
+i.	 http://www.lhsfna.org/index.cfm/lifelines/october-2014/noise-harmful-to-hearing- harmful￾to-blood-pressure/
+ii.	 http://www.panelfold.com/resources/testdata/ALLABOUTSOUND.pdf
+iii.	 http://www.beamsociety.org.hk/files/BEAM%20Plus%20NB%20Version%201.1.pdf
+iv.	 http://www.bksv.com/Applications/RoomAcoustics/what-is-room-acoustics
+v.	 http://www.diracdelta.co.uk/science/source/r/e/reverberation%20time/source.html#.V
+4NGJdJ96Uk
+vi.	 http://www.engineeringtoolbox.com/nc-noise-criterion-d_725.html
+vii.	 http://www.bluepointenvironmental.com/indoor-air-quality-health-effects/
+viii.	http://healthycanadians.gc.ca/healthy-living-vie-saine/environment- environnement/home￾maison/polluants-eng.php
+ix.	 http://www.monodraught.com/documents/downloads/download_313.pdf
+x.	 http://sustainabilityworkshop.autodesk.com/buildings/natural-ventilation
+xi.	 http://www.double-glazing-info.com/Choosing-your-windows/Types-of-glass
+圖表
+3.1	 https://www.downlights.co.uk/faq-which-colour-temperature-.html
+3.2	 http://www.tal.be/en/product_trimless_3751.htm?print=1
+3.3	 http://www.aliexpress.com/store/product/T8-led-tube-15W-1500LM-Warm-White-
+	 3000-3500K-900-26mm-156pcs-leds-3014SMD-CE-FCC/205814_533838386.html
+3.4	 http://www.home-designing.com/2013/03/the-glass-house-displaying-furniture-in-natural-	
+	 settings/bright-modular-lounge-with-coffee-and-trat-tables-and-ambient- lighting
+3.5	 http://www.thenakeddecorator.com/2014/07/20/who-needs-botox-when-youve-got-
+	 great-lighting/accent-1
+3.6	 http://archive.luxmagazine.co.uk/2011/04/taken-by-task-lighting
+3.7	 http://infohomefurnituredecorating.com/wp-content/uploads/2014/10/Christmas-Light-
+	 on-bed-2.jpg
+3.8	 http://media.gettyimages.com/videos/hong-kong-night-scene-during-a-symphony-of-
+	 lights-show-video-id509389017?s=640x640
+3.9	 http://www.alconlighting.com/blog/wp-content/uploads/2015/04/classy-landscape-
+	 lighting.jpg
+3.10	 http://europa.eu/rapid/press-release_MEMO-09-368_en.htm
+3.11	 https://www.amazon.com/Feit-Electric-ESL40TN-Fluorescent-High-Wattage/dp/ 	 	
+	 B001AZOV9K
+
+## PDF page 62
+
+3.12	 http://heavy.com/garden/2015/10/best-full-spectrum-t5-cfl-fluorescent-grow-light-
+	 bulbs-reviews-cannabis-marijuana/
+3.13	 https://www.fh-muenster.de/fb1/downloads/personal/juestel/juestel/Weltmarkt_
+	 Lichtquellen_SabaTadesse_.pdf
+3.14	 https://upload.wikimedia.org/wikipedia/commons/0/03/Fluo-45W_LED-17W.jpg
+3.15	 http://kitairu.net/images/products/products_164593_586c376d4e335f778fce 	 	
+	 5b8cde89b07b.jpeg
+3.16	 http://www.kliva.lv/lv/catalog/merinstrumenti/luksmetri/LX-107
+3.17	 http://technabob.com/blog/2014/05/29/coelux-indoor-daylight/
+3.18	 http://www.esru.strath.ac.uk/Courseware/Design_tools/RADIANCE/radiance.htm
+3.19	 http://www.drummagazine.com/features/post/DIY-Build-Your-Own-Soundproof- Home-	
+	 Studio/
+3.20	 http://www.thenewstribe.com/2016/02/05/effective-tips-to-sleep-well-at-night
+3.21	 http://www.engineeringtoolbox.com/nc-noise-criterion-d_725.html
+3.22	 http://lema.epfl.ch/index.php/staff/57-uncategorised/455-acexpertiserooms
+3.23	 http://www.nyvirtualoffices.com/blog/2015/03/5-ways-to-utilize-a-conference-room-rental/
+3.24	 http://www.zeroasbestos.com.au/
+3.25	 http://f.tqn.com/y/chemistry/1/W/u/t/pbde_polybrominated_diphenyl_ether.jpg
+3.26	 https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/	 	
+	 formaldehyde
+3.27	 http://totalrenaissanceconstruction.publishpath.com/volatile-organic-compounds
+3.28	 http://radonfind.ca/wp-content/uploads/2015/11/radon_lungs.jpg
+3.29	 http://www.aactionhomeservices.net/ac-repair-and-installation/indoor-air-quality
+3.30	 https://www.acdoctor.com/blog/asthma-needs-control-indoor-air-quality
+3.31	 http://wiki.naturalfrequency.com/files/wiki/comfort/pmv.swf
+3.32	 https://www.educate-sustainability.eu/kb/content/thermal-balance-and-comfort
+3.33	 https://assets-production-webvanta-com.s3-us-west-2.amazonaws.com/000000/40/00/
+	 original/blog/2014/09-23-14/092314_cover.jpg
+3.34	 https://en.wikipedia.org/wiki/Windcatcher#/media/File:Malqaf.svg
+3.35	 http://www.beamsociety.org.hk/files/download/download-20130724174420.pdf
+3.36	 https://pollysays.files.wordpress.com/2011/06/img_0840.jpg
+3.37	 http://www.builddesk.co.uk/software/builddesk-u/understanding-u-values
+3.38	 http://www.trendwindows.com.au/information/energy-efficiency/solar-heat-gain-co-
+	 efficient-shgc
+
+## PDF page 63
+
+3.39	 https://butikk.glassmester1.no/produkt/enkelt-glass-til-vinduer3.40 	 	 	
+	 http://219.133.73.218:89/en/186/productdetail.html
+3.41	 http://sc01.alicdn.com/kf/HTB1qF2cMXXXXXbMXXXXq6xXFXXX0/227695018/ 	 	
+	 HTB1qF2cMXXXXXbMXXXXq6xXFXXX0.jpg
+3.42	 http://219.133.73.218:89/en/189/2/productdetail.html
+3.43	 http://glassdoctor.com/double-pane-windows
+3.44	 http://www.bpva.org/en/articles/article158.html
+第四章
+i.	 Kwan, J. (2004). Universal Design and Technical Requirements. Architectural Services
+Department. Retrieved from https://www.archsd.gov.hk/archsd/html/ua/02-Chapter2.pdf
+ii.	 Republic of the Philippines, Department of Public Works and Highways, The Technical
+Standards for the Practice of Interior Design in the Philippines.
+iii.	 http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/
+iv.	 http://idea.ap.buffalo.edu/udny/section3.htm
+第五章
+i.	 http://web.stanford.edu/group/narratives/classes/08-09/CEE215/ReferenceLibrary/ EDR%20
+Design%20Briefs/sg-4-controls.pdf
+ii.	 http://www.energylabel.emsd.gov.hk/en/about/background2.html
+iii.	 http://www.energylabel.gov.cn/en/Introduction/ChinaEnergyLabel/index.html
+iv.	 https://www.energystar.gov/products/lighting_fans/light_fixtures
+v.	 http://www.wsd.gov.hk/en/plumbing_and_engineering/wels/index.html
+圖表
+5.1	 http://www.greenglobes.com/advancedbuildings/main_t_lighting_daylighting_ controls.htm
+5.2	 http://lighting.about.com/od/Lighting-Controls/a/How-Light-Switches-Work.htm
+5.3	 http://www.electronicsweekly.com/news/products/led/automatic-lighting-control-is-
+	 essential-for-zero-emission-buildings-2013-12/
+5.4	 http://www.emsd.gov.hk/en/energy_efficiency/mandatory_energy_efficiency_ 	 	
+	 labelling_scheme
+5.5	 http://zhongguoxiaonengbiaoshi.sokutu.com/tupian.html
+5.6	 https://www.energystar.gov/products/lighting_fans/light_fixtures
+
+## PDF page 64
+
+5.7	 http://www.wsd.gov.hk/en/plumbing_and_engineering/wels/showers/ introduction_to_	
+	 wels/index.html
+5.8	 https://www.hkgbc.org.hk/eng/NB_Intro.aspx
+5.9	 http://www.usgbc.org/leed
+5.10	 https://www.wellcertified.com/
+5.11	 http://www.iaq.gov.hk/en/iaq-certification-scheme.aspx
+5.12	 http://www.beamsociety.org.hk/en/beamplus-interiors.php
+5.13	 http://www.usgbc.org/discoverleed
+5.14	 http://www.minimalisti.com/architecture/interior-design/06/moderndesign-industrial-
+	 decor-ideas.html
+5.15	 https://continuingeducation.bnpmedia.com/coursePrint.php?L=124&C=1088
+5.16	 http://www.usgbc.org/credits/schools-new-construction-healthcare/v4-draft/eqc2
+5.17	 http://greenbuilding.hkgbc.org.hk/files/1/posts/1/IMG_4174.JPG
+5.18	 http://greenbuilding.hkgbc.org.hk/images/seals/BI1-0-Platinum-2016.png
+
+## PDF page 65
+
+羅徵憲
+羅先生於中國上海交通大學獲取機械工程學士學位，主修製冷與空調，亦獲得經濟學士學位，主修國
+際商務與經濟。其後從澳洲新南威爾斯大學取得建築環境碩士學位。自 2010 年起參與建築可持續設
+計和建築能源優化的研究與顧問工作，包括空調系統優化及節能改造、建築能源審計及能耗模擬、採
+光分析、綠色建築評估，通風評估等。
+梁牧群
+梁先生現為同發號建築材料有限公司總經理，擁有加拿大薩克其萬大學經濟學學士學位，是英國註冊
+建築五金配套師，現於香港理工大學修讀設計策略碩士課程。擁有超過15年在建築五金行業及企業
+管治經驗，梁先生擅於以設計思維實施商業策略。梁先生的研究重點是如何通過設計思維推行風險管
+理，以達致創造共享價值。業務以外，梁先生也積極從事不同的商業和學術委員會以促進青年人於設
+計領域的學習及發展，如美國建築師學會（AIA）。他還與不同的非牟利組織合作，在香港推廣設計思
+維和可持續設計（包括和合設計）。
+巫翔鷹
+巫女士從事建築服務顧問 20 多年，具豐富機電系統和綠色建築設計經驗，已完成超過 100 多項能源相
+關項目和超過50 個綠色建築項目。她畢業於香港理工大學，獲得建築服務工程學士學位，並獲得香港
+大學的碩士學位。她是理工大學的屋宇設備工程學系的客席講師，主講室內環境質量以及屋宇設備。
+她現為理大屋宇設備工程學系的諮詢委員會委員，以及亞洲建築環境研究所工業顧問小組主席。巫女
+士曾是 2010 至 2011 年度 ASHRAE 香港分會會長。
+譚震宇
+譚先生現職同發號建築材料有限公司的項目經理，專責機構項目。他於香港浸會大學計算機科學系獲
+得理學士（信息系統）學位，是英國註冊建築五金配套師。在英國建築五金公會(GAI)完成 3 年制建築
+五金文憑課程後，獲得 Pinnacle 獎，並成為最高名次學生。他獲選為 2016 年度最有前途建築五金配
+套師，而他負責的香港單車館項目，更榮獲2014/15年國際建築五金專案大獎。
+梁澤彥
+梁先生在英國普利茅斯大學畢業、獲得應用純計學與管理科學理學士學位後，於 2011 年加入同發號
+(TFH)，擔任項目協調工作。他現正於英國建築五金公會(GAI)修讀 3 年制建築五金文憑課程，並在第
+一階段和第二階段獲得優異成績。他目前是 TFH 的項目顧問，專責室內設計項目。
+作者簡介
+
+## PDF page 66
+
+Kees Spanjers
+Kees Spanjers 是個於阿姆斯特丹和紐約生活和工作的註冊室內建築師和建築師。 他是 Zaanen Spanjers
+建築事務所的董事，曾獲得無數獎項，尤其是 Architectural Record 室內設計獎及 European Parking
+Award。 Kees 於 2004-2008 年擔任 ECIA 主席職務，並於 2004 - 2009 年間擔任 IFI 董事會成員。多年
+來，Spanjers 先生在不同平台為設計界作出了貢獻，也在許多刊物撰寫專業文章，並活躍於不同的國
+際小組和評審。他是 2013 年在阿姆斯特丹及 2014 年在中國廣州舉辦的世界室內設計論壇的發起人和
+策展人。
+
+## PDF page 67
+
+項目團隊
+研究總監
+潘鴻彬
+研究主任
+鍾德勝
+編輯
+張嘉敏張敏儀李凱怡
+平面設計
+Sing Tang
+研究機構
+香港理工大學設計學院
+項目出版
+香港室內設計協會
+主要贊助機構
+香港特別行政區政府「創意香港」
+鳴謝
+特立美環保及能源管理有限公司
+同發號建築材料有限公司
+LAAB Architects
+免責聲明:
+香港特別行政區政府僅為本項目提供資助，除此之外並無參與項目。在本刊物／活動內（或由項目小組成員）表達的任何意
+見、研究成果、結論或建議，均不代表香港特別行政區政府、商務及經濟發展局通訊及創意產業科、創意香港、創意智優計劃
+秘書處或創意智優計劃審核委員會的觀點。
+ISBN 978-988-18618-1-8
+©香港室內設計協會及香港理工大學 2020 版權所有

@@ -1,0 +1,687 @@
+{
+  "date": "2026-11-08",
+  "movedCount": 111,
+  "sourceFolderRetained": true,
+  "remainingFiles": [
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-0uNMe-p2joc.md",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-7YFtiW83ynM.md",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-fnAPgND0GU4.md",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-IuS6FKvaINI.md",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-kJpCO489s5U.md",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-OpNrK-yQvYI.md",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-peZyAOodAlw.md",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-rq26oSoQjFc.md",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-tjX00xbD980.md",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-vVHaUcaYBVQ.md",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-XgwVZXoKfyU.md",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-xgyy0_pFlHg.md"
+  ],
+  "files": [
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho--BYy28hU7Ag.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho--BYy28hU7Ag.md",
+      "sha256": "5A563FD2830A330460822EC68DB8CB4FA457A85E7EC55B1EF257781AD6434AAC",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho--njaezd8zhs.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho--njaezd8zhs.md",
+      "sha256": "35D3F50C5E94C6A8C620B24DD824E7B2AE444CE7E93C5B4151DCF96654129CCD",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-1-8MV-wyUbo.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-1-8MV-wyUbo.md",
+      "sha256": "064B9149610AF6AAC6A41E77FA378D5C5FFB47E575707D9B1266488357629E33",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-1QXgAaw9g34.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-1QXgAaw9g34.md",
+      "sha256": "931D9D3E817D2D5A2BB5C4C926A038A30FDCA7FEF0C3E30F4B28681D24B23569",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-21yek3s9a7M.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-21yek3s9a7M.md",
+      "sha256": "A6E10A65DA85E93BF9FBEE8A89480483F7BD76F581E25469A00A9A95714C2620",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-3IA6LVYqkw8.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-3IA6LVYqkw8.md",
+      "sha256": "EBA28958375D1026021F7A73C17EF24B07150228D90139D3D252D54BD2206E1B",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-3NaliUu6FHE.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-3NaliUu6FHE.md",
+      "sha256": "987E223C8602F17FA706CB205017B8A5EFF70303D4E8672459636FFF8713DAAB",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-3PXuUYfFI9Q.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-3PXuUYfFI9Q.md",
+      "sha256": "A575F54FD2E8BB51F919FC036E2D21CFEF7A4D3E116C8B846834A8060E892EF5",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-4BBG4i8B-3Y.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-4BBG4i8B-3Y.md",
+      "sha256": "BB2B1F1FC71BF332BFB2CA98E6A0CAB170CB65E78266980085888A0FBE51EEE7",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-4ZWoBtLE_78.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-4ZWoBtLE_78.md",
+      "sha256": "EBDE9499D64A394D6D4F4A63E783D56D97F50285AE936F54E35FB8C1CD477247",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-5dJFdKsjpgc.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-5dJFdKsjpgc.md",
+      "sha256": "8D4AC51843ADA4D63472561744769E10288CF3E0C55BBF474C41701503430F24",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-5lrhWQhP398.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-5lrhWQhP398.md",
+      "sha256": "90C10F2830CB3760C9FC69B6D6A3540289BFFEC56E4E3830C0E8CE62A7EB3577",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-65QX8GGkUsw.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-65QX8GGkUsw.md",
+      "sha256": "4F1614D778F5FE0C16BF2706F10A35DFBF1D9A59F59D7981808EE2DAC826FFF7",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-6DJKVpxylGw.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-6DJKVpxylGw.md",
+      "sha256": "A1D2674CF1B6E8D919786296640CE2CD517E465FD59CA52876906C2F06658D92",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-79n2yR9fHko.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-79n2yR9fHko.md",
+      "sha256": "3693227036B20144044840B52008BC317D561F5125AAE5885B9A53F6A391F01E",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-7OIDWS9lzeg.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-7OIDWS9lzeg.md",
+      "sha256": "7FF80BDD4813DEEF44253A0478919C31FB4D2A4D7C1FC30151B7A49A7BFCB8DF",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-83CCkShU6fU.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-83CCkShU6fU.md",
+      "sha256": "312991B6544F9A859B1E19AE36693180757653E8776949A75A6DC30493A09790",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-8D1p-UEBJ4w.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-8D1p-UEBJ4w.md",
+      "sha256": "6D638BE36EF03267C625B8768CAA974F9645A53D5D032FB201054616FC604235",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-8E7Xby_uPZ8.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-8E7Xby_uPZ8.md",
+      "sha256": "FF89E232509CB3F0AD8EA20554F56BD30E7D3FFFC952AB76CFD296C50E155CBB",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-8eUu0ouUyUE.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-8eUu0ouUyUE.md",
+      "sha256": "836C21A3158EB62615685FF862AA61F8A357563876036F798C7753B2CAA447BC",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-8vaniH7nIUw.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-8vaniH7nIUw.md",
+      "sha256": "6C85F8E3CA59C1E48212AEDD1BE321175A50DF98D550715F32FF11188D9C7998",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-9V01H4YwkyQ.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-9V01H4YwkyQ.md",
+      "sha256": "06759DAB13621BDE0F8249594134DC967E2C21DD0CA558ABFC54F9A6E25A3FD2",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-9YaXGsu4CHg.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-9YaXGsu4CHg.md",
+      "sha256": "D09029399ECCB086D2098BBA8A0774B88FC1DC0B6A71CE9BA526425780D7CFEC",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-A6xfbdDhSOo.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-A6xfbdDhSOo.md",
+      "sha256": "32BCFAA7266BF1A2B499253D79C2570B0F5CD18551D7CC0E8B01D7C39B2F55B1",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-AGh3xFCVRKM.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-AGh3xFCVRKM.md",
+      "sha256": "82DBD961206156C6040EB1D4451FB44E8D253004921C6123B1C53F50241C8334",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Al4sLvLmZQY.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Al4sLvLmZQY.md",
+      "sha256": "11AA5F93CDEA63CD16FC10277B9034D8DC75C15C3DAE4BD0D9B425C4A45DCE94",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-BZuKE18X83Y.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-BZuKE18X83Y.md",
+      "sha256": "5D043670F6F922755D71320B5D6B9F20D680C47A9566267C267D95635064C367",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-BaRAFRDuyn8.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-BaRAFRDuyn8.md",
+      "sha256": "6029F22D48F828C81B898AB30AE886035A99BD136C765D4A708FBA191BBB4719",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-CACAXHJzW2k.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-CACAXHJzW2k.md",
+      "sha256": "63024369E35E568962036422CB08FDC65DB497A5F99297DEFC00CE33D0226699",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-DYB3arbalbg.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-DYB3arbalbg.md",
+      "sha256": "B5541A45508AF5139E4090CB9E5E6C35D82007128DB15BF69833FDEE2444ADE0",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-E5gdqloOPU4.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-E5gdqloOPU4.md",
+      "sha256": "5A85A2774D8C50C6CF77F7341AE4C311F08236EF56F39DD5FE7EAC2B93050D11",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-F9QPwf_OzRI.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-F9QPwf_OzRI.md",
+      "sha256": "CBA176B40D7D13F73B98F2FF191CF405AD95C2EFAE055F9F978C6B1DC02F166C",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-GDWDLOdXgqk.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-GDWDLOdXgqk.md",
+      "sha256": "401B06E3705E6EAC3E6DB09B775DC1F6EB8ABF297EB7B3CD8720FF9ADBA0AB6B",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-H2gDaosxGtA.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-H2gDaosxGtA.md",
+      "sha256": "631B95763BFED684CFD77D182EFD33E0791488E250AF2F9A8CD8A75F391C9AFF",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-HQsoEzWZqOM.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-HQsoEzWZqOM.md",
+      "sha256": "55400B7D297715ACD3C3F3266128CBC2B8311F977B075331C0CF176EFBBC3F84",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-IF-42osbing.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-IF-42osbing.md",
+      "sha256": "DE88DD97B1199468A82B14B039140D91BDE977EB14C7E142AE0EF6791EA71275",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Ixtae0KPqEI.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Ixtae0KPqEI.md",
+      "sha256": "44459A2056846BB721F48914F68C721C753D99957509704CBB67CC31A0241AFD",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-MD3OjXBPB2s.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-MD3OjXBPB2s.md",
+      "sha256": "27531DCC0892A70EAA6DDEBB193FE8F3334E5F8B8C116731E193FC7EE179F4B5",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-NYuPimAtsSg.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-NYuPimAtsSg.md",
+      "sha256": "5A96B3AD8924F619D597F66C57C0BA47C0E38721C1D6E9D8298B25D44834795A",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-PWfbDcHfQrE.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-PWfbDcHfQrE.md",
+      "sha256": "897A12D3F34B21F96347522DBC7451B846731F6A9740C25B9FC7E123E73BE67C",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Pdm0Rlyo2fc.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Pdm0Rlyo2fc.md",
+      "sha256": "31234088C3CBFD41DB448673EE5211D4BE321BE03B7B6632EAD4B8290637F2BB",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Pq1_NPWW4-U.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Pq1_NPWW4-U.md",
+      "sha256": "F48D26058DC5F0272F1BA591CECBFE04892E303E91B310FEB268BB0632524A28",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-PvAUa-vqq88.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-PvAUa-vqq88.md",
+      "sha256": "AA25D8EAF62833DD6D3E5CA8E4EB2FE36C395386A499BDCD0D8C2161B537E08B",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-QdcK6bReb7s.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-QdcK6bReb7s.md",
+      "sha256": "AB3D1A77FE4F62298CB01BFF9C1BBEA8B113ED1E909F2028AC21371F026D7425",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-QqDqR4LSiyo.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-QqDqR4LSiyo.md",
+      "sha256": "8724E62A6F4AA7B0AF50E76021EFC54F21E7E3C1615392E61B49C173610096E3",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Qv8KNEt10MI.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Qv8KNEt10MI.md",
+      "sha256": "DDFDF4EF9EF80449AA93B9C5A9C97F176106FCB332086C2B87A7B6C32AF5D09C",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-SVSYb89DDKs.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-SVSYb89DDKs.md",
+      "sha256": "551E1C9F037F84103D8C7BB3D162BF48350A35FF1870E11DF13C8508A71D6672",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-SlM7d5OIXHM.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-SlM7d5OIXHM.md",
+      "sha256": "D4972B889C4274DF05192A2F3B9F12E84E02B288FCE4FC8A6223F24691889B4D",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-TUu1RmwkTbk.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-TUu1RmwkTbk.md",
+      "sha256": "3AB1CCC7FE13A0664B81A1D2ADF50EBC15D2CB988C03C5160FF13FD577C66097",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-VUIk0g22CPc.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-VUIk0g22CPc.md",
+      "sha256": "8ACA58AF0EC29FDEE244E0F887E9B691F9AC66F7D06EBCAC05F1E4231D2EE03A",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-VpYMHDdHdQs.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-VpYMHDdHdQs.md",
+      "sha256": "547A13403D36626843AA93493C4BA2A6F9651862EC5568A5FBE8A0AF132C2880",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-W0edwEcQchg.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-W0edwEcQchg.md",
+      "sha256": "BF65D2C3D98EDE08202DF3670A8F91B5FE2A1DC733F9FE7EAB6DADBD5831A683",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-W6j_081Jg0Y.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-W6j_081Jg0Y.md",
+      "sha256": "A9C5A610434C5422D53EAC38FA7DF45DC5D820CD3C10CB67EDE6B31FCB16CC6B",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-WcEHPo09ST0.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-WcEHPo09ST0.md",
+      "sha256": "24FAB10306E6CD6DF1A1F0D40023780A8F97AD32C931EE5211659D375DC731E3",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-YOiq9X6NrqE.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-YOiq9X6NrqE.md",
+      "sha256": "C6C5531E709AF34F57E39520DBC53DE7DF743810873EFB6718F12E344B7F6785",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-YPOBOZHQ7sc.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-YPOBOZHQ7sc.md",
+      "sha256": "D6DFA8F81903188AB42AC833243FB40A1565E8BA5D1D5ECF892354E7FC817B78",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Z3iKrtZBQc0.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-Z3iKrtZBQc0.md",
+      "sha256": "A5D512362B9C06598DC2C4C3166B0E88DDFD750DF784A7411299BA59ABC8C5B3",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-ZOjRaWULiqw.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-ZOjRaWULiqw.md",
+      "sha256": "7A25A945EF9463FF910254EAEE145688D027841C15B52069F417567E28CCE897",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-ZlYdlOerEK0.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-ZlYdlOerEK0.md",
+      "sha256": "036DC013C5C54B81BDEE03CEED0831E8951C2F3E0D6F69C98FFCA04BC03AEADD",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-_9J7DGt4QHQ.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-_9J7DGt4QHQ.md",
+      "sha256": "4157CF97897FD55DDE3471ED43956B59D5EEC4F8F97DB15CDA445899D8405180",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-_o1XvG-Pmsc.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-_o1XvG-Pmsc.md",
+      "sha256": "5BE4549CAFD5A0E835A33A5DEB5617D220870A8944DFC62A564B964F8D53B5EC",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-aBgdMaIQuzU.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-aBgdMaIQuzU.md",
+      "sha256": "32047C509A052EE7B8A9104B7B1886362C81A81738A9CFB084B02DF3020D536D",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-aRCnzB7_jPQ.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-aRCnzB7_jPQ.md",
+      "sha256": "DE053BA7530B660DB6BC487381222394574AAD606F955D54B119033A377226C8",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-azkFHuDv-2c.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-azkFHuDv-2c.md",
+      "sha256": "4BDD79DF8C03AB58E95A6FFEDEFA4C637FF6B59C6C1AA967DBA9A91FF1121E74",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-b4OHmMJvKDU.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-b4OHmMJvKDU.md",
+      "sha256": "3B1395A54D5FF2121C411F295420F16D9AA00ABAC05E6F3FF7E75DAC37CEC9FB",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-b924eqDme-o.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-b924eqDme-o.md",
+      "sha256": "8D041DC527469F43D40CEB299F690425E9AE35BB02A985F34A4B37D37D891461",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-btpaNsQbCKs.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-btpaNsQbCKs.md",
+      "sha256": "2D82770FF9E097D3CBAF7B5C16DB9FE35D4EBB727B941BDAA89809CBBAF092BF",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-byIOKag5gwk.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-byIOKag5gwk.md",
+      "sha256": "F0A89DDDAB96CAFF0DE24D2B81AA2B7E904E7D8175652651E43F4052202C9D01",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-c5rEf8zC7y4.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-c5rEf8zC7y4.md",
+      "sha256": "07786A3DC77AD3EAC5E860DAB0E96E9C98EBC4F3DAC5702345E63E993EE7F978",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-cUYq1Nq8ZlI.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-cUYq1Nq8ZlI.md",
+      "sha256": "95EA907FAC17CF49002A103904B2C8572678FB7F31A02F61B2E24CB265B3DDB8",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-cncPNrq-Y5w.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-cncPNrq-Y5w.md",
+      "sha256": "E6A455659F5EED9E67609C0404489BAD637764F27E0EB67B2DCC82F8340F83A4",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-cqQULe0ge5A.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-cqQULe0ge5A.md",
+      "sha256": "0E9F13B4A653D9F8523C9DF6026B5F2B1B534AAA56189E3C6D62ED097B672B20",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-eaW902k0KsU.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-eaW902k0KsU.md",
+      "sha256": "E8DCD5431C1B353987897CEB2D302FA53B20A0590CC578A9E6078823DA5AE07B",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-ep-Rx4g5Qys.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-ep-Rx4g5Qys.md",
+      "sha256": "B5DC14EF94C3DECFD369526C9E7BE313DAAADC40C21A7B8DAF185913977C51A2",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-evELosZiL-U.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-evELosZiL-U.md",
+      "sha256": "9A4401A30801502CF529BA66802AE9E38ACEC65B28080377C0F1958FDC5DE2A7",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-eziz4q5xhLA.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-eziz4q5xhLA.md",
+      "sha256": "9B6CB97218B069DA6D07ADD9CC84DD01C5449FAA4DE8AB1A23EF015393642937",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-fLRFtjIo_Oc.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-fLRFtjIo_Oc.md",
+      "sha256": "A5C8F1081A0932458CA0AEA22181B3A19ED829361F1FDBAF0047A9985C2C5F23",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-hipeCGljfZ4.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-hipeCGljfZ4.md",
+      "sha256": "ADD817F1526502E71DA23EBAB485C4376F85515264B94A17F4D399A7C027F09E",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-hyKk7oT_Nkg.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-hyKk7oT_Nkg.md",
+      "sha256": "CBC8A12F8937FBB35BA1C3944322F2F2B10BF1C68C2C762B3148F92C61E8AE1C",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-jQcDTBhRRgY.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-jQcDTBhRRgY.md",
+      "sha256": "41428A960C95676C8B412891FF9FDD616B44F8F872AE98289304E88B724E53DB",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-k4NkvxwwnXA.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-k4NkvxwwnXA.md",
+      "sha256": "CB0CD57881FA103D105F2D47F0DD833CA6E84DBBABF87C033724FD027FDA9B56",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-kbLA97tN8tE.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-kbLA97tN8tE.md",
+      "sha256": "92C2230F0A836AD09FDFEE352BC6D18270E086ACF009A3291C6A453DA7EE87B1",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-keRgQrqTY_k.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-keRgQrqTY_k.md",
+      "sha256": "840123061B7E2D8744660D2F97903BA3996E4243F447DA73755805B2B7188132",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-lE1DgcvgEeY.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-lE1DgcvgEeY.md",
+      "sha256": "1266A8B72052B6CBD42CDDFE8B0F645923578CAE06FD17CAF88637F0151B34B5",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-mY_BXKln3oE.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-mY_BXKln3oE.md",
+      "sha256": "628D10058C9D482872642DE0C2B3E2CA507923B8B12B45C93A9FF5DDD3AC5B16",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-mq-pwqOZXcY.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-mq-pwqOZXcY.md",
+      "sha256": "672542CC50501A21D00931723EC2E9DC27C47B6CC59563794025799F5BCBB4FC",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-nRP5uV60sJc.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-nRP5uV60sJc.md",
+      "sha256": "ECEEA35F7CCE90CF8732A4C36934B5D0CF039BDEE0FA62290792416D38EE3B43",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-nRXGX5i5H8k.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-nRXGX5i5H8k.md",
+      "sha256": "0B892C666F335A907DA301FF6133C30683B975E1DD86483BE082EE6AA84EF9F8",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-o0nk4II5KV8.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-o0nk4II5KV8.md",
+      "sha256": "99418DF6AA927C8F7F897DE56F3A894EC47ACA7777494D589AEA6563B323BC1E",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-oxn2FnXvA1E.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-oxn2FnXvA1E.md",
+      "sha256": "64271D1F86E7AE41BC6CF2582312C235097D50CBCD96700FF155E00A7094F29E",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-pAl18HDmuXk.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-pAl18HDmuXk.md",
+      "sha256": "E7C3421C604704F41A35C644D43D063964A86D8C4A1B2E957C42A13B1A48878A",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-pK_AVOeZr0c.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-pK_AVOeZr0c.md",
+      "sha256": "480F2EE57AE78B9D1BD7882555CF950743702201E7E3238DC6F09B4BA3E30F07",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-rHJDp3zAcqY.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-rHJDp3zAcqY.md",
+      "sha256": "ACA71ED7DF23983977362689DE24BA7CE99360153430B57D7C56A875CF339385",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-rIV1h32TpbM.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-rIV1h32TpbM.md",
+      "sha256": "ED9ACB4B9D206DDD5F987CF094801BE24C3C30211463D83F4595F47814C62C77",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-rKcU7sTalq4.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-rKcU7sTalq4.md",
+      "sha256": "86C09D4F7990337981A0DBCD888A5539579CEFE35D84564F98790D40634497F2",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-rMqYRcSfTRY.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-rMqYRcSfTRY.md",
+      "sha256": "C79185203203DC8B97BD41083C08D7209169FD241BAB13A4FE9BB5917F096296",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-rXq6_1lbAxw.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-rXq6_1lbAxw.md",
+      "sha256": "E60BF89C0EC3E009AA574055ECEE7FC0041C694D423C2C8A09A6F1B44AF88194",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-sAZG_PX-3QY.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-sAZG_PX-3QY.md",
+      "sha256": "5C8FA59CB37BDDEDCCEC85067C4AED2A3E7A3ACCD48D88C94E0193CFB1B069C6",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-sOKBL3sbtr4.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-sOKBL3sbtr4.md",
+      "sha256": "D28DE7CF5BFC0DABF07BB13FB0BC3CC5C2BCCECB59757539F86257B19F90E365",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-slne2rrRhNM.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-slne2rrRhNM.md",
+      "sha256": "D2ADAC6A4A9473ADD1A9569A4A48728A49B5A41DE1EEA3BE29075CAF7E159DD0",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-tGCOpp7OQCE.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-tGCOpp7OQCE.md",
+      "sha256": "D40D642FE883CA8CF2C91E6F8F862957930DE088E60125B3FD4E05D8EE4AD37E",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-tZQPebhWvx4.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-tZQPebhWvx4.md",
+      "sha256": "A1B922B676F6C621387BFEBE2C14CDA481145141B922D353D7593B552683D860",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-u3GBa4HCyWA.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-u3GBa4HCyWA.md",
+      "sha256": "207ABF8E446D793513CC39AEB37136F97B60897320FEA746139B4FC97B05E503",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-uAVNM8srkdM.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-uAVNM8srkdM.md",
+      "sha256": "90ED0C654DD26356F6473268659FC32B50173387F39DDFC6794763D5EFF7EB01",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-uiHUTwekQ2E.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-uiHUTwekQ2E.md",
+      "sha256": "E5003D3B3CEEA9828C2C15D723B86754C105F86D900CBF2EC866018B75497155",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-vhJaKezgDLI.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-vhJaKezgDLI.md",
+      "sha256": "9B9D95A1F483AB9618B971D5C262438374A6ADCF2A30B9595A362DF6EA95FBF8",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-xBKfC9BzmZg.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-xBKfC9BzmZg.md",
+      "sha256": "71982751AC67BF4FAFC00E1A6EBCA03967648D64A645A2AD7F70CB2B8A5CC683",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-xikAZ5hEk-8.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-xikAZ5hEk-8.md",
+      "sha256": "08CA16E39D8C57650DA39F35CF26AEA59F39F1A151F6C29907D8D5C4F7CA343B",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-y-EH_5jygzs.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-y-EH_5jygzs.md",
+      "sha256": "F437CBBC25AADA37819BBFC25922419B2755C30649F6AB5A6974EFBD06903233",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-y1eORUs-zsA.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-y1eORUs-zsA.md",
+      "sha256": "3811FA795D94808E7BFF1B46024FB6066F485532DAC5AEAFB5DE17F9FC5776EB",
+      "verified": true
+    },
+    {
+      "source": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-yC4PCdkvsPc.md",
+      "destination": "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\SS\\Tim Ho 何偉立\\【家 Tim 百科】\\2026-11-08-tim-ho-yC4PCdkvsPc.md",
+      "sha256": "537F79E14F5BEFA6FDFD4AAD8E1A5245E0FB1DB00893D2C536092C6F69BAF248",
+      "verified": true
+    }
+  ]
+}

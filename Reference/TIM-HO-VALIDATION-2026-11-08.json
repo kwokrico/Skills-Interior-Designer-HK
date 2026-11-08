@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-08",
+  "reviewedArchived": 124,
+  "checkedLocalLinks": 154,
+  "errors": [],
+  "evalScenarioCount": 73,
+  "behaviouralEvaluationsExecuted": false,
+  "notes": "Scoped new references/audits and module routes verified. Broader source register has pre-existing stale unrelated links; no broad link repair performed. Python dispatcher not executed. One further download arrived after the final review cutoff and remains unreviewed in the source directory.",
+  "archiveHashesVerified": 124
+}

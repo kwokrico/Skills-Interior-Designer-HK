@@ -1,0 +1,65 @@
+{
+  "review_date": "2026-11-07",
+  "archive": "Reference/SS/裝修顧問",
+  "archive_file_count": 9,
+  "hashes_unchanged": true,
+  "local_link_targets_checked": 116,
+  "eval_count": 38,
+  "new_eval_ids": [
+    35,
+    36,
+    37,
+    38
+  ],
+  "dispatcher": "PASS: 7 modules and 3 expected reference listings",
+  "baseline_calculator": "PASS: egress 900 mm / 120 occupants = 540 capacity, adequate",
+  "whitespace": "PASS",
+  "behavioural_evaluations": "Not executed; scenarios added for future response evaluation",
+  "files": [
+    {
+      "file": "2026-11-07-deco-tv-_FQHx_gliBA.md",
+      "bytes": 4551,
+      "sha256": "F36754E61A4451B60B2F60A508C4D31E3513703284C99F3A4B242100D3ED7B26"
+    },
+    {
+      "file": "2026-11-07-deco-tv-_Z0absFyd2k.md",
+      "bytes": 3985,
+      "sha256": "FB33419D4B7EC9C4DC09A1334CCE2420501F603ECAEFEB2C5DB18202FABCCD1A"
+    },
+    {
+      "file": "2026-11-07-deco-tv--c_NFVRwd6c.md",
+      "bytes": 5851,
+      "sha256": "705CD5C889D6448FFC471F122DB3B8817D57C1951D893A92E201DCCC3B4EA049"
+    },
+    {
+      "file": "2026-11-07-deco-tv-E4Y39JMrS84.md",
+      "bytes": 5112,
+      "sha256": "2A01C1EE12609B0C619743E4C18A5166CF7BFF39955F543D77881AD5592CB5D2"
+    },
+    {
+      "file": "2026-11-07-deco-tv-JPENRVSHcgs.md",
+      "bytes": 4327,
+      "sha256": "815B0182E317E500DE4E124BD5B864574BE010D1C100EBB58A6B438F87AC5A8E"
+    },
+    {
+      "file": "2026-11-07-deco-tv-MEWvrYMNpCI.md",
+      "bytes": 4713,
+      "sha256": "CA25DFA9701BA71484FD4B332821669E66E4836D72F900A8BC75968AB906FCEE"
+    },
+    {
+      "file": "2026-11-07-deco-tv-NPMpny_IooA.md",
+      "bytes": 5079,
+      "sha256": "9806ED0FE124D906B5838298EFE66C6564EE942993BDA78EA57435D8B63C5E78"
+    },
+    {
+      "file": "2026-11-07-deco-tv-s8IT8IyTc3g.md",
+      "bytes": 4181,
+      "sha256": "E74ADDD03517C11C0045097D0892C1945EFC3D4FBE1E4EFE2CE69EE238F2C78D"
+    },
+    {
+      "file": "2026-11-07-deco-tv-xj91JzRuEYU.md",
+      "bytes": 4749,
+      "sha256": "14BF6E0ED5EB24E075655DE39D3C1189C95AA84A4B9BCFCC3D170A027AC8B34E"
+    }
+  ]
+}

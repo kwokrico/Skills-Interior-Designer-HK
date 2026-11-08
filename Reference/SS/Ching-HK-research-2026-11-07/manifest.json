@@ -1,0 +1,104 @@
+{
+  "checked_date": "2026-11-07",
+  "evidence_format": "Web tool retrieval excerpts, not complete original files",
+  "archive_file": "web-retrieval.json",
+  "sha256": "8105abf28716d12d6da882324acaf7b158c8d2741179ecc26cd93ddb9f5b55a7",
+  "bytes": 34178,
+  "sources": [
+    {
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP176.pdf",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/DMUA2026e.pdf",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/fs_code2011.pdf",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/signed/APP110se.pdf",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP130.pdf",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.iaq.gov.hk/common/form/Guide_on_IAQ_Certification_Scheme_eng.pdf",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.emsd.gov.hk/en/electricity_safety/publications/codes_of_practice/index.html",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://eld.emsd.gov.hk/eic/en/safety-messages/safetyb01.html",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.emsd.gov.hk/beeo/en/mibec_beeo_codtechguidelines.html",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.emsd.gov.hk/beeo/en/mibec_faq_mrworks_a.html",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.wsd.gov.hk/en/plumbing-engineering/requirements-for-plumbing-installation/technical-requirements-for-plumbing-works-in-bldgs/index.html",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.wsd.gov.hk/en/plumbing-engineering/works-of-a-minor-nature/index.html",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.careyourbuilding.bd.gov.hk/en/building_safety_tips/34.html",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.hkfsd.gov.hk/eng/fire_protection/notices/code.html",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.hkgbc.org.hk/eng/beam-plus/beam-plus-references/manuals-assessment/manuals-assessment.jsp",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    },
+    {
+      "url": "https://www.epd.gov.hk/epd/english/application_for_licences/guidance/application_maincontent36.html",
+      "original_document_download": "unavailable: shell network sandbox",
+      "evidence": "web-retrieval.json"
+    }
+  ],
+  "retrieval_error_lines": [
+    "Internal Error ()"
+  ],
+  "supplement": {
+    "file": "targeted-passages.json",
+    "bytes": 31725,
+    "sha256": "ad316545e227c4967e96aa4d614a02ba70873e8a103b3175ac27a041d6051479",
+    "purpose": "Successful targeted DMUA/APP-176/stair/barrier/IAQ passage retrieval; resolves initial DMUA fetch failure"
+  },
+  "unresolved_retrieval_errors": [],
+  "behavioural_test_followup": {
+    "file": "b23-evaluation-followup.json",
+    "sha256": "90ff5ddb92f70bde7112b99530da08d237c9a507c2a37e13e6035a5716e788fe",
+    "purpose": "Official B23 passage checked after independent stair response identified additional 5a provisions"
+  }
+}

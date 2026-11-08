@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-07",
+  "files_reviewed": 23,
+  "hashes_verified": 23,
+  "local_links_checked": 64,
+  "errors": [],
+  "original_directory_retained": true,
+  "eval_json_parse": "pass",
+  "regression_prompts": "added, not executed",
+  "python_validation": "unavailable: local Python fails to import encodings"
+}

@@ -1,0 +1,23 @@
+{
+  "checked_date": "2026-11-07",
+  "kind": "retrieval record and paraphrased source notes, not a full webpage archive",
+  "sources": [
+    {
+      "url": "https://cie.co.at/eilv/753",
+      "retrieval": "Opened official CIE definition",
+      "finding": "Overall maintenance factor compares aged and new illuminance and includes source-output decline and dirt on luminaires and room surfaces."
+    },
+    {
+      "url": "https://ies.org/definitions/light-loss-factor-llf/",
+      "retrieval": "Direct open timed out; official search excerpt retrieved",
+      "finding": "LLF is a broad system/light-loss allowance, with components that can concern initial conditions or ongoing depreciation; it is not a synonym for lamp lumen maintenance alone."
+    }
+  ],
+  "integration": [
+    "interior-designer-hk/SKILL.md",
+    "interior-designer-hk/references/domain_terms.json",
+    "interior-designer-hk/subskills/interior-lighting-science/interior-lighting-science.md",
+    "interior-designer-hk/scripts/calculators.py"
+  ],
+  "decision": "Use an explicit overall maintenance_factor once; reject ambiguous additional llf and unsupported default inputs."
+}

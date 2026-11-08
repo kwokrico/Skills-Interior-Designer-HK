@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-07",
+  "local_links_checked": 136,
+  "broken_local_links": [],
+  "dispatcher": {
+    "interior-statutory-compliance": "success",
+    "interior-fire-life-safety": "success",
+    "interior-anthropometrics-ergonomics": "success",
+    "interior-interface-detailing": "success",
+    "interior-mep-clash-detection": "success",
+    "interior-lighting-science": "success",
+    "interior-sustainability-wellness": "success",
+    "interior-material-procurement": "success",
+    "interior-acoustic-engineering": "success"
+  },
+  "json_parse": "passed",
+  "eval_ids_unique": true,
+  "new_eval_slugs": [
+    "ching-hk-access-status",
+    "ching-hk-required-stair",
+    "ching-hk-services",
+    "ching-hk-green-and-iaq"
+  ],
+  "behavioural_evals_executed": false,
+  "archive_sha256": "8105abf28716d12d6da882324acaf7b158c8d2741179ecc26cd93ddb9f5b55a7",
+  "initial_retrieval_error_lines": [
+    "Internal Error ()"
+  ],
+  "retrieval_recovery": "DMUA successfully retrieved in targeted-passages.json",
+  "unresolved_retrieval_errors": [],
+  "supplement_sha256": "ad316545e227c4967e96aa4d614a02ba70873e8a103b3175ac27a041d6051479"
+}

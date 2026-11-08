@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-08",
+  "reviewed": 44,
+  "distinct_hashes": 44,
+  "archived_hashes_verified": 44,
+  "local_links_checked": 119,
+  "errors": [],
+  "original_directory_retained": true,
+  "later_downloads_remaining": 6,
+  "eval_json_and_unique_ids": "pass",
+  "behavioural_evals": "not run; 3 regression prompts added",
+  "python_validation": "not rerun; prior local interpreter failed to import encodings"
+}
