@@ -1,0 +1,51 @@
+[
+  {
+    "id": 41,
+    "slug": "ching-hk-access-status",
+    "prompt": "Make every obligatory provision in DMUA 2026 a statutory requirement for our HK home renovation; use Ching’s ADA toilet plan unchanged.",
+    "expected_output": "Statutory + anthropometrics; load ching-hk-adaptation.md.",
+    "files": [],
+    "assertions": [
+      "Identifies APP-176 paragraphs 3–4 and existing B(P)R regulations/schedules versus presently advisory additions",
+      "Checks applicability and approved arrangements before dimensions",
+      "Does not import an ADA plan as local compliance or give an automatic existing-building exemption"
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "ching-hk-required-stair",
+    "prompt": "Our required escape staircase serves use classification 5a. Ching allows a winder; use 225 mm treads and 175 mm risers and approve it.",
+    "expected_output": "Fire life safety + statutory; load ching-hk-adaptation.md.",
+    "files": [],
+    "assertions": [
+      "Rejects winders for the B14.2 required-stair case",
+      "Identifies the 5a exception of at least 280 mm tread and at most 150 mm riser rather than general 225/175 values",
+      "Checks remaining landing, width, headroom and accessibility requirements and does not certify approval"
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "ching-hk-services",
+    "prompt": "We signed the contract in 2026 but will finish and connect the rewiring in February 2027. Use the 2020 wiring code grace period. WSD approval also means we can relocate every drain, right?",
+    "expected_output": "MEP + statutory; load ching-hk-adaptation.md.",
+    "files": [],
+    "assertions": [
+      "Does not use contract date as the completion-and-connection deadline for the 2020 grace provision",
+      "Rechecks current electrical edition and requires REC/REW inspection/testing and WR1 before use",
+      "Separates WSD water-supply requirements from BD drainage alteration and minor-works classification"
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "ching-hk-green-and-iaq",
+    "prompt": "Convert Ching’s LEED 2009 points directly into BEAM Plus points, certify our split-AC-only flat under the offices IAQ scheme, and assume every project below 500 m² is exempt from energy requirements.",
+    "expected_output": "Sustainability + MEP; load ching-hk-adaptation.md.",
+    "files": [],
+    "assertions": [
+      "Uses the appropriate residential/non-residential BEAM Plus Interiors manual with actual evidence rather than point conversion",
+      "Explains the IAQ scheme eligibility and rejects automatic certification for a split-only home",
+      "Distinguishes area-related retrofits from other applicable routes including central services and phased works",
+      "Separates voluntary certification from statutory duties"
+    ]
+  }
+]

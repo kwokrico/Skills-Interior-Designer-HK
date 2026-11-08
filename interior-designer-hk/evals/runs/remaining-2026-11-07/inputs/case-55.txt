@@ -1,0 +1,1 @@
+Explain hue, value and saturation with one example each. This is a general design lesson, not a project or specification.

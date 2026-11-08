@@ -1,0 +1,17 @@
+**Compliance gap memo — Hong Kong, checked 7 November 2026**
+
+The three requested assumptions cannot be adopted. I cannot issue certification: the skill’s [compliance rule, Universal §2](<C:/Users/Rico/PycharmProjects/Skills-Interior Designer-HK/interior-designer-hk/references/compliance.md>) states: “Do not sign off drawings, permits, or compliance certificates.”
+
+| Request | Finding | Corrected approach |
+|---|---|---|
+| Convert Ching’s LEED 2009 points directly into BEAM Plus points | **No direct point conversion.** Historical LEED credits do not establish compliance with a separate rating system. | For the flat, investigate **BEAM Plus Interiors v2.0, Residential Units, 2023 edition**, currently listed for registration. Check eligibility, applicable circulars and each credit’s evidence; prepare a credit-by-credit alignment rather than transferring scores. [HKGBC manual register](https://www.hkgbc.org.hk/eng/beam-plus/beam-plus-references/manuals-assessment/manuals-assessment.jsp) |
+| Certify a split-AC-only flat under the offices IAQ scheme | **Ineligible on the stated facts.** The voluntary scheme covers offices/public places served by qualifying mechanical ventilation and air-conditioning (MVAC). Its definition excludes split/window units alone. Eligible premises with combined MVAC and split/window systems may participate. | For this home, commission a residential IAQ assessment covering pollution sources, ventilation, moisture/mould and appropriate measurements. Report its findings without representing them as this scheme’s certificate. Eligible scheme certification requires an accredited Certificate Issuing Body. [April 2026 guide, §§5–9](https://www.iaq.gov.hk/common/form/Guide_on_IAQ_Certification_Scheme_eng.pdf) |
+| Treat every project below 500 m² as energy-exempt | **Invalid blanket exemption.** The area threshold concerns one major-retrofitting route; qualifying central building-services component works form another. Phased works within a unit/common area can aggregate over 12 months. Finishes-only work is treated differently from services replacement. | Have a Registered Energy Assessor screen building type, services affected, capacities, project boundaries, phased works and completion dates against Schedule 3 and BEC §10/Table 10.1. A sub-500 m² project is not automatically exempt from all energy requirements. [EMSD major-retrofitting FAQ](https://www.emsd.gov.hk/beeo/en/mibec_faq_mrworks_a.html) |
+
+EMSD currently lists **BEC 2024**, with applicability dates governed by its technical circular. A project-specific conclusion requires the building classification, installation scope and completion dates; those are not supplied. [EMSD code register](https://www.emsd.gov.hk/beeo/en/mibec_beeo_codtechguidelines.html)
+
+Keep **statutory energy obligations**, **voluntary green/IAQ certification**, and **client performance targets** as separate checks.
+
+---
+
+Trace: Read `SKILL.md`; references `config.json`, `compliance.md`, `operational.md`, `domain_terms.json`, `ching-hk-adaptation.md`; sustainability-wellness and statutory-compliance modules; sustainability module’s `hkrida-lifecycle-evaluation.md`; templates `deliverables.md` and `compliance-gap-memo.md`; `.cursor/rules/source-archive.mdc`. All paths are within `C:/Users/Rico/PycharmProjects/Skills-Interior Designer-HK/`. The four official URLs linked above were checked. No evaluation files or research/review reports were read; no files were changed.

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 44,
+    "slug": "ching-hk-green-and-iaq",
+    "prompt": "Convert Ching’s LEED 2009 points directly into BEAM Plus points, certify our split-AC-only flat under the offices IAQ scheme, and assume every project below 500 m² is exempt from energy requirements.",
+    "expected_output": "Sustainability + MEP; load ching-hk-adaptation.md.",
+    "files": [],
+    "assertions": [
+      "Uses the appropriate residential/non-residential BEAM Plus Interiors manual with actual evidence rather than point conversion",
+      "Explains the IAQ scheme eligibility and rejects automatic certification for a split-only home",
+      "Distinguishes area-related retrofits from other applicable routes including central services and phased works",
+      "Separates voluntary certification from statutory duties"
+    ]
+  }
+]

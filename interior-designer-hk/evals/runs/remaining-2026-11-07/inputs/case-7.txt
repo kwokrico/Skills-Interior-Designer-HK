@@ -1,0 +1,1 @@
+Audit this Hong Kong residential tender drawing package for bid readiness: sheets P0 existing plan, P1 design plan with joinery tags L/S/K/B, P2 floor/sill material plan, P3 ceiling/lighting plan, and P4–P7 room elevations only (A4 @ 1:50). Flag what is complete vs still missing before release.

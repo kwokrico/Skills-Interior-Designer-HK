@@ -1,0 +1,59 @@
+{
+  "grading_method": "Parent manually inspected exact saved responses and traces against assertions; fresh-context evaluators did not receive expected answers.",
+  "round": 1,
+  "results": [
+    {
+      "slug": "ching-hk-required-stair",
+      "response": "ching-hk-required-stair.retest.md",
+      "result": "fail",
+      "assertions": [
+        {
+          "check": "No winders",
+          "result": "pass"
+        },
+        {
+          "check": "5a tread/riser",
+          "result": "pass"
+        },
+        {
+          "check": "Remaining landing, width, headroom AND accessibility; no sign-off",
+          "result": "fail",
+          "evidence": "Landings, width, headroom and sign-off covered; applicable accessibility not stated in actual user response."
+        },
+        {
+          "check": "5a B23 flight/turn checks",
+          "result": "pass",
+          "evidence": "States 3\u201316 steps, successive-flight turn conditions and B23.1\u2013B23.3."
+        }
+      ],
+      "routing": "pass",
+      "sha256": "ae015cad1db727fe16921aaf44189a9d24dba2de8409655474b51703dd0e32b3"
+    },
+    {
+      "slug": "ching-hk-green-and-iaq",
+      "response": "ching-hk-green-and-iaq.retest.md",
+      "result": "pass",
+      "assertions": [
+        {
+          "check": "Correct BEAM manual and evidence; no conversion",
+          "result": "pass"
+        },
+        {
+          "check": "IAQ eligibility",
+          "result": "pass"
+        },
+        {
+          "check": "Central services and phased works",
+          "result": "pass"
+        },
+        {
+          "check": "Statutory versus voluntary",
+          "result": "pass"
+        }
+      ],
+      "routing": "pass",
+      "evidence": "Trace includes sustainability, statutory and MEP; explicit services scope / REA review inputs.",
+      "sha256": "d2029d46ca8fd5ef5bc7b3d08dc116a0f527dea3535321cb58020e3017da17ab"
+    }
+  ]
+}

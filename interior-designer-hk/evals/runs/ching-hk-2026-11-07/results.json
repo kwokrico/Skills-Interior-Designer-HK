@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-07",
+  "method": "Independent fresh-context agent executions; exact user prompts, skill location and read-only boundaries supplied; expected assertions withheld. Parent manually graded saved user-facing responses and read traces.",
+  "model": "Inherited session model; no model override requested",
+  "fresh_context_executions": 7,
+  "final_scenarios_passed": 4,
+  "final_scenarios_total": 4,
+  "final_content_assertions_passed": 14,
+  "final_content_assertions_total": 14,
+  "final_routing_passed": 4,
+  "final_routing_total": 4,
+  "limits": "One final passing sample per scenario, not a statistical reliability estimate. Access/services retain their initial passing runs; changed stair/energy routes were retested. Parent grader is not independent of skill author.",
+  "cases": [
+    {
+      "slug": "ching-hk-access-status",
+      "response": "ching-hk-access-status.response.md",
+      "sha256": "a8fb3f663e96366e66f2470b8f5aa84dda4c5b2ab1017c0134c788fa36223714",
+      "result": "pass",
+      "routing": "pass",
+      "assertions": [
+        {
+          "assertion": "Identifies APP-176 paragraphs 3–4 and existing B(P)R regulations/schedules versus presently advisory additions",
+          "result": "pass",
+          "evidence": "APP-176 paragraphs 3–4 separates regulations 72–73 / Third-Fourth Schedules from advisory additions."
+        },
+        {
+          "assertion": "Checks applicability and approved arrangements before dimensions",
+          "result": "pass",
+          "evidence": "Requests measured plan, approved records, alteration scope and user needs before project-specific dimensions."
+        },
+        {
+          "assertion": "Does not import an ADA plan as local compliance or give an automatic existing-building exemption",
+          "result": "pass",
+          "evidence": "Requires redrawing the ADA reference; says existing constraints do not automatically grant exemption."
+        }
+      ]
+    },
+    {
+      "slug": "ching-hk-required-stair",
+      "response": "ching-hk-required-stair.final.md",
+      "sha256": "4d3f3179255f4e8b1e1dadd3782388b10c783a16046c576361757d7d9ab267a7",
+      "result": "pass",
+      "routing": "pass",
+      "assertions": [
+        {
+          "assertion": "Rejects winders for the B14.2 required-stair case",
+          "result": "pass",
+          "evidence": "Rejects the winder under B14.2/B23.1(a)."
+        },
+        {
+          "assertion": "Identifies the 5a exception of at least 280 mm tread and at most 150 mm riser rather than general 225/175 values",
+          "result": "pass",
+          "evidence": "Gives 280 mm minimum tread and 150 mm maximum riser for 5a."
+        },
+        {
+          "assertion": "Checks remaining landing, width, headroom and accessibility requirements and does not certify approval",
+          "result": "pass",
+          "evidence": "Checks landings, headroom and width and explicitly states Accessibility remains unresolved with AP review; refuses approval."
+        },
+        {
+          "assertion": "Applies the 5a-specific B23 flight/turn checks rather than treating the general B14 flight rule as sufficient",
+          "result": "pass",
+          "evidence": "Applies B23 flight/turn requirements including successive flights and the over-12-step turn condition."
+        }
+      ]
+    },
+    {
+      "slug": "ching-hk-services",
+      "response": "ching-hk-services.response.md",
+      "sha256": "fadee9d42af087e819a6fa36c9742f0b8e0e256ed20ff1b398106f92793ace50",
+      "result": "pass",
+      "routing": "pass",
+      "assertions": [
+        {
+          "assertion": "Does not use contract date as the completion-and-connection deadline for the 2020 grace provision",
+          "result": "pass",
+          "evidence": "Uses both completion and connection by 31 December 2026; rejects signing date."
+        },
+        {
+          "assertion": "Rechecks current electrical edition and requires REC/REW inspection/testing and WR1 before use",
+          "result": "pass",
+          "evidence": "Checks EMSD live transition and installation guidance; specifies 2025 basis and REC/REW testing plus WR1."
+        },
+        {
+          "assertion": "Separates WSD water-supply requirements from BD drainage alteration and minor-works classification",
+          "result": "pass",
+          "evidence": "Separates WSD supply scope from BD drainage items and requires actual item-condition review."
+        }
+      ]
+    },
+    {
+      "slug": "ching-hk-green-and-iaq",
+      "response": "ching-hk-green-and-iaq.retest.md",
+      "sha256": "d2029d46ca8fd5ef5bc7b3d08dc116a0f527dea3535321cb58020e3017da17ab",
+      "result": "pass",
+      "routing": "pass",
+      "assertions": [
+        {
+          "assertion": "Uses the appropriate residential/non-residential BEAM Plus Interiors manual with actual evidence rather than point conversion",
+          "result": "pass",
+          "evidence": "Selects BI v2.0 Residential Units for the flat, checks eligibility/circulars/credit evidence; rejects conversion."
+        },
+        {
+          "assertion": "Explains the IAQ scheme eligibility and rejects automatic certification for a split-only home",
+          "result": "pass",
+          "evidence": "Explains eligible offices/public places and MVAC, excluding split-only flat while noting qualifying mixed systems."
+        },
+        {
+          "assertion": "Distinguishes area-related retrofits from other applicable routes including central services and phased works",
+          "result": "pass",
+          "evidence": "Identifies central-services route and aggregation over 12 months; directs REA scope review."
+        },
+        {
+          "assertion": "Separates voluntary certification from statutory duties",
+          "result": "pass",
+          "evidence": "Explicitly separates statutory energy duties, voluntary certification and client targets."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# Residential cooling, fans and condensation
+
+Source: DECO-TV collection, 冷氣, 風扇 and relevant 裝修速成功 extracts; [file inventory and dispositions](../../Reference/DECO-TV-COLLECTION-2026-11-07.md). These are field observations and product demonstrations, not verified product specifications. Publication dates unknown. Read actual installation/service documents before applying numerical limits.
+
+## Selection and coordination
+
+- Select cooling capacity from room heat load, glazing/orientation, occupancy, equipment, envelope and operating pattern. Horsepower labels, cooling output (kW or BTU/h) and electrical input are different quantities. Area-only examples and reported savings are not sizing or billing formulas. Compare named models' seasonal performance and energy labels on the same basis; fixed-speed units can have thermostatic control.
+- Compare window, split, window-split, concealed and multi-split arrangements for indoor/outdoor noise, actual unit dimensions, usable window area, estate positions, service access and whole-life installation cost. For multi-splits verify allowed indoor combinations, simultaneous capacity and shared outdoor-unit failure implications. A compact outdoor unit does not establish that scaffolding or safe access provisions can be omitted.
+- Fix AC positions before windows, curtains, joinery and ceiling release. Coordinate refrigerant line length/elevation, insulation, power/isolation, gravity drain or approved pump, cooling/heating condensate arrangements and accessible discharge. Use model-specific limits. Survey old pipe condition and refrigerant/model compatibility before pricing reuse; include testing, replacement and reinstatement contingencies explicitly.
+- Keep return/supply air paths, filter withdrawal, drain-pan access and whole-unit removal available in decorative enclosures. A small inspection hatch may not permit replacement. Coordinate finish behind the unit, installation timing and dust protection; do not run new equipment through dusty works as a substitute for protection.
+- Commission against specified operating conditions and manufacturer procedure: temperatures/operation, drainage, unusual noise/vibration, controls and required electrical evidence. Feeling cool or briefly observing no drip is only an initial observation, not complete acceptance.
+
+## Faults and cleaning
+
+- Separate dirty filters/coils, restricted airflow, hot-air recirculation, inappropriate capacity, control faults, refrigerant leakage and installation problems. Do not prescribe refrigerant top-up or replacement from “not cold”. A technician must identify the refrigerant and diagnose the system; no generic pipe-length, temperature or charging rule comes from these videos.
+- Drips may involve blocked pan outlets, deformed/aged drain lines, lost falls or displaced mounting; trace the source before specifying a repair. Record symptoms, conditions and photographs, protect affected areas and arrange competent service. Do not copy historical nuisance fines.
+- Distinguish user-removable filter cleaning from coil/blower, electrical, refrigerant and external-unit work. Follow the actual manual; isolate safely and keep motors/electronics dry. Do not assume plastic bag coverings make powered/wet work safe. Fragile clips, inaccessible parts and ageing casings require model-specific handling.
+- Specify professional cleaning scope, chemical compatibility, protection, wastewater capture/disposal, drain checks, before/after operation and damage responsibility. Spray, enzyme, steam and antimicrobial claims need product evidence; neither “neutral” nor a brand endorsement proves effectiveness or compatibility. Do not copy unclear chemical names, dwell times, universal cleaning intervals or DIY internal washing instructions.
+
+## Condensation versus leakage
+
+- Compare measured surface temperature with indoor air temperature/RH and calculated dew point, alongside leak investigation, weather and upstairs/downstairs AC use. Touch alone is insufficient. Either a cooled ceiling or cooled floor can condense moisture on its warm humid side; do not assign blame solely from which neighbour runs AC.
+- Consider moisture-source control, appropriate dehumidification, airflow/setpoint adjustment and professionally coordinated insulation. Fans redistribute air but do not remove water vapour; warming floors may move condensation elsewhere without reducing moisture. Passive absorbents are finite-capacity measures, not whole-room humidity control.
+- Before internal insulation or floor overlays, assess vapour/air continuity, hidden condensation, substrate moisture, fire performance, fixing, loads, floor-height/threshold changes and service access. Trial an engineered compatible assembly and monitor representative conditions; a small dry sample or sealed edges cannot guarantee the whole floor/cabinet void remains dry.
+- Do not adopt generic foam/tile thicknesses, universal open-window rules, success percentages or floor-heating medical claims. Underfloor heating needs actual electrical/hydronic system, floor-finish compatibility and repair-access design.
+
+## Fans and fan lights
+
+- Compare ordinary, tower, circulation, wall and ceiling fans by actual airflow distribution, noise at intended speed, footprint, cleanability, controls and user comfort. Circulation is not fresh-air ventilation. Blade count, DC motor labels and “bladeless” marketing alone do not prove efficiency, silence or safety.
+- Ceiling fan lights require suitable structural support for operating/dynamic loads, actual mounting instructions, electrical installation and blade/occupant clearances including raised hands and bunk beds. Do not select anchors from a video, fix only to decorative ceiling board or cover spalling. Route suspect structure to statutory/AP/RSE review. CE marking alone is not a project compliance determination.
+- Clean only user-serviceable parts per manual after isolation and stopping motion; keep motors dry and record reassembly orientation. Do not generalize reverse-thread directions, lubrication or capacitor replacement. Electrical faults require competent repair; a spinning blade is not a safety test. Verify battery/tool compatibility, charging and remote-control behaviour from current model documentation.

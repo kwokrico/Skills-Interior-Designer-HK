@@ -1,0 +1,257 @@
+{
+  "active_cases": 62,
+  "unique_ids": true,
+  "dispatcher": {
+    "interior-fire-life-safety": "success",
+    "interior-mep-clash-detection": "success",
+    "interior-statutory-compliance": "success",
+    "interior-acoustic-engineering": "success",
+    "interior-material-procurement": "success",
+    "interior-interface-detailing": "success",
+    "interior-thickness-build-up": "success",
+    "interior-millwork-technical": "success",
+    "interior-value-engineering": "success",
+    "interior-tendering-qa": "success",
+    "interior-site-supervision": "success",
+    "interior-handover-dlp": "success",
+    "interior-anthropometrics-ergonomics": "success",
+    "interior-lighting-science": "success",
+    "interior-brand-environmental-graphics": "success",
+    "interior-sustainability-wellness": "success"
+  },
+  "this_run_edited_resources": [
+    "SKILL.md",
+    "references/ching-spatial-composition.md",
+    "subskills/interior-statutory-compliance/interior-statutory-compliance.md",
+    "subskills/interior-handover-dlp/interior-handover-dlp.md",
+    "scripts/calculators.py",
+    "references/domain_terms.json",
+    "subskills/interior-lighting-science/interior-lighting-science.md",
+    "references/source-register.md"
+  ],
+  "edited_resource_links_missing": [],
+  "added_by_concurrent_work": [
+    {
+      "id": 57,
+      "slug": "deco-shower-shutoff"
+    },
+    {
+      "id": 58,
+      "slug": "deco-cabinet-measurement"
+    },
+    {
+      "id": 59,
+      "slug": "deco-tools-and-liability"
+    },
+    {
+      "id": 60,
+      "slug": "deco-finish-marketing"
+    },
+    {
+      "id": 61,
+      "slug": "deco-retained-services"
+    },
+    {
+      "id": 62,
+      "slug": "deco-flood-test-claims"
+    }
+  ],
+  "note": "Tests cover the planned 18; concurrent IDs57-62 are not included. Frozen archive and manifest identify the retested resource version.",
+  "report_links_missing": [],
+  "preexisting_source_register_links_missing": [
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.1 揀裝修公司＆業界內幕/2026-11-01-工程師裝修學堂-iRpMn3slpDM.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.1 揀裝修公司＆業界內幕/2026-11-01-工程師裝修學堂-SJ3J2XuJ8Uo.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.1 揀裝修公司＆業界內幕/2026-11-01-工程師裝修學堂-u3a5HhImK1E.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.2 報價＆合約陷阱/2026-11-01-工程師裝修學堂-LXbfa3tDUFs.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.2 報價＆合約陷阱/2026-11-01-工程師裝修學堂-Ql37DXxkXak.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.2 報價＆合約陷阱/2026-11-01-工程師裝修學堂-uLlI-O_HBUE.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.3 收樓規劃＆居屋設計/2026-11-01-工程師裝修學堂-1TjUkNycG-U.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.3 收樓規劃＆居屋設計/2026-11-01-工程師裝修學堂-2g5UPcvVb6s.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.3 收樓規劃＆居屋設計/2026-11-01-工程師裝修學堂-AGgOl0ICL80.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.3 收樓規劃＆居屋設計/2026-11-01-工程師裝修學堂-orqxM1wH7-A.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.3 收樓規劃＆居屋設計/2026-11-01-工程師裝修學堂-SchnaSpraW0.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/1.3 收樓規劃＆居屋設計/2026-11-01-工程師裝修學堂-ydyPEln6GsI.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/2.1 拆牆＆結構安全/2026-11-01-工程師裝修學堂-eD1-6mR3C_k.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/2.2 防水滲水終極篇/2026-11-01-工程師裝修學堂-2dRr3pRgCMc.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/2.2 防水滲水終極篇/2026-11-01-工程師裝修學堂-KLu8x6KEI3Q.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/2.2 防水滲水終極篇/2026-11-01-工程師裝修學堂-lzXtQE7KcTI.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/2.2 防水滲水終極篇/2026-11-01-工程師裝修學堂-MrfnlRJahAU.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/2.2 防水滲水終極篇/2026-11-01-工程師裝修學堂-pRUuP0VAGDM.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/2.2 防水滲水終極篇/2026-11-01-工程師裝修學堂-t0m9m_tgyn8.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/2.2 防水滲水終極篇/2026-11-01-工程師裝修學堂-zhviWiUwmBw.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/2.3 水電喉管隱藏工程/2026-11-01-工程師裝修學堂-OAKX9NQ5TB4.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/3.2 地板瓷磚石材揀料/2026-11-01-工程師裝修學堂-_PpDvezsPKQ.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/3.2 地板瓷磚石材揀料/2026-11-01-工程師裝修學堂-eNHyvy5EAy0.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/3.3 訂造傢俬／木作／燈飾/2026-11-01-工程師裝修學堂-86PENf0rWnc.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/3.3 訂造傢俬／木作／燈飾/2026-11-01-工程師裝修學堂-yLzNAeTBSlo.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/4.3 法規／時事／結構警號/2026-11-01-工程師裝修學堂-quJCDPozRaA.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/4.3 法規／時事／結構警號/2026-11-01-工程師裝修學堂-UL3t7ZMXq3E.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/renovationeer_extract/4.3 法規／時事／結構警號/2026-11-01-工程師裝修學堂-zD2_X9U3QEk.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/建材大揭秘/2026-11-02-洛基解密裝修頻道-3j3dmdMefwA.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/建材大揭秘/2026-11-02-洛基解密裝修頻道-cY9PlCQS35c.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/建材大揭秘/2026-11-02-洛基解密裝修頻道-dc9HrgXiXlE.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/建材大揭秘/2026-11-02-洛基解密裝修頻道-EXRp3UDL8LQ.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/建材大揭秘/2026-11-02-洛基解密裝修頻道-F86Phf_gkZw.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/建材大揭秘/2026-11-02-洛基解密裝修頻道-lIRrCq80WCU.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/建材大揭秘/2026-11-02-洛基解密裝修頻道-Mr0VpCSFAlw.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/建材大揭秘/2026-11-02-洛基解密裝修頻道-q5SQpKAKDFw.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/建材大揭秘/2026-11-02-洛基解密裝修頻道-xV69yfP77x4.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/建材大揭秘/2026-11-02-洛基解密裝修頻道-zDcQ3pjPThI.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/裝修攻略篇/2026-11-03-洛基解密裝修頻道-hKWQw4HsPn8.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/裝修攻略篇/2026-11-03-洛基解密裝修頻道-RALY6W0siy8.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/裝修攻略篇/2026-11-03-洛基解密裝修頻道-w8M6m2ixC00.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/裝修攻略篇/2026-11-03-洛基解密裝修頻道-Y4bc6t6m008.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/裝修攻略篇/2026-11-03-洛基解密裝修頻道-Yh6fGdyiiQ0.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/裝修攻略篇/2026-11-03-洛基解密裝修頻道-Zn-SDkxZioU.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/裝修避雷針/2026-11-03-洛基解密裝修頻道-I2q_KSbzomI.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/裝修避雷針/2026-11-03-洛基解密裝修頻道-Nx0Vxygbb4U.md"
+    ],
+    [
+      "interior-designer-hk\\references\\source-register.md",
+      "../../Reference/洛基解密裝修_extract/裝修避雷針/2026-11-03-洛基解密裝修頻道-yH5CvYd4awc.md"
+    ]
+  ],
+  "response_hashes_verified": true,
+  "live_vs_final_snapshot_changes": [
+    "references/source-register.md"
+  ],
+  "live_vs_final_snapshot_review": "Only source-register provenance entry added after frozen snapshot; operational instructions and helper match final snapshot.",
+  "calculator_unit_tests": 9
+}

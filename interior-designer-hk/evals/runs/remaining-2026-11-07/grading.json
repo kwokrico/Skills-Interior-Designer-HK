@@ -1,0 +1,1083 @@
+{
+  "method": "Fresh-context independent execution; expected assertions withheld; parent manual grading of actual responses and source/routing traces.",
+  "status": "complete",
+  "cases": [
+    {
+      "id": 6,
+      "slug": "eval-material-schedule-hk",
+      "expected_route": "Route to interior-material-procurement; output structured like material-schedule.md with main columns, owner-supply companion sheet, soft 總則 checklist, and or-equal brand language — not a compliance hard-stop halt.",
+      "baseline": {
+        "status": "pass",
+        "assertions": [
+          {
+            "assertion": "The agent routes to or loads interior-material-procurement",
+            "result": "pass",
+            "evidence": "Procurement read."
+          },
+          {
+            "assertion": "The response includes a material schedule structure with item codes or category columns",
+            "result": "pass",
+            "evidence": "Coded schedule with technical and procurement fields."
+          },
+          {
+            "assertion": "The response includes an owner appliance or owner-supply companion section",
+            "result": "pass",
+            "evidence": "OA owner appliance and OF furniture sheets."
+          },
+          {
+            "assertion": "The response uses soft general notes or checklist language (not inventing new hard compliance halts)",
+            "result": "pass",
+            "evidence": "Soft checklist explicitly not new statutory stops."
+          },
+          {
+            "assertion": "The response phrases brands as typical first pick or or-equal (或同等)",
+            "result": "pass",
+            "evidence": "Starter candidates or approved equivalent; current models unverified."
+          }
+        ],
+        "response": "case-6.response.md",
+        "sha256": "7cde5f6c8ea1d09f69578b742f6ef90c715f6e0c18d68ea91f63d42c72868168",
+        "routing": "pass",
+        "routing_evidence": "Procurement and material-schedule template plus MEP, millwork and lighting."
+      },
+      "retests": []
+    },
+    {
+      "id": 7,
+      "slug": "eval-mini-tender-set-bid-readiness",
+      "expected_route": "Route to interior-tendering-qa; cite references/cases/hk-residential-mini-tender-set.md; run P0–P7 completeness plus gap register (door schedule, 物料規格表, power/ELV, 1:20/1:5 bespoke, waterproofing sheet, BOQ/HKRG, MEP depths); chain to procurement/lighting/millwork/MEP/fire as needed; structure like tender-completeness-audit.",
+      "baseline": {
+        "status": "pass",
+        "assertions": [
+          {
+            "assertion": "The agent routes to or loads interior-tendering-qa",
+            "result": "pass",
+            "evidence": "Tender module loaded."
+          },
+          {
+            "assertion": "The response references the HK residential mini tender set case or P0–P7 sheet checklist",
+            "result": "pass",
+            "evidence": "P0-P7 coverage/check table and local case cited."
+          },
+          {
+            "assertion": "The response lists bid-readiness gaps beyond the drawing mini-set (e.g. schedules, BOQ, detail LOD)",
+            "result": "pass",
+            "evidence": "Seven gaps include schedules, BOQ, MEP and detail LOD."
+          },
+          {
+            "assertion": "The response chains or points to at least one technical subskill when relevant (material-procurement, lighting, millwork, mep, or fire)",
+            "result": "pass",
+            "evidence": "Millwork and procurement loaded and linked to gap owners."
+          }
+        ],
+        "response": "case-7.response.md",
+        "sha256": "f901c648428d7ea74e0611d3941ce7adfcb48fa1f8b680acb831def0c2d0d145",
+        "routing": "pass",
+        "routing_evidence": "Tender, mini-set, template, millwork and procurement read."
+      },
+      "retests": []
+    },
+    {
+      "id": 35,
+      "slug": "deco-stage-inspections",
+      "expected_route": "Route to site supervision plus MEP; load residential-stage-inspections.md.",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Requires pre-concealment inspection/test evidence and identified dimensioned route records",
+            "result": "pass",
+            "evidence": "Pre-concealment hold requires dimensioned records, inspections and tests."
+          },
+          {
+            "assertion": "Does not use photos as permission to drill or omit required tests because the quote omits them",
+            "result": "pass",
+            "evidence": "Photos not drill clearance; omitted quote line not permission to skip tests."
+          },
+          {
+            "assertion": "Distinguishes protected wiring within a void from structural ceiling chasing and requires the applicable compliant wiring system",
+            "result": "pass",
+            "evidence": "Differentiates concealed-in-void from structural chasing; registered trade system confirmation."
+          },
+          {
+            "assertion": "Does not authorize slab/beam chasing from a price agreement",
+            "result": "pass",
+            "evidence": "No slab/beam chasing authorization; competent professional/approvals required."
+          }
+        ],
+        "response": "case-35.response.md",
+        "sha256": "de26a6a717b1a0cd7b645f20b989a076694284cb9a783f5bbc807c91dab7dada",
+        "routing": "fail",
+        "routing_evidence": "Site and stage reference loaded, but MEP omitted."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Requires pre-concealment inspection/test evidence and identified dimensioned route records",
+              "result": "pass",
+              "evidence": "Dimensioned route records, coordinated drawings, tests and release gate."
+            },
+            {
+              "assertion": "Does not use photos as permission to drill or omit required tests because the quote omits them",
+              "result": "pass",
+              "evidence": "Photos not drilling clearance; testing not waived by quote omission."
+            },
+            {
+              "assertion": "Distinguishes protected wiring within a void from structural ceiling chasing and requires the applicable compliant wiring system",
+              "result": "pass",
+              "evidence": "Void containment distinguished from structural chase; actual wiring system required."
+            },
+            {
+              "assertion": "Does not authorize slab/beam chasing from a price agreement",
+              "result": "pass",
+              "evidence": "No structural cutting without competent assessment/permissions."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Site, MEP and stage-inspection reference read.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "purpose": "retest",
+          "response": "case-35.frozen-1.md",
+          "sha256": "4b668220457cdd68ecb4f3b70b9e3b4de3bad7d5de46dae092520d8703f4bbe5"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "slug": "deco-closeout-cleaning",
+      "expected_route": "Route to handover plus tendering; load residential-closeout-agreements.md.",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Assesses intended function and actual completion criteria rather than equating keys with acceptance",
+            "result": "pass",
+            "evidence": "Keys not completion; bed assessed for safe intended function."
+          },
+          {
+            "assertion": "Separates critical function, incomplete scope and minor snags with a written partial-handover schedule where appropriate",
+            "result": "pass",
+            "evidence": "Functional defect, incomplete panel and conditional minor classification; written partial handover."
+          },
+          {
+            "assertion": "Defines cleaning tasks/exclusions and hours versus task-completion basis",
+            "result": "fail",
+            "evidence": "Mentions exclusions and itemised scope, but omits concrete cleaning task record and fixed hours versus completed-task basis."
+          },
+          {
+            "assertion": "Treats 30 days as a negotiated suggestion and payment holdback/release as contract-specific; does not authorize blanket withholding",
+            "result": "pass",
+            "evidence": "30 days negotiated; contract-specific model clauses and no blanket withholding."
+          }
+        ],
+        "response": "case-36.response.md",
+        "sha256": "53348b4ed96560a1772374258e9ef9d808a61ffa59626aaa522167ec172d4be2",
+        "routing": "pass",
+        "routing_evidence": "Handover, tendering and residential closeout reference loaded."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Assesses intended function and actual completion criteria rather than equating keys with acceptance",
+              "result": "pass",
+              "evidence": "Keys not completion; bed assessed for actual function."
+            },
+            {
+              "assertion": "Separates critical function, incomplete scope and minor snags with a written partial-handover schedule where appropriate",
+              "result": "pass",
+              "evidence": "Critical bed, incomplete panel and cosmetic status distinguished; written partial handover."
+            },
+            {
+              "assertion": "Defines cleaning tasks/exclusions and hours versus task-completion basis",
+              "result": "pass",
+              "evidence": "Concrete cleaning task table plus exclusions, ownership, fixed hours vs task completion and rework."
+            },
+            {
+              "assertion": "Treats 30 days as a negotiated suggestion and payment holdback/release as contract-specific; does not authorize blanket withholding",
+              "result": "pass",
+              "evidence": "Thirty days negotiated, signed contract governs payment; no blanket withholding."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Handover, tender and closeout reference read.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "purpose": "retest",
+          "response": "case-36.frozen-1.md",
+          "sha256": "d8c8ac2db839d75753bb4392149b854a60c8b2e3e9c3b7f10bfc3c09da1dafbe"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "slug": "ching-composition",
+      "expected_route": "Load ching-spatial-composition.md; route functional checks to anthropometrics and visual comfort to lighting.",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Tests mass/void, circulation and plan plus section against the activities",
+            "result": "fail",
+            "evidence": "Plan mass/void and elevation provided, but no section/height or seated/standing volume check."
+          },
+          {
+            "assertion": "Compares flexible and fixed arrangements and a future-use scenario",
+            "result": "fail",
+            "evidence": "Two loose/shared-table schemes and future use; no actual comparison against a fixed arrangement."
+          },
+          {
+            "assertion": "Uses hierarchy, balance, rhythm or common traits with deliberate variety",
+            "result": "pass",
+            "evidence": "Hierarchy, rhythm, repeated materials and deliberate secondary walls."
+          },
+          {
+            "assertion": "Does not treat a ratio or colour effect as a universal guarantee",
+            "result": "pass",
+            "evidence": "Ratio optional and blue effect explicitly not guaranteed."
+          }
+        ],
+        "response": "case-39.response.md",
+        "sha256": "19b044a2a737aa63cc590a3feac33b3927634415ce1cc2c64a7cf832cc44fefb",
+        "routing": "pass",
+        "routing_evidence": "Composition, anthropometrics and lighting loaded."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Tests mass/void, circulation and plan plus section against the activities",
+              "result": "pass",
+              "evidence": "Plan mass/void plus section heights, beams, furniture mass and seated/standing sightlines."
+            },
+            {
+              "assertion": "Compares flexible and fixed arrangements and a future-use scenario",
+              "result": "pass",
+              "evidence": "Explicit fitted versus movable comparison with future work in both."
+            },
+            {
+              "assertion": "Uses hierarchy, balance, rhythm or common traits with deliberate variety",
+              "result": "pass",
+              "evidence": "Hierarchy, repeated lines/materials and restrained secondary emphasis."
+            },
+            {
+              "assertion": "Does not treat a ratio or colour effect as a universal guarantee",
+              "result": "pass",
+              "evidence": "Golden ratio optional; no guaranteed blue spaciousness."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Spatial composition, anthropometrics and lighting read.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "purpose": "retest",
+          "response": "case-39.frozen-1.md",
+          "sha256": "05eb53e3a12ad6a8eb32c57cab3917d220457c3a30b66d39309213cedf42b827"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "slug": "ching-furnishings",
+      "expected_route": "Load ching-furnishings-and-window-treatments.md; chain anthropometrics, procurement, millwork and statutory as needed.",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Requests storage inventory and access frequency before shelf design",
+            "result": "pass",
+            "evidence": "Inventory dimensions/frequency/growth requested before shelf depth."
+          },
+          {
+            "assertion": "Checks extended bed and open storage envelopes and remaining route",
+            "result": "pass",
+            "evidence": "Sofa bed conversion, open storage and remaining bedroom route addressed."
+          },
+          {
+            "assertion": "Coordinates window swing, stack space, controls and edge light paths",
+            "result": "pass",
+            "evidence": "Sash/handle sweep, stack, controls and head/edge light leakage."
+          },
+          {
+            "assertion": "Rejects textbook dimensions as current HK statutory minima; obtains current applicable evidence",
+            "result": "pass",
+            "evidence": "Rejects book legal minima and verifies applicable BD daylight framework."
+          }
+        ],
+        "response": "case-40.response.md",
+        "sha256": "5546342e398fd4019fada7006ad4e48fca78e75059e4751e57f5b9ea9fa24e35",
+        "routing": "fail",
+        "routing_evidence": "Furnishings, anthropometrics and statutory read; procurement and millwork missing for shelf/window specification."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Requests storage inventory and access frequency before shelf design",
+              "result": "pass",
+              "evidence": "Inventory size, quantity, frequency and user reach before storage depth."
+            },
+            {
+              "assertion": "Checks extended bed and open storage envelopes and remaining route",
+              "result": "pass",
+              "evidence": "Open storage, conversion/extended bed and remaining route tested."
+            },
+            {
+              "assertion": "Coordinates window swing, stack space, controls and edge light paths",
+              "result": "pass",
+              "evidence": "Sash/handle, stack/head, controls and light leakage coordinated."
+            },
+            {
+              "assertion": "Rejects textbook dimensions as current HK statutory minima; obtains current applicable evidence",
+              "result": "pass",
+              "evidence": "Book dimensions rejected as law; BD APP130 source verified for applicable window issue."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Furnishings, anthropometrics, procurement, millwork and statutory read.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "purpose": "retest",
+          "response": "case-40.frozen-1.md",
+          "sha256": "e47fff7295006e7f81a9f428e963827a9bde22d922ea24e9f77b416eb8ca02ec"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "slug": "hk-egress-calculator-limit",
+      "expected_route": "Fire + statutory",
+      "baseline": {
+        "status": "pass",
+        "assertions": [
+          {
+            "assertion": "Rejects width-only calculator output as HK approval",
+            "result": "pass",
+            "evidence": "Rejects 900 x 0.6 as approval and explains missing exit/discharge checks."
+          },
+          {
+            "assertion": "Checks use classification, occupant basis, number/distribution of exits, clear width and travel route",
+            "result": "pass",
+            "evidence": "Checks table basis, classification, occupants, number/independence, widths and full route."
+          },
+          {
+            "assertion": "Identifies missing layout/approval evidence and gives an actionable review path without inventing compliance",
+            "result": "pass",
+            "evidence": "Requests measured plans/approved records and AP redesign; does not approve."
+          }
+        ],
+        "response": "case-45.response.md",
+        "sha256": "81e8ac7810255cb873b2985f719bebd84c4d129e851b785e80a2f61a5b108597",
+        "routing": "pass",
+        "routing_evidence": "Fire and statutory both read."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Rejects width-only calculator output as HK approval",
+              "result": "pass",
+              "evidence": "Rejects width-only output as approval."
+            },
+            {
+              "assertion": "Checks use classification, occupant basis, number/distribution of exits, clear width and travel route",
+              "result": "pass",
+              "evidence": "Official exit count/distribution and width; use/occupancy and routes requested."
+            },
+            {
+              "assertion": "Identifies missing layout/approval evidence and gives an actionable review path without inventing compliance",
+              "result": "pass",
+              "evidence": "Measured/approved evidence and AP/fire review with conditional remedies."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Fire and statutory read; calculator inspected.",
+          "snapshot": "final-manifest.json",
+          "cycle": 2,
+          "purpose": "regression_control",
+          "response": "case-45.frozen-2.md",
+          "sha256": "f986574ef2875fec22fe923199f70d3fa92d66f377eb66e6a1ab19ac6c4cddef"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "slug": "hk-barrier-raised-floor",
+      "expected_route": "Statutory + interface",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Checks effective height from the relevant finished/adjoining step-on surface, not original slab alone",
+            "result": "pass",
+            "evidence": "Computes 1100 - 200 = 900 mm and explains step-on datum and limited curb exceptions."
+          },
+          {
+            "assertion": "Identifies platform/climbability and loading implications without assuming approval",
+            "result": "pass",
+            "evidence": "Includes platform loading, climbability, drainage/waterproofing; refuses construction instructions."
+          },
+          {
+            "assertion": "Routes AP/RSE and estate/approval review without supplying an unsupported structural design",
+            "result": "fail",
+            "evidence": "AP/RSE and approval review covered, but estate/management requirements omitted."
+          }
+        ],
+        "response": "case-46.response.md",
+        "sha256": "5cd48e141f1fd1b53a3c7a0de02d08b82afdaca1cfb7229950918184462bff45",
+        "routing": "fail",
+        "routing_evidence": "Statutory loaded; expected interface module absent from read trace."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Checks effective height from the relevant finished/adjoining step-on surface, not original slab alone",
+              "result": "pass",
+              "evidence": "900 mm effective height from platform; finished datum confirmed."
+            },
+            {
+              "assertion": "Identifies platform/climbability and loading implications without assuming approval",
+              "result": "pass",
+              "evidence": "Step-on/climbing geometry, loading, drainage and barrier load path reviewed."
+            },
+            {
+              "assertion": "Routes AP/RSE and estate/approval review without supplying an unsupported structural design",
+              "result": "pass",
+              "evidence": "AP/RSE and separate estate/statutory review; no unsupported extension design."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Statutory and interface read; thickness module also read.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "response": "case-46.frozen-1.md",
+          "sha256": "7a95ac7c22d21357ed75022798430ec66f61836fe2e25b9c8c507f7ac89308cb"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "slug": "hk-room-subdivision-daylight",
+      "expected_route": "Statutory + lighting + MEP",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Separates borrowed light and cooling from proof of compliant natural lighting/ventilation",
+            "result": "pass",
+            "evidence": "Separates borrowed light/split cooling from compliant windows and ventilation."
+          },
+          {
+            "assertion": "Requests approved plans, proposed uses, opening/obstruction data and relevant professional assessment",
+            "result": "pass",
+            "evidence": "Requests measured plans, approved records, room use, openings and obstructions."
+          },
+          {
+            "assertion": "Explains any alternative approval route without claiming that a rendering or AC establishes compliance",
+            "result": "pass",
+            "evidence": "Explains APP-130 AP-led alternative without automatic exemption."
+          }
+        ],
+        "response": "case-47.response.md",
+        "sha256": "b1a3172cd9ed8f46be5a71765fc2e1ae3decdfb48b11f0344927cf5d58b4aa4e",
+        "routing": "fail",
+        "routing_evidence": "Statutory read; expected lighting and MEP modules not loaded."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Separates borrowed light and cooling from proof of compliant natural lighting/ventilation",
+              "result": "pass",
+              "evidence": "Borrowed light and recirculating split AC not compliant window/ventilation evidence."
+            },
+            {
+              "assertion": "Requests approved plans, proposed uses, opening/obstruction data and relevant professional assessment",
+              "result": "pass",
+              "evidence": "Approved/measured plans, uses, window areas/external obstruction and AP assessment."
+            },
+            {
+              "assertion": "Explains any alternative approval route without claiming that a rendering or AC establishes compliance",
+              "result": "pass",
+              "evidence": "APP130 scoped alternative route; construction hold with lawful alternatives."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Statutory, lighting, MEP and fire read and applied.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "response": "case-47.frozen-1.md",
+          "sha256": "8b075773160a3b8b701ee8ab1924edec2851a33b8d7c9c4149b11c516db1222e"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "slug": "hk-energy-phased-positive",
+      "expected_route": "Sustainability + MEP + statutory as needed",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Considers aggregation and project/unit boundaries rather than treating each phase independently",
+            "result": "pass",
+            "evidence": "Aggregates 300+250=550 m2 within 12 months."
+          },
+          {
+            "assertion": "Obtains installation power/scope and applicable code conditions before declaring the trigger met",
+            "result": "pass",
+            "evidence": "Checks circuit wattage, replacement proportion and rewiring before final classification."
+          },
+          {
+            "assertion": "Routes to MEP and REA; distinguishes screening from a final compliance decision",
+            "result": "fail",
+            "evidence": "REA review supplied, but MEP coordination/module absent."
+          }
+        ],
+        "response": "case-48.response.md",
+        "sha256": "f8fc90764b5341582d0b2b049c42e6cf849e5476d112787406aa86e8c4205caa",
+        "routing": "fail",
+        "routing_evidence": "Trace reads statutory only; sustainability and MEP missing."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Considers aggregation and project/unit boundaries rather than treating each phase independently",
+              "result": "pass",
+              "evidence": "Aggregates 550 m2 within eight months with boundary/overlap checks."
+            },
+            {
+              "assertion": "Obtains installation power/scope and applicable code conditions before declaring the trigger met",
+              "result": "pass",
+              "evidence": "Requires circuit wattage, replacement proportion and rewiring before final decision."
+            },
+            {
+              "assertion": "Routes to MEP and REA; distinguishes screening from a final compliance decision",
+              "result": "pass",
+              "evidence": "MEP module applied to lighting scope; REA assessment, screening not approval."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Sustainability, MEP and statutory read.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "response": "case-48.frozen-1.md",
+          "sha256": "91639f654d4f66aaa6456be4fe6ff5a9f753f3424a5b3625f5dfa9b0d658583e"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "slug": "hk-electrical-grace-boundary",
+      "expected_route": "MEP + statutory",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Applies both completion and connection conditions and the inclusive deadline",
+            "result": "pass",
+            "evidence": "Both completion and connection by inclusive deadline."
+          },
+          {
+            "assertion": "Distinguishes A potentially meeting the grace condition from B missing it without certifying either installation",
+            "result": "pass",
+            "evidence": "A conditional eligibility; B outside grace without declaring technical noncompliance."
+          },
+          {
+            "assertion": "Uses the relevant historical notice rather than silently replacing the audit question with current new-work rules",
+            "result": "pass",
+            "evidence": "Historical published provision and indexed EMSD Code 1 used."
+          }
+        ],
+        "response": "case-49.response.md",
+        "sha256": "480020033ccb2ca1968261ae51911af40cacfa3343bffbc126cdfa27e7f6726b",
+        "routing": "fail",
+        "routing_evidence": "Statutory loaded, MEP omitted."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Applies both completion and connection conditions and the inclusive deadline",
+              "result": "pass",
+              "evidence": "Both completion and connection on/before inclusive deadline."
+            },
+            {
+              "assertion": "Distinguishes A potentially meeting the grace condition from B missing it without certifying either installation",
+              "result": "pass",
+              "evidence": "A conditionally eligible, B outside grace without declaring technical failure."
+            },
+            {
+              "assertion": "Uses the relevant historical notice rather than silently replacing the audit question with current new-work rules",
+              "result": "pass",
+              "evidence": "Historical transition notice and Code1 retained."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "MEP and statutory read.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "response": "case-49.frozen-1.md",
+          "sha256": "d940ed5f3b660f05af98baecd93aa005b7584e177311fa848fc07d4bbc096703"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "slug": "hk-fire-assembly-substitution",
+      "expected_route": "Fire + procurement + interface",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Does not equate a leaf rating or overseas label with an accepted complete assembly",
+            "result": "pass",
+            "evidence": "Rejects leaf-only rating and unsupported US equivalence."
+          },
+          {
+            "assertion": "Checks applicable test/acceptance basis and frame, hardware, seals and installation scope",
+            "result": "pass",
+            "evidence": "Assembly evidence covers frame, seals, hardware, wall and installation."
+          },
+          {
+            "assertion": "Requires documented specialist/approval review before substitution and records procurement consequences",
+            "result": "pass",
+            "evidence": "Specialist/AP approval, alternative sourcing, programme and schedule consequences."
+          }
+        ],
+        "response": "case-50.response.md",
+        "sha256": "bf682eea2794852d2d87dab6e5133e03acbe29ab1aaf76eda8cd1c8e4b833248",
+        "routing": "fail",
+        "routing_evidence": "Fire and procurement loaded; interface missing."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Does not equate a leaf rating or overseas label with an accepted complete assembly",
+              "result": "pass",
+              "evidence": "No leaf-rating equivalence; overseas certificate neither automatic acceptance nor rejection."
+            },
+            {
+              "assertion": "Checks applicable test/acceptance basis and frame, hardware, seals and installation scope",
+              "result": "pass",
+              "evidence": "Exact doorset and wall, seals, hardware, clearances and test coverage."
+            },
+            {
+              "assertion": "Requires documented specialist/approval review before substitution and records procurement consequences",
+              "result": "pass",
+              "evidence": "Specialist/AP route, procurement alternatives, costs/programme and records."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Fire, procurement and interface read; statutory and VE also read.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "response": "case-50.frozen-1.md",
+          "sha256": "eb8b4c46aa0cbd1d1d21ac141fd8b3348b965e67f31a7761fcac0d2e9ba55f82"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "slug": "concept-deliverable-positive",
+      "expected_route": "Design research + spatial composition + anthropometrics",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Produces two useful conditional arrangements with an explicit assumption/missing-opening-data record",
+            "result": "pass",
+            "evidence": "Two conditional alternatives, missing openings explicitly recorded."
+          },
+          {
+            "assertion": "Compares activity zones, occupied furniture envelopes, circulation and future change",
+            "result": "pass",
+            "evidence": "Occupied dining/desk envelopes, routes and future flexibility compared."
+          },
+          {
+            "assertion": "Uses spatial hierarchy/section considerations and decision criteria, without fabricating a measured final layout or unnecessarily halting all concept work",
+            "result": "fail",
+            "evidence": "Decision criteria supplied but no section/vertical hierarchy review."
+          }
+        ],
+        "response": "case-51.response.md",
+        "sha256": "bfe5add63c93410792d286c8c47e9b3f18113df3505e423a5d48c4da63248640",
+        "routing": "fail",
+        "routing_evidence": "Research and anthropometrics loaded; spatial composition missing."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Produces two useful conditional arrangements with an explicit assumption/missing-opening-data record",
+              "result": "pass",
+              "evidence": "Two provisional fitted/movable arrangements with unknown openings/heights recorded."
+            },
+            {
+              "assertion": "Compares activity zones, occupied furniture envelopes, circulation and future change",
+              "result": "pass",
+              "evidence": "Occupied dining, desk, route and changed-use tests; tight fits explicitly conditional."
+            },
+            {
+              "assertion": "Uses spatial hierarchy/section considerations and decision criteria, without fabricating a measured final layout or unnecessarily halting all concept work",
+              "result": "pass",
+              "evidence": "Section diagram, seated/standing sightlines, hierarchy and option criteria; no invented final fit."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Research, spatial and anthropometrics loaded; furnishings/millwork also read.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "response": "case-51.frozen-1.md",
+          "sha256": "21b7ac626f1a06ff84153a3583209b135ad877c67e0a12da0c56320d052e40be"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "slug": "window-treatment-coordination",
+      "expected_route": "Furnishings + procurement + millwork/MEP as needed",
+      "baseline": {
+        "status": "pass",
+        "assertions": [
+          {
+            "assertion": "Produces a usable brief/schedule rather than only a warning",
+            "result": "pass",
+            "evidence": "Usable provisional brief and options."
+          },
+          {
+            "assertion": "Covers sash/handle movement, wardrobe clearance, stack/head/side gaps and controls",
+            "result": "pass",
+            "evidence": "Sash, handles, wardrobe, stacks and light paths coordinated."
+          },
+          {
+            "assertion": "Records power, access, maintenance, samples and site measurements; does not promise blackout from fabric alone",
+            "result": "pass",
+            "evidence": "Motor power, access, samples and site survey; fabric alone not blackout."
+          }
+        ],
+        "response": "case-52.response.md",
+        "sha256": "3e9916aee60f4316f43aa20c6a5656a7980a35d01d67c340683d4eb161e5399c",
+        "routing": "pass",
+        "routing_evidence": "Furnishings, procurement, millwork and anthropometrics loaded; electrical installer coordination provided."
+      },
+      "retests": []
+    },
+    {
+      "id": 53,
+      "slug": "acoustic-system-distinction",
+      "expected_route": "Acoustics + procurement + interface",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Separates room absorption/reverberation from sound transmission and speech privacy",
+            "result": "pass",
+            "evidence": "Separates room absorption from enclosure transmission/privacy."
+          },
+          {
+            "assertion": "Does not numerically compare unlike metrics or treat STC and Rw as automatically interchangeable",
+            "result": "pass",
+            "evidence": "No unlike numerical comparison or STC/Rw equivalence asserted."
+          },
+          {
+            "assertion": "Identifies flanking paths, doors/services, actual assembly/test basis and project targets before selection",
+            "result": "pass",
+            "evidence": "Checks flanking, doors, ducts, exact assembly and room privacy target."
+          }
+        ],
+        "response": "case-53.response.md",
+        "sha256": "62617404608046c58555c1aa07ed6859b4537e7c224e5165de55e9461f773567",
+        "routing": "fail",
+        "routing_evidence": "Acoustics loaded; procurement and interface omitted."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Separates room absorption/reverberation from sound transmission and speech privacy",
+              "result": "pass",
+              "evidence": "NRC absorption vs STC transmission/privacy clearly separated."
+            },
+            {
+              "assertion": "Does not numerically compare unlike metrics or treat STC and Rw as automatically interchangeable",
+              "result": "pass",
+              "evidence": "Rejects numerical comparison and explicit STC/Rw interchangeability."
+            },
+            {
+              "assertion": "Identifies flanking paths, doors/services, actual assembly/test basis and project targets before selection",
+              "result": "pass",
+              "evidence": "Whole enclosure, flanking, actual test assembly and privacy criterion requested."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Acoustic, procurement and interface read and applied.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "response": "case-53.frozen-1.md",
+          "sha256": "42b5fbc35ceec7fc8c77c687fb2d9a994f229c6f70e5364c53a82f222cb48cb9"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "slug": "lighting-maintained-target",
+      "expected_route": "Lighting + procurement/MEP",
+      "baseline": {
+        "status": "fail",
+        "assertions": [
+          {
+            "assertion": "Distinguishes initial from maintained illuminance and checks the stated maintenance-factor basis without double-counting factors",
+            "result": "pass",
+            "evidence": "Defines maintained=initial times total MF; explicitly avoids double counting."
+          },
+          {
+            "assertion": "Checks glare, uniformity, task arrangement, controls/daylight and actual photometric evidence",
+            "result": "pass",
+            "evidence": "Requests glare, uniformity, task/screen positions, controls and photometry."
+          },
+          {
+            "assertion": "Requests missing inputs instead of inventing a compliant calculation or treating lux alone as comfort",
+            "result": "pass",
+            "evidence": "No assumed MF or compliant calculation."
+          }
+        ],
+        "response": "case-54.response.md",
+        "sha256": "f62219cace78fa11382ec98c67d34d23bd0a9d17a24e71302d9ac3b536f05a0f",
+        "routing": "fail",
+        "routing_evidence": "Lighting loaded; procurement/MEP omitted."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Distinguishes initial from maintained illuminance and checks the stated maintenance-factor basis without double-counting factors",
+              "result": "pass",
+              "evidence": "Single overall MF; explicitly rejects double counting and unsupported initial-to-maintained claim."
+            },
+            {
+              "assertion": "Checks glare, uniformity, task arrangement, controls/daylight and actual photometric evidence",
+              "result": "pass",
+              "evidence": "Uniformity, glare, screens, daylight, controls and exact photometry requested."
+            },
+            {
+              "assertion": "Requests missing inputs instead of inventing a compliant calculation or treating lux alone as comfort",
+              "result": "pass",
+              "evidence": "No invented factors; evidence review pending project criteria."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Lighting, procurement and MEP read; helper inspection exposed duplicate-factor defect for correction.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "purpose": "retest",
+          "response": "case-54.frozen-1.md",
+          "sha256": "11253ca903e7c08ce57b732b74c65eda85b93b3d3d74adbc9815283933f28d70"
+        },
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Distinguishes initial from maintained illuminance and checks the stated maintenance-factor basis without double-counting factors",
+              "result": "pass",
+              "evidence": "Correct single overall MF relationship; no overlapping losses."
+            },
+            {
+              "assertion": "Checks glare, uniformity, task arrangement, controls/daylight and actual photometric evidence",
+              "result": "pass",
+              "evidence": "Glare, uniformity, task/screen positions, controls/daylight and actual photometry."
+            },
+            {
+              "assertion": "Requests missing inputs instead of inventing a compliant calculation or treating lux alone as comfort",
+              "result": "pass",
+              "evidence": "No invented factor or result; asks evidence before accepting claims."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Lighting, procurement and MEP read and applied.",
+          "snapshot": "final-manifest.json",
+          "cycle": 2,
+          "purpose": "helper_correction_retest",
+          "response": "case-54.frozen-2.md",
+          "sha256": "ffb1d373aba8c086e6585f202b00717001dba0a9f1d150e029f56aab8ab13067"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "slug": "general-question-no-overblocking",
+      "expected_route": "Foundation/shared reference",
+      "baseline": {
+        "status": "pass",
+        "assertions": [
+          {
+            "assertion": "Answers the actual educational question correctly and concisely",
+            "result": "pass",
+            "evidence": "Correct concise definitions and examples."
+          },
+          {
+            "assertion": "Does not halt for missing occupancy, jurisdiction or drawing scale",
+            "result": "pass",
+            "evidence": "No occupancy/jurisdiction/scale halt."
+          },
+          {
+            "assertion": "Does not route unnecessarily into code checks or present universal colour-emotion guarantees",
+            "result": "pass",
+            "evidence": "Shared colour reference; no code checks or emotion guarantees."
+          }
+        ],
+        "response": "case-55.response.md",
+        "sha256": "3f3c0198e9593b1271ac904ed89ae3958431a81aa220940a5d5f1bff2677bba4",
+        "routing": "pass",
+        "routing_evidence": "Foundation/shared composition and education resources."
+      },
+      "retests": [
+        {
+          "status": "pass",
+          "assertions": [
+            {
+              "assertion": "Answers the actual educational question correctly and concisely",
+              "result": "pass",
+              "evidence": "Concise correct definitions and examples."
+            },
+            {
+              "assertion": "Does not halt for missing occupancy, jurisdiction or drawing scale",
+              "result": "pass",
+              "evidence": "No project input halt."
+            },
+            {
+              "assertion": "Does not route unnecessarily into code checks or present universal colour-emotion guarantees",
+              "result": "pass",
+              "evidence": "No unnecessary code route or emotion guarantees."
+            }
+          ],
+          "routing": "pass",
+          "routing_evidence": "Shared composition and education references; proportional educational response.",
+          "snapshot": "retest-manifest.json",
+          "cycle": 1,
+          "purpose": "positive_control",
+          "response": "case-55.frozen-1.md",
+          "sha256": "6843b4e0d4808d7cc10de81b90060631474d3333f36f766587a55644dcd8c689"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "slug": "source-failure-contained",
+      "expected_route": "Statutory + operational source handling",
+      "baseline": {
+        "status": "pass",
+        "assertions": [
+          {
+            "assertion": "Labels archived information and does not claim a live check succeeded",
+            "result": "pass",
+            "evidence": "Archive date is provenance; excerpt not supplied; no live verification claimed."
+          },
+          {
+            "assertion": "Separates transferable planning advice from current status/dimension verification",
+            "result": "pass",
+            "evidence": "Concept targets separated from frozen compliance-critical dimensions and current legal status."
+          },
+          {
+            "assertion": "Identifies specific unresolved source/application checks and a recovery path without blocking unrelated conceptual work",
+            "result": "pass",
+            "evidence": "AP/BD current copy, legislation/amendments and project scope review; unrelated concept continues."
+          }
+        ],
+        "response": "case-56.response.md",
+        "sha256": "874d1c51b79e9df9bdf9efb2d81943c80bedd93548eec6b07747f0d2e2263999",
+        "routing": "pass",
+        "routing_evidence": "Statutory and operational source handling read."
+      },
+      "retests": []
+    }
+  ],
+  "excluded_executions": [
+    {
+      "id": 46,
+      "response": "case-46.retest-1.md",
+      "reason": "Concurrent shared-resource changes during execution; retained, not counted.",
+      "sha256": "f246b5b93c61166cd72b25c3bf2dc539e54b75642b4a77fdf9c1294dd2928c86"
+    },
+    {
+      "id": 47,
+      "response": "case-47.retest-1.md",
+      "reason": "Concurrent shared-resource changes during execution; retained, not counted.",
+      "sha256": "f6f7079a21a45a9473d19e1336f71af746de377a0fadebdea88ae5f7ba4b1c43"
+    },
+    {
+      "id": 48,
+      "response": "case-48.retest-1.md",
+      "reason": "Concurrent shared-resource changes during execution; retained, not counted.",
+      "sha256": "2e7675a718fa0b4c69ccc0ee87e7b3e3a9aaf914ac13e01ecdc2d18e295d25aa"
+    }
+  ],
+  "regressions": [
+    {
+      "id": 44,
+      "slug": "ching-hk-green-and-iaq",
+      "status": "pass",
+      "response": "case-44.frozen-2.md",
+      "sha256": "a7341d41a7c2fdcb99c9b0ffbda8c71c59718e8722e06257c204f837c7ea72f7",
+      "snapshot": "final-manifest.json",
+      "routing": "pass",
+      "routing_evidence": "Sustainability, MEP, statutory and HK adaptation read.",
+      "assertions": [
+        {
+          "assertion": "Uses the appropriate residential/non-residential BEAM Plus Interiors manual with actual evidence rather than point conversion",
+          "result": "pass",
+          "evidence": "Residential Interiors v2.0 manual and credit evidence, no converted LEED points."
+        },
+        {
+          "assertion": "Explains the IAQ scheme eligibility and rejects automatic certification for a split-only home",
+          "result": "pass",
+          "evidence": "Split-only home ineligible; no agent certification."
+        },
+        {
+          "assertion": "Distinguishes area-related retrofits from other applicable routes including central services and phased works",
+          "result": "pass",
+          "evidence": "Area route, central services and 12-month aggregation separated."
+        },
+        {
+          "assertion": "Separates voluntary certification from statutory duties",
+          "result": "pass",
+          "evidence": "Voluntary scheme, statutory and client targets explicitly separate."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "planned_scenarios": 18,
+    "baseline_scenario_passes": 6,
+    "baseline_content_passes": 55,
+    "baseline_content_total": 61,
+    "baseline_route_passes": 8,
+    "final_scenario_passes": 18,
+    "final_content_passes": 61,
+    "final_content_total": 61,
+    "final_route_passes": 18,
+    "additional_prior_suite_regression": 44,
+    "additional_regression_passes": 1,
+    "executions_total": 37,
+    "excluded_for_version_drift": 3,
+    "graded_executions": 34
+  }
+}
