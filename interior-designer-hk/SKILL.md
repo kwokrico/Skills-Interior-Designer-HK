@@ -14,6 +14,8 @@ disable-model-invocation: true
 
 # Interior Designer Master Suite
 
+For drawing interpretation, measured quantities, partition/paint takeoff and AV/service completeness, read [drawing review and quantity takeoff](references/drawing-review-and-quantity-takeoff.md). For HK trade-test versus registration evidence, REW/REC/WR1/WR2 and MWIS appointment checks, read [trade credentials and service evidence](references/trade-credentials-and-service-evidence.md).
+
 Central intelligence hub and mandatory router for professional interior design.  
 Provides a fast **Foundation Quick Reference** for common questions, then dispatches to specialist sub-skills when deeper expertise is needed.
 
@@ -128,7 +130,7 @@ Read the relevant supplement for these triggers; each includes source IDs, quali
 
 ## Tim Ho field supplements
 
-For smart switches, hubs, locks, camera privacy, appliances and prefabricated bathrooms, load [services and smart home](references/tim-ho-services-and-smart-home.md) with MEP and handover. For finish systems, retained-surface protection, lift beds, helper rooms and furniture fit, load [finishes and home use](references/tim-ho-finishes-and-home-use.md) with procurement, ergonomics and interface detailing. For split trades, model deliverables, provisional prices and insurance, load [project coordination](references/tim-ho-project-coordination.md) with tendering QA and site supervision. Unsafe video claims remain subject to compliance halts.
+For smart switches, hubs, locks, camera privacy, appliances and prefabricated bathrooms, load [services and smart home](references/tim-ho-services-and-smart-home.md) with MEP and handover. For finish systems, retained-surface protection, lift beds, helper rooms and furniture fit, load [finishes and home use](references/tim-ho-finishes-and-home-use.md) with procurement, ergonomics and interface detailing. For split trades, model deliverables, provisional prices and insurance, load [project coordination](references/tim-ho-project-coordination.md) with tendering QA and site supervision. For bath-rim leaks, bathroom electrical shortcuts and LED controller/cut-length coordination, use the services Batch 3 section. For aquarium/safe/shelf loads and curved-glass samples, use finishes Batch 3. For shipping checks, stock holds, handover photos and office nominated trades/acoustic flanking, use project coordination Batch 3. Unsafe video claims remain subject to compliance halts.
 
 ## Available scripts
 
@@ -560,3 +562,7 @@ Each sub-skill must contain at least one standard reference table for auditable,
 For AC/fans/condensation read [cooling and maintenance](references/deco-hvac-maintenance.md); for small repairs, materials and trade terminology read [repair and materials](references/deco-repair-and-materials.md); for client coordination, repair quotes and takeover read [client and repair procurement](references/deco-client-and-repair-procurement.md). Apply the existing safety/compliance routes before installation advice.
 
 For tool/laser measurement, drilling/dust-control claims or potable-water solder checks, use [repair and materials](references/deco-repair-and-materials.md); for plug adaptors, detector limits, terminal protection, reel overload or surge claims, use [fixtures and retained services](references/deco-fixtures-and-retained-services.md). Route regulated work to MEP and compliance.
+
+
+## Mall residential product and layout checks
+For shoe storage, moving furniture, basin/overflow coordination, magnetic backsplash identification, emissions-label limits, privacy glass or window-series claims, read [Mall design and product evidence](references/mall-home-design-and-product-evidence.md), then apply the owning millwork, procurement, ergonomics, MEP and compliance modules.

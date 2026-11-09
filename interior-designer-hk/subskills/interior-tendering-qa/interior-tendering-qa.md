@@ -9,6 +9,8 @@ disable-model-invocation: true
 
 # interior-tendering-qa
 
+For drawing-based quantities and comparable scope, read [drawing review and quantity takeoff](../../references/drawing-review-and-quantity-takeoff.md). For trade appointment evidence, read [trade credentials](../../references/trade-credentials-and-service-evidence.md).
+
 For DECO-TV residential cooling/fan maintenance, small-repair compatibility or client/repair procurement questions relevant to this module, read [the applicable field supplement](../../references/deco-client-and-repair-procurement.md). Treat demonstrations as conditional observations; obtain actual system and contract evidence.
 
 For pricing basic versus specialist cleaning, completion/partial handover, factory replacement dates and snag holdback/release, also read [residential closeout agreements](../interior-handover-dlp/references/residential-closeout-agreements.md). Negotiate the actual scope and deadlines; a video's 30-day suggestion does not override signed terms.

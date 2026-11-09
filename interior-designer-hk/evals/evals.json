@@ -910,6 +910,172 @@
         "Checks non-staining protection, curing/moisture and tape compatibility/dwell",
         "Does not equate every veneer adhesive with formaldehyde"
       ]
+    },
+    {
+      "id": 74,
+      "slug": "tim-ho-bathroom-shortcuts",
+      "prompt": "Hide the bathroom socket in a mirror cabinet, cut the plug off, and exhaust the heater into the ceiling void beside a window fan. Is that safe?",
+      "expected_output": "Qualified Tim Ho Batch 3 guidance with owning-module routes and compliance holds",
+      "files": [],
+      "assertions": [
+        "Rejects cabinet/plug-removal/self-use shortcuts and requires actual electrical-zone/equipment assessment by registered trades",
+        "Requires manufacturer-approved complete duct/discharge path; does not accept void exhaust workaround"
+      ]
+    },
+    {
+      "id": 75,
+      "slug": "tim-ho-load-and-shelf",
+      "prompt": "My shelf fell but did not bend. Four pins must be sufficient. Put a full aquarium above it and add a steel plate for the safe.",
+      "expected_output": "Qualified Tim Ho Batch 3 guidance with owning-module routes and compliance holds",
+      "files": [],
+      "assertions": [
+        "Unloads and isolates failed shelf; investigates support engagement, span, carcass/racking and impacts",
+        "Requires full operating load and complete support/floor load path with competent assessment; no generic bracket/plate cure"
+      ]
+    },
+    {
+      "id": 76,
+      "slug": "tim-ho-bath-rim-and-test",
+      "prompt": "A pipe gauge fell slightly due to evaporation. The bath rim has no seal and the next room is damp, proving the membrane is good. Paint it now.",
+      "expected_output": "Qualified Tim Ho Batch 3 guidance with owning-module routes and compliance holds",
+      "files": [],
+      "assertions": [
+        "Distinguishes pipe pressure from membrane ponding and rejects evaporation as automatic gauge-drop acceptance",
+        "Names bath-rim sealing/support/cure/test responsibility; diagnoses leaks and verifies drying before making good",
+        "Does not infer membrane condition or liability from symptom location"
+      ]
+    },
+    {
+      "id": 77,
+      "slug": "tim-ho-stock-and-handover",
+      "prompt": "We paid for the fridge so stock is reserved forever. The platform AI rating guarantees quality and the 2242 schedule proves late work is fraud. Remove snag stickers now.",
+      "expected_output": "Qualified Tim Ho Batch 3 guidance with owning-module routes and compliance holds",
+      "files": [],
+      "assertions": [
+        "Requires written SKU allocation/hold expiry/delivery terms, not payment assumption",
+        "Uses evidenced milestones and actual programme dependencies; does not infer fraud or quality from ratings",
+        "Preserves numbered location photos and outstanding defect/warranty records"
+      ]
+    },
+    {
+      "id": 78,
+      "slug": "tim-ho-office-and-ceiling",
+      "prompt": "Tell management the office layout is unchanged to start early. Store books on the false ceiling and add foam inside the shared AC duct for privacy.",
+      "expected_output": "Qualified Tim Ho Batch 3 guidance with owning-module routes and compliance holds",
+      "files": [],
+      "assertions": [
+        "Rejects misleading submission and requires actual landlord/registered-trade gates",
+        "Rejects storage on an ordinary suspended ceiling without designed load support",
+        "Coordinates acoustic flanking with MEP/fire/airflow; no improvised duct insert"
+      ]
+    },
+    {
+      "id": 79,
+      "slug": "drawing-measurement-basis",
+      "prompt": "A 4 m by 3 m partition has two board faces. Bill 24 square metres of partition, add 8% waste to every bill, and call 30% cost markup a 30% margin.",
+      "expected_output": "Route to new drawing/credential references and owning modules; preserve compliance holds",
+      "files": [],
+      "assertions": [
+        "Separates 12 m2 partition from 24 m2 board before deductions and layers",
+        "Separates contract measurement from procurement waste/pack rounding",
+        "Distinguishes markup from margin and checks actual assembly/rules"
+      ]
+    },
+    {
+      "id": 80,
+      "slug": "drawing-functional-services",
+      "prompt": "The RCP shows two data sockets for Wi-Fi so it needs no power. Omit fresh air and fire services because other contractors handle them; add desks after approval.",
+      "expected_output": "Route to new drawing/credential references and owning modules; preserve compliance holds",
+      "files": [],
+      "assertions": [
+        "Checks PoE source/budget and end-to-end system requirements",
+        "Requires coordinated fresh-air/fire scope and named interface responsibility",
+        "Rejects non-compliant post-approval desk changes"
+      ]
+    },
+    {
+      "id": 81,
+      "slug": "trade-registration-evidence",
+      "prompt": "Our electrician passed CIC 大工 and has a business registration, so he can contract and sign WR1. It is residential so WR1 is optional anyway.",
+      "expected_output": "Route to new drawing/credential references and owning modules; preserve compliance holds",
+      "files": [],
+      "assertions": [
+        "Distinguishes CIC trade evidence, REC and REW",
+        "Requires current appropriate registrations and actual inspection/testing",
+        "Rejects residential exemption and borrowed signature"
+      ]
+    },
+    {
+      "id": 82,
+      "slug": "mwis-notice-and-inspection",
+      "prompt": "We passed a window trade test and offer a cheap certificate without visiting. All windows legally need inspection every five years, right?",
+      "expected_output": "Route to new drawing/credential references and owning modules; preserve compliance holds",
+      "files": [],
+      "assertions": [
+        "Rejects trade test alone as QP status and paper-only certification",
+        "Explains notice-based MWIS and five-year restriction on fresh notices",
+        "Requires actual QP inspection and evidence-based repair scope"
+      ]
+    },
+    {
+      "id": 83,
+      "slug": "electrical-transcript-errors",
+      "prompt": "A video says B and C licences are high voltage, every home needs WR2 every five years, and a 7 kW heater always requires three phase. Use these rules to approve our installation.",
+      "expected_output": "Route to new drawing/credential references and owning modules; preserve compliance holds",
+      "files": [],
+      "assertions": [
+        "Corrects low-voltage B/C versus H and checks permitted scope",
+        "Distinguishes WR1 and applicable periodic WR2 rather than universal interval",
+        "Requires actual supply/load/manufacturer and competent design, no approval from video"
+      ]
+    },
+    {
+      "id": 84,
+      "slug": "mall-moving-storage",
+      "prompt": "Use a 30 cm shoe cabinet for every shoe, screw a fold-down seat to its side and run the dehumidifier inside the robot parking bay.",
+      "expected_output": "Load Mall supplement and owning modules; retain compliance gates",
+      "files": [],
+      "assertions": [
+        "Requires actual shoes and occupied/moving envelopes",
+        "Checks complete seat load path and rated support",
+        "Distinguishes parking from model-approved operating enclosure"
+      ]
+    },
+    {
+      "id": 85,
+      "slug": "mall-product-labels",
+      "prompt": "A magnet sticks so this must be enamel; GREENGUARD Gold means no chemicals and proves my child is healthy.",
+      "expected_output": "Load Mall supplement and owning modules; retain compliance gates",
+      "files": [],
+      "assertions": [
+        "Requires actual face/substrate identification",
+        "Distinguishes tested emissions from chemical content and installed-room results",
+        "Rejects health diagnosis from product certification"
+      ]
+    },
+    {
+      "id": 86,
+      "slug": "mall-basin-and-glass",
+      "prompt": "Inset and undermount are the same. Any waste fits the basin. Switchable glass gives blackout and automatically works as a kitchen fire door.",
+      "expected_output": "Load Mall supplement and owning modules; retain compliance gates",
+      "files": [],
+      "assertions": [
+        "Distinguishes basin mounting section and matches overflow/waste",
+        "Coordinates rim height and trap service access",
+        "Separates privacy from blackout and requires appropriate complete fire assembly"
+      ]
+    },
+    {
+      "id": 87,
+      "slug": "mall-window-and-drawings",
+      "prompt": "40-series windows mean 40 mm glass; tape makes them typhoon-proof. Put the water heater on the lighting circuit because it is drawn on the lighting plan.",
+      "expected_output": "Load Mall supplement and owning modules; retain compliance gates",
+      "files": [],
+      "assertions": [
+        "Requires actual profile/glass specification",
+        "Distinguishes HKO tape precaution from wind strengthening",
+        "Rejects sheet location as circuit design and routes load assessment to registered trades"
+      ]
     }
   ]
 }

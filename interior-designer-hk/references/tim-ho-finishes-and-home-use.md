@@ -1,5 +1,24 @@
 # Tim Ho: finish evidence and everyday use
 
+## Batch 3: loads, samples and maintainability
+
+[2026-11-09 audit](../../Reference/TIM-HO-BATCH3-COVERAGE-2026-11-09.md); indices below use that manifest.
+
+| Interface | Additional decision before release |
+|---|---|
+| Aquarium, safe, wall cabinet and adjustable shelf (36, 76, 87, 198) | Calculate the actual full operating/stored load and load path through shelves, supports, carcass, anchors and floor; obtain competent structural assessment where needed. Recessed plinths are a visual effect, not proof of floating-load capacity. After a shelf falls/sags, unload and isolate it; inspect support engagement, span, racking and adjacent-door impacts before repair. Neither four pins nor an unbent shelf proves adequate capacity; do not prescribe generic angle brackets or a steel plate as a cure. |
+| Curved/display glass and finishes (19, 62, 198) | Approve a representative full-size curvature/optical sample under intended lighting; confirm manufacturer radius, thickness, heat treatment/lamination, support and edge details. Match adjoining laminate curvature and edge colour to the approved face sample. No universal R300 or claim that all patterned glass cannot be safety treated. Trial IR controls through actual display glass, alongside equipment ventilation. |
+| Usable cabinet and bed volume (87, 112, 120, 156, 198, 205) | Trial reach, WC elbow/shoulder space, vanity projection and door/drawer swings with actual users. Measure net storage after ducts, tracks, hardware and pull-out mirrors, not exterior volume. Loose bed lids need somewhere to park both lids and mattress. Check actual lift mechanism retention, isolation and failure/manual-release instructions; unplugging does not guarantee safe release. Wardrobe heaters require manufacturer clearances and electrical design; a partition gap does not guarantee humidity control. |
+| Ceiling/cove/pelmet (8, 166) | Coordinate support, moisture-appropriate system, access-panel opening/removal envelope and independently supported fixtures/tracks. Moisture-resistant board is not waterproof. Do not store objects on an ordinary suspended ceiling or assume it can support a cabinet. Detail cabinet/ceiling replacement interfaces and finish scope above the ceiling; no universal 100/150/200 mm void. |
+| Paint, texture and grout (12, 28, 74, 131, 143) | Agree a sufficiently large texture/colour mock-up and viewing light, product/batch, coverage and repair method. Define the stripping target layer from a surveyed trial patch; retain only sound compatible layers. Regrouting needs diagnosis, removal/preparation to the named product requirements and protection of waterproofing, not a cosmetic skim. Record leftover paint identity/storage limits without promising invisible touch-ups. |
+| Floor and tile (53, 71, 100, 115, 165) | Distinguish condensation from leakage/substrate moisture before prescribing films or overlays. Specify underlayment versus exposed wearing surface. Check actual batch flatness/warpage, layout/cuts and spare stock; do not impose a 600 mm bathroom tile maximum or infer quality from origin. Door trimming must be permitted by the actual doorset and preserve its rating; reseal exposed edges where the approved method requires. |
+| Curtain care (106) | Confirm installed blackout at edges as well as fabric performance. Obtain fabric/coating cleaning, shrinkage and drying instructions, removal access and maintenance responsibility; no blanket washable or waterproof claim. |
+
+Board emissions class does not establish moisture resistance, strength, origin or zero emissions (42, 85). Prefer traceable product/assembly evidence to lighter, coin or smell demonstrations. Cultural sources (0, 8, 17, 59, 68, 83, 119, 123, 151, 168) may inform preferences only: do not attribute illness/fortune to forms or colours, loosen electrical faceplates for rituals, or treat cardboard as fire protection.
+
+Mezzanines/lofts (98) require assessment of the actual classification, loads, headroom, fire/escape and approval route. Timber, prefabrication or the label 'furniture' is not an exemption or proof of a 200 kg capacity. Halt unapproved structural work and refer to the appropriate AP/RSE under [BD guidance](https://www.bd.gov.hk/en/safety-inspection/ubw/index.html).
+
+
 Use with procurement, millwork, interface detailing, ergonomics and sustainability. [Coverage audit and archived sources](../../Reference/TIM-HO-BATCH1-COVERAGE-2026-11-08.md) record zero-based source indices. These are qualified field prompts, not tested product specifications.
 
 ## Specify the assembly, not the marketing name

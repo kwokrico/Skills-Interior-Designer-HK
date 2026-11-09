@@ -151,3 +151,6 @@ For feature finishes, overlays, skirting, flooring/cleaning demonstrations or fl
 ## Tim Ho field review
 
 Read the applicable supplement for detailed checks and qualified source evidence: [finishes and home use](../../references/tim-ho-finishes-and-home-use.md); [services and smart home](../../references/tim-ho-services-and-smart-home.md).
+
+
+For shoe storage, moving furniture, basin/overflow interfaces, material identification, emissions labels and privacy glazing, read [Mall design and product evidence](../../references/mall-home-design-and-product-evidence.md).

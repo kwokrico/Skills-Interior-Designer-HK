@@ -66,3 +66,5 @@ Load from parent references/ when needed (one hop):
 * [domain_terms.json](../../references/domain_terms.json) — vocabulary
 * [deliverables.md](../../references/templates/deliverables.md) — output catalog
 
+
+For office ceiling-void and shared-duct speech paths, coordinate the [Tim Ho office interfaces](../../references/tim-ho-project-coordination.md) with MEP; do not promise privacy from a full-height partition alone.

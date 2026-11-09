@@ -9,6 +9,8 @@ disable-model-invocation: true
 
 # interior-mep-clash-detection
 
+For RCP versus complete services, AV/data/power end-to-end checks and scope boundaries, read [drawing review](../../references/drawing-review-and-quantity-takeoff.md). For electrical/plumbing appointment and completion evidence, read [trade credentials](../../references/trade-credentials-and-service-evidence.md).
+
 For HK application of overseas textbook examples, read [Hong Kong adaptation](../../references/ching-hk-adaptation.md): accessibility/legal status, fire/stairs/barriers, daylight, services, energy, IAQ and certification. Confirm scope and edition before adopting a dimension or performance claim.
 
 For DECO-TV residential cooling/fan maintenance, small-repair compatibility or client/repair procurement questions relevant to this module, read [the applicable field supplement](../../references/deco-hvac-maintenance.md). Treat demonstrations as conditional observations; obtain actual system and contract evidence.

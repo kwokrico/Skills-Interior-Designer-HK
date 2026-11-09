@@ -8,6 +8,8 @@ disable-model-invocation: true
 
 # interior-site-supervision
 
+For survey baselines, drawing issue control and measurement RFIs, read [drawing review](../../references/drawing-review-and-quantity-takeoff.md); for responsible trades and inspection records, read [trade credentials](../../references/trade-credentials-and-service-evidence.md).
+
 For DECO-TV residential cooling/fan maintenance, small-repair compatibility or client/repair procurement questions relevant to this module, read [the applicable field supplement](../../references/deco-client-and-repair-procurement.md). Treat demonstrations as conditional observations; obtain actual system and contract evidence.
 
 For demolition release, common-route condition records, pre-concealment photographs/testing and paint interim inspection, load [residential stage inspections](references/residential-stage-inspections.md). Distinguish the inspection hold point from certification and owner photographs from permission to drill.

@@ -129,3 +129,11 @@ DECO-TV batch 4 (2026-11-08): added `deco-solder-evidence`, `deco-detector-and-a
 ## Tim Ho additions — 2026-11-08
 
 Scenarios 68–73 cover smart wiring/escape, unit bathrooms/fire doors, pressure/material evidence, split-trade insurance, privacy/accommodation and IAQ/protection. Added for future behavioural execution; JSON/link checks are structural verification only.
+
+Tim Ho batch 3 adds IDs 74–78: bathroom electrical/duct shortcuts, shelf/aquarium loads, bath-rim and pressure/ponding tests, stock/platform/handover evidence, and office/ceiling interfaces. These are added regression prompts, not executed behavioural results.
+
+
+Mr. Ken / 工程指南 review: scenarios 79–83 cover measurement basis, functional services, trade registration, MWIS and unsafe electrical transcript rules. Added for future behavioural evaluation; structural checks alone do not execute these prompts.
+
+
+Mall review adds scenarios 84–87: moving storage/load paths, product-label evidence, basin/privacy-glass distinctions and window/drawing misinterpretations. Structural validation does not constitute an executed behavioural evaluation.

@@ -156,3 +156,18 @@ Case 54 inspection found overlapping MF/LLF losses in the calculator. [Archived 
 111 supplied Markdown extracts: [per-file coverage and exclusions](../../Reference/TIM-HO-BATCH1-COVERAGE-2026-11-08.md), [snapshot hashes](../../Reference/TIM-HO-BATCH1-MANIFEST-2026-11-08.json). Sources are archived under [Reference/SS/Tim Ho 何偉立](<../../Reference/SS/Tim Ho 何偉立/>), preserving filenames and hierarchy; original download directories remain. Supplements: [services](tim-ho-services-and-smart-home.md), [finishes/home use](tim-ho-finishes-and-home-use.md), [project coordination](tim-ho-project-coordination.md). Review is of supplied text, not original video playback; cultural/personal topics, promotional promises, unsafe instructions and unintelligible specifications are excluded as recorded. [Official verification notes](../../Reference/SS/TIM-HO-batch1-verification-2026-11-08.md).
 
 Tim Ho follow-up: [13 further extracts and decisions](../../Reference/TIM-HO-BATCH2-COVERAGE-2026-11-08.md), [manifest](../../Reference/TIM-HO-BATCH2-MANIFEST-2026-11-08.json). Added missing waterproofing-record controls, concealed retained-item checks, appliance/receipt/service scope and entrance-door permission boundaries. Same archive hierarchy; original download folders retained.
+
+
+## Tim Ho batch 3 — 2026-11-09
+
+[206-file audit with archived source links](../../Reference/TIM-HO-BATCH3-COVERAGE-2026-11-09.md), [snapshot hashes](../../Reference/TIM-HO-BATCH3-MANIFEST-2026-11-09.json): 82 new extracts fully read, 124 exact duplicates checked against prior reviewed archives. Added wet-service/electrical boundaries, bath-rim and test interfaces, cabinet load/repair/sample checks, shipping/stock-hold evidence, handover records and commercial coordination to the three existing Tim Ho supplements. Supplied ASR text only; unsafe, promotional, cultural and uncertain numerical claims excluded as recorded. Archive remains Reference/SS/Tim Ho 何偉立; repeated copies preserved in redownloads-2026-11-09. Original download directories retained.
+
+
+## Mr. Ken / 工程指南 review, snapshot 2026-11-09
+
+47 extracts reviewed; completed 2026-11-10. Mr. Ken: 26 (one Sun-Renovation); 工程指南: 21; Tim Ho: empty. [Per-file archived sources and dispositions](../../Reference/MULTI-SOURCE-COVERAGE-2026-11-09.md) and [hash manifest](../../Reference/MULTI-SOURCE-MANIFEST-2026-11-09.json). Three corrupted originals have reviewed remakes and contribute no independent technical evidence. Added [drawing/quantity checks](drawing-review-and-quantity-takeoff.md) and [credential/service evidence](trade-credentials-and-service-evidence.md); retained existing safety gates. No video playback or unseen-drawing measurement claimed.
+
+
+## 裝修家 Mall — 2026-11-10
+
+[80-file coverage audit](../../Reference/MALL-COVERAGE-2026-11-10.md), [snapshot hashes](../../Reference/MALL-MANIFEST-2026-11-10.json): 64 distinct supplied extracts plus 16 exact playlist copies. Five unusable transcripts contribute no independent technical instruction. Added [Mall design/product checks](mall-home-design-and-product-evidence.md), with existing controls retained and unsupported claims excluded. Supplied text review only; archive hierarchy under Reference/SS/裝修家 Mall, original download directories retained.

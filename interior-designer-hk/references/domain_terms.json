@@ -133,5 +133,12 @@
   "VIP": "Vacuum insulation panel; require actual system evidence and installation limitations rather than textbook multipliers",
   "PCM": "Phase-change material; evaluate the actual product's thermal range, storage behaviour and assembly evidence",
   "裝修約章": "Private renovation expectation/communication framework discussed by DECO-TV; distinct from HKRG/HKEDCA. Obtain actual document/version and agreed incorporation; not law or automatic accreditation.",
-  "收口": "Finishing junction between joinery and adjacent surfaces, e.g. scribe/filler, trim or specified joint; agree detail and pricing inclusion."
+  "收口": "Finishing junction between joinery and adjacent surfaces, e.g. scribe/filler, trim or specified joint; agree detail and pricing inclusion.",
+  "REC": "Registered Electrical Contractor (EMSD); distinct from an individual REW",
+  "REW": "Registered Electrical Worker (EMSD); check full permitted work, grade, restrictions and validity",
+  "MWIS": "Mandatory Window Inspection Scheme (BD); notice-based prescribed inspection/repair",
+  "QP": "Qualified Person under the applicable statutory scheme; check actual qualification and scope",
+  "CIC": "Construction Industry Council; trade-test evidence and construction-worker registration are distinct from statutory electrical/plumbing authorisations",
+  "WR1": "Electrical Work Completion Certificate; distinguish from periodic-test WR2",
+  "WR2": "Electrical Periodic Test Certificate for applicable fixed installations"
 }

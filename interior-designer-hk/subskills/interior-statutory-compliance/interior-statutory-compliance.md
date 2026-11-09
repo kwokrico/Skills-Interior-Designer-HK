@@ -8,6 +8,8 @@ disable-model-invocation: true
 
 # interior-statutory-compliance
 
+For CIC versus statutory trade authorisation, REW/REC grades and renewal, WR1/WR2, and notice-based MWIS/QP checks, read [trade credentials and service evidence](../../references/trade-credentials-and-service-evidence.md).
+
 For HK application of overseas textbook examples, read [Hong Kong adaptation](../../references/ching-hk-adaptation.md): accessibility/legal status, fire/stairs/barriers, daylight, services, energy, IAQ and certification. Confirm scope and edition before adopting a dimension or performance claim.
 
 For old-flat lightwells, former balcony enclosures, irregular beams/walls, damp-wall linings or water-heater feasibility, load [old-flat survey risks](references/old-flat-survey-risks.md). Check approved records and professional assessment before altering or concealing uncertain conditions.
