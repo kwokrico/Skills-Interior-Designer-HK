@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-10",
+  "filesReviewed": 80,
+  "distinctHashes": 64,
+  "sourceHashesUnchanged": true,
+  "archiveCollisions": 0,
+  "newReferenceAndAuditLinksValid": true,
+  "evalJSONValid": true,
+  "evalCount": 87,
+  "behaviouralEvaluationsExecuted": false
+}

@@ -1,0 +1,49 @@
+{
+  "completed": "2026-11-09T16:04:16.627Z",
+  "localLinksChecked": 98,
+  "missingLocalLinks": [],
+  "evals": 83,
+  "uniqueEvalIds": true,
+  "newEvalIds": [
+    79,
+    80,
+    81,
+    82,
+    83
+  ],
+  "jsonParsed": true,
+  "routeChecks": [
+    {
+      "file": "interior-designer-hk/SKILL.md",
+      "hasNewReference": true
+    },
+    {
+      "file": "interior-designer-hk/subskills/interior-tendering-qa/interior-tendering-qa.md",
+      "hasNewReference": true
+    },
+    {
+      "file": "interior-designer-hk/subskills/interior-mep-clash-detection/interior-mep-clash-detection.md",
+      "hasNewReference": true
+    },
+    {
+      "file": "interior-designer-hk/subskills/interior-statutory-compliance/interior-statutory-compliance.md",
+      "hasNewReference": true
+    },
+    {
+      "file": "interior-designer-hk/subskills/interior-site-supervision/interior-site-supervision.md",
+      "hasNewReference": true
+    }
+  ],
+  "arithmetic": {
+    "partition": true,
+    "board": true,
+    "procurementPacks": true,
+    "markupMargin": true
+  },
+  "sourceRows": 47,
+  "archiveVerified": true,
+  "remainingSourceFiles": 0,
+  "behaviouralEvaluationsExecuted": false,
+  "pythonDispatcherExecuted": false,
+  "scope": "Targeted changed references/audit links and routes; pre-existing unrelated source-register links not included"
+}

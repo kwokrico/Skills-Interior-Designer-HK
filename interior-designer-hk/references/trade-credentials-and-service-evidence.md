@@ -1,0 +1,36 @@
+# Trade credentials and service evidence — Hong Kong
+
+Review basis: [47-file audit](../../Reference/MULTI-SOURCE-COVERAGE-2026-11-09.md), sources 26–46 from 工程指南, plus corrections to Mr. Ken services lessons. Official pages checked 2026-11-09; recheck when appointing or applying. Videos are learning prompts, not proof of eligibility or permission to work. Fees, grants, course availability, wages and travel directions are not maintained here.
+
+## Appointment evidence, not a generic “licence”
+
+Record contracting entity, responsible person, official registration number, permitted work, restrictions, expiry, evidence-check date, actual site supervision/testing responsibilities and required completion records. A course certificate, business registration, years employed or a person's title is not a substitute for the relevant authorisation. Reject borrowed signatures or nominal “掛牌” offered instead of the responsible person's required involvement.
+
+| Evidence | Check |
+|---|---|
+| CIC worker registration and trade-test evidence | Match the designated trade/division and registration category. 中工 commonly refers to semi-skilled and 大工 to skilled trade status; training/test evidence and registration are separate checks. These do not confer EMSD electrical registration or BD window-inspection authority. Check the current pathway rather than copying the videos' years or incentive amounts. [CIC registration requirements](https://www.cic.hk/en/registrations/construction-workers-regi/application). |
+| Electrical contractor and worker | Verify both REC and the responsible REW, actual permitted grade/type and validity. Individual REW status is not contractor registration. Commission installation/alteration/repair through the appropriate registered contractor and require the responsible worker's inspection/test evidence. [EMSD electrical-installation guidance](https://eld.emsd.gov.hk/eic/en/safety-messages/safetyb01.html). |
+| Plumbing | Verify the licensed plumber and the designated-person/approval requirements for the specific water-supply work; a course or generic handyman description is insufficient. Scope design, installation, supervision, pressure/leak testing, applicable water-quality evidence and meter/approval responsibilities. Do not treat every minor repair as the same application. [WSD maintenance guide](https://www.wsd.gov.hk/filemanager/en/share/pdf/FWPMGe_a.pdf) and [licensed plumber directory](https://www.esd.wsd.gov.hk/esd/aws/licensedPlumberDirectory/searchLicensedPlumber.do). |
+| MWIS window inspection | Verify a BD-qualified person and the actual notice/scope. The QP personally inspects; required repairs use the relevant registered contractor under QP supervision, followed by certification. An intermediate window trade test alone is not QP status. [BD procedures](https://www.bd.gov.hk/en/safety-inspection/mwis/procedures/index.html). |
+
+## Electrical scope, renewal and records
+
+EMSD distinguishes Grade A low-voltage work up to 400 A maximum demand, B up to 2,500 A, C low-voltage installations of any capacity, H high voltage, and R specified special installations. A/B can cover single or three phase; B/C do not mean high voltage. Check the full permitted work and restrictions on the individual's certificate, including special heater work, rather than using the letter alone. These are registration scopes, not household circuit ratings. [EMSD CPD Module 1](https://eld.emsd.gov.hk/cpd/uploads/media/67905165b8330/cpd-module-1-en.pdf).
+
+Application pathways depend on actual qualifications, training and evidenced experience. Five years' employment or passing a preparation course does not automatically grant registration. Use the [EMSD application route](https://www.emsd.gov.hk/en/electricity_safety/how_to_apply/registering_as_an_electrical_worker_for_electrical/) for current requirements; retain relevant work records and employer evidence rather than promising eligibility from a transcript.
+
+Before completion energisation, require inspection/testing and WR1 from the responsible REW/REC; retain it with scope, drawings and test records. WR1 is not optional merely because the work is residential. WR2 is the separate periodic-test route for applicable installations, not a universal five-year requirement for every home. [EMSD contractor notes](https://wcms.emsd.gov.hk/en/electricity_safety/publications/guidance_notes_guidelines/notes_for_registered_electrical_contractors/index.html).
+
+Track REW and REC expiry separately and plan renewal in the required 1–4 month window. REW renewal includes the prescribed CPD modules; a pending application is not proof of valid authority after expiry. [REW renewal notice](https://www.emsd.gov.hk/filemanager/tc/content_662/REW_renewal_notice.pdf) and [REC duties](https://www.emsd.gov.hk/filemanager/en/content_500/Notice_for_REC_%28Eng%29_rev_1.pdf). Do not copy the videos' historical fee concessions or promise automatic renewal.
+
+Do not convert exam transcripts into wiring instructions. In this batch, symbols, units, voltages, tolerances, trip-time inequalities and arithmetic are corrupted. Dedicated circuits are not “series wiring”; single phase is not “13 A”; poor cooling does not establish a refrigerant charge fault. Specify actual appliance input/load and let the qualified designer determine circuits, protection and supply requirements. No universal “above 6 kW requires three phase” purchasing rule. Reuse the existing [heater safety gate](compliance.md) and [HVAC fault/cleaning guidance](deco-hvac-maintenance.md).
+
+## Window and maintenance procurement
+
+MWIS is notice-based for selected eligible buildings. Once the preceding notice is complied with, a fresh notice for the same window must not be served before five years from the preceding notice; that is not automatic inspection of every window on each fifth anniversary. Check the actual notice and current rules. [BD MWIS overview](https://www.bd.gov.hk/en/safety-inspection/mwis/learn-more-about-MWIS/index.html).
+
+Agree inspection fee, access, defect evidence, itemised proposed repairs, approval and completion records separately. A “free inspection” is not proof that repair is necessary; a cheap signature is not evidence of inspection. Do not require repairs without findings, or accept paper-only certification. During window replacement, identify existing electrical/bonding interfaces and refer affected work to the REC/REW; do not prescribe earthing every metal window from a video.
+
+For AC cleaning, existing guidance already requires safe isolation, compatible cleaning, wastewater management and before/after operation. Add explicit responsibility for removal/refitting, lifting/access and outdoor-unit scope to the quote. Use the model and site assessment; no universal horsepower threshold for one-person handling, mandatory full dismantling of every service, or fixed cleaning/replacement economics.
+
+Medical/vaccine schedules and first-aid algorithms in source 27 are outside this design reference and are not adopted. Retain only the project-management need to identify trained first-aid provision and the site emergency arrangements through the safety team. Sources 42 and 45 are culture/career commentary, not construction-performance or career guarantees; personal customs cannot override safety or dimensional requirements.

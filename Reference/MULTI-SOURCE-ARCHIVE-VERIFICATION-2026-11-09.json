@@ -1,0 +1,297 @@
+{
+  "completed": "2026-11-10T00:03:56.4607507+08:00",
+  "filesMoved": 47,
+  "allHashesMatch": true,
+  "originalDirectoriesPreserved": [
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Mr. Ken",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\工程指南",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Mr. Ken\\裝修入門合集",
+    "C:\\Users\\Rico\\PycharmProjects\\Skills-Interior Designer-HK\\Reference\\Tim Ho 何偉立\\【家 Tim 百科】"
+  ],
+  "remainingFiles": [],
+  "files": [
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken--rp2_96OGeY.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken--rp2_96OGeY.md",
+      "sha256": "59d86d76c1ec87e3d2851814747ee1b01a511da541fe4d1b6ef42b9d0512ca5e",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-aBExkSzxwo4.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-aBExkSzxwo4.md",
+      "sha256": "0334a05b45d61758a72ffef890a967f91146b0f6b151eb9f1e3981fdeabdf1d9",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-Af85ZUgiJBM.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-Af85ZUgiJBM.md",
+      "sha256": "1fb1af8a3297b73a1e41c64038cdef5a6672d5bbf5b3b91287a888f9ae9458af",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-b3qNi7pRjdY.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-b3qNi7pRjdY.md",
+      "sha256": "089afdee3f5c1bbc40d1bfe0a5c2d0e846c7e9fa4bfded61f4f0c3785343ce64",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-BXfhoUI9iDk.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-BXfhoUI9iDk.md",
+      "sha256": "547ceaea60c24125de1bc382c04972d4de9fc46e2e93e780a6387663ea64b669",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-CbbZhJ8PDQs.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-CbbZhJ8PDQs.md",
+      "sha256": "bbc2558364d8a340979b6b0fb5ce39324c65aed48bbcf9208d210a2342f6037c",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-DLfF0e_nYmM.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-DLfF0e_nYmM.md",
+      "sha256": "0d5eab1c1119b62f84e373b2c6640c4e7ee02eb11117daf4d2d1ae621a4497df",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-FeJ7AJhN-NI.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-FeJ7AJhN-NI.md",
+      "sha256": "dafea343191b73b55d04eb1424838405f8fb101af059f3ffcef5466b7fdea594",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-fFejqjylEvg.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-fFejqjylEvg.md",
+      "sha256": "f3651119152c6c359d28488a037c73b25ee099dd348aaddaa48324c7409d98c9",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-g1c5pkljlX8.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-g1c5pkljlX8.md",
+      "sha256": "b7355722dd80170631fb05c92b818a8931e3815cd4e17f46bb6d362687c59843",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-hpNRCU02ARo.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-hpNRCU02ARo.md",
+      "sha256": "7fbc29a41e077ffc58040ca8dbcf5d97c2346f253a25da75d82eb866cbf7791a",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-i-xTwy5W3ZI.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-i-xTwy5W3ZI.md",
+      "sha256": "44374505793a6d187b53966a216b18c456713cf843e355909b5d1199e028725a",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-Kxie27h3g10.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-Kxie27h3g10.md",
+      "sha256": "0b4ee88441abdeab863cd4facc1b7ac32a5b644d4f64f34e0e618ef683653f75",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-LIhtCs6CcR4.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-LIhtCs6CcR4.md",
+      "sha256": "9cfb110715bf526eec07b565ad97b7e75e2c4e77e2ae1124cc57c4f7d49ebe1a",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-n9rAYTkAiwo.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-n9rAYTkAiwo.md",
+      "sha256": "971642d5b7d5cebe2f72319ae076a4a7f9050620bd10b204a54ddb769d5e899c",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-NQdfWxYUM-s.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-NQdfWxYUM-s.md",
+      "sha256": "573f2f22a33fbe97556f160161c78f9b7533a384048687b10ae3f2200c9257a9",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-O32MeEbPWbg.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-O32MeEbPWbg.md",
+      "sha256": "b7012a533e82f051cf811e6766b76650aa8b8cb0fc40c569c8dc90a75eff905f",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-qlt15Dr9cvs.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-qlt15Dr9cvs.md",
+      "sha256": "a66bf0ec2614f20b0a8fa4f69bf9369367238aa8fed6f39dc41f4de9caa04ea1",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-sIXlmnkm0fY.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-sIXlmnkm0fY.md",
+      "sha256": "c4ab757c5696834ccb8494f0807801b8d1dbed68dccc6e85d1d0ea68ddb0cecb",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-TCrgfDoVzkI.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-TCrgfDoVzkI.md",
+      "sha256": "b43869365449938bf7b8950439709ffb85a6b592b5b88e972d1f3164815456bf",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-tIAikdjTdas.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-tIAikdjTdas.md",
+      "sha256": "f7f456e3b830ea6bb0bb65dfd925577cb7d7bee9a13182505f48fc6e42b9dcb5",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-vXwd0av0Lug.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-vXwd0av0Lug.md",
+      "sha256": "28ebb80cfb3622665c9f7f555c9e707a72d07ab3a22578abec4c62fe274497ff",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-XVvkPxP6A4Q.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-XVvkPxP6A4Q.md",
+      "sha256": "2c9c7b7724934bb561bf8ba2e24b646be024e210ced966de6b2d76cbcacbd208",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-z0SpDZ1-UeA.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-z0SpDZ1-UeA.md",
+      "sha256": "fc94c83992c1b574d935c77517fca50764b58f6ef7d57f480a27a9a7a1e1f452",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-ZGIVpCxZ844.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-mr-ken-ZGIVpCxZ844.md",
+      "sha256": "30872ff272bf213c8bea81f899e954fae6a1df698eabdfab8b0cbdfb56865214",
+      "verified": true
+    },
+    {
+      "source": "Reference/Mr. Ken/裝修入門合集/2026-11-09-sun-renovation-5LywkCe0gJI.md",
+      "archive": "Reference/SS/Mr. Ken/裝修入門合集/2026-11-09-sun-renovation-5LywkCe0gJI.md",
+      "sha256": "9b1534dbe9427693b329e7d481975a8c955ac250a78f91192377ba77b561214e",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown--qjhFf56v5Y.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown--qjhFf56v5Y.md",
+      "sha256": "6c8a20cefba0a9ab0569edb25e97eef9906f9386d56256ebb0af93703e501126",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown--YGywtTLqi8.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown--YGywtTLqi8.md",
+      "sha256": "417cfe0d9f78f7cf3d2dd63bd82451717fb194c198480f5c0c912bc8f0c95ef2",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-0iR8X9H_wvg.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-0iR8X9H_wvg.md",
+      "sha256": "477c8df0d64ef8f8deea009b05478b5084c910791047e7b8ba48a683ade9c235",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-9ldgVRFbvWU.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-9ldgVRFbvWU.md",
+      "sha256": "6ae8b28c6d1c82491664c28e8caac097ce29f80c2b32d4826e9aff85ee4fdf36",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-exS8B3OjFdU.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-exS8B3OjFdU.md",
+      "sha256": "fec358e8526150d3a88bebd2882528d4d01a6e18a25f036dcde93d4fac5a2142",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-EzxLIgLGoJU.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-EzxLIgLGoJU.md",
+      "sha256": "ec45394658f490208aa4c14b24503fc259ed8a1187a82e30160141ad5a730ed2",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-GjbbXwEyxvc.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-GjbbXwEyxvc.md",
+      "sha256": "1145f745c2fe3aa3367671bc29bd2d55454ef233f1f1aa520300cf0ffa04a670",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-iUNpVgZvY0Y.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-iUNpVgZvY0Y.md",
+      "sha256": "1937196f1e7bf7e8ca1742d9324cd5841522ac0b67381991cd3597806443966c",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-lWyb5UgKONc.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-lWyb5UgKONc.md",
+      "sha256": "4a82dff542c34cbf740d91c16326a212ff6165d4e4ffa313c1c9669d26a512e6",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-MHdcW0fV45U.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-MHdcW0fV45U.md",
+      "sha256": "7126b469393ff35b5cbff58401ce4c28d297e2d4ffd17d0587a2426aaa2746e0",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-ohsMjvxpcgg.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-ohsMjvxpcgg.md",
+      "sha256": "b8031f515d9e21a5022a45937b449910d78ebed1723d7707b98453abbef6e0b3",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-qiqHMbIfh0E.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-qiqHMbIfh0E.md",
+      "sha256": "5e46ab3fa8a377bb446af4b4c82981847c9428479e237beaf57d153388c85699",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-SAYXv13J0Ho.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-SAYXv13J0Ho.md",
+      "sha256": "bc56af7335f713c6ee6498201694c919204928210f0b7352bae6b5a7143ca530",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-vIpD2Ho9400.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-vIpD2Ho9400.md",
+      "sha256": "0555634f2e327c4121f488eacb6c5649eac58ce9b1dc9be41e82261a919577e8",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-ws1T43q1I4w.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-ws1T43q1I4w.md",
+      "sha256": "156f0d4ce817b955d13804b803c8b03bae861889b85936afa123bcdb63f53b09",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-wv8FFZWZXFg.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-wv8FFZWZXFg.md",
+      "sha256": "4eea259a20e8713879cfab6c0b4f87a0d7b49d95b692a38bfe5a9dd68896bf1a",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-xABd62jOtLs.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-xABd62jOtLs.md",
+      "sha256": "9e3b3177d6e7a34a96c3c4dd30925cd0eba8d6ee7588bfd91d03e3f02cfbddc2",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-xFzTfrCiF7w.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-xFzTfrCiF7w.md",
+      "sha256": "4d723e35ed5350d4a8f4c41636f0b177ba649f1bef883b97424470aad75af4ce",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-XqR0NZQfZMM.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-XqR0NZQfZMM.md",
+      "sha256": "aff6344b3ed3bad0dc1dd2e7d70eff023ea4f8e7b13422a8311b798c15134396",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-ZtldfzGSgvk.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-ZtldfzGSgvk.md",
+      "sha256": "edadba4051773c46306b6d13a35aa9f1b778a1437bad7302be246a23cd2150ff",
+      "verified": true
+    },
+    {
+      "source": "Reference/工程指南/2026-11-09-unknown-zxqu9V3AdGY.md",
+      "archive": "Reference/SS/工程指南/2026-11-09-unknown-zxqu9V3AdGY.md",
+      "sha256": "ff55716e23ae9ab1ac707d8647b0c0ecf30d25fa156f305018dc3e93fa5f0171",
+      "verified": true
+    }
+  ]
+}
